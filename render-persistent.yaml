@@ -3,6 +3,9 @@ services:
     name: explore-india-kiran
     runtime: docker
     healthCheckPath: /api/health
+    envVars:
+      - key: ADMIN_PASSWORD
+        sync: false
     disk:
       name: explore-india-data
       mountPath: /app/data
