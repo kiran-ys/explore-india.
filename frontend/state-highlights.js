@@ -24,7 +24,7 @@ window.stateHighlights={
   "andaman-nicobar":["Radhanagar Beach","Cellular Jail","Swaraj Dweep","Shaheed Dweep","Baratang Island"],
   "chandigarh":["Rock Garden","Sukhna Lake","Zakir Hussain Rose Garden","Capitol Complex","Government Museum and Art Gallery"],
   "dadra-nagar-haveli-daman-diu":["Diu Fort","Nagoa Beach","Silvassa","Jampore Beach","Vanganga Lake"],
-  "karnataka":["Hampi","Mysuru","Coorg (Kodagu)","Gokarna","Chikkamagaluru"],
+  "karnataka":["Hampi","Mysuru","Coorg (Kodagu)","Gokarna","Chikkamagaluru","Bengaluru","Badami","Pattadakal","Aihole","Jog Falls","Udupi","Murudeshwar","Kabini","Bandipur National Park","Dandeli","Sringeri","Belur","Halebidu","Shivamogga","Bheemeshwari","Kudremukh","Sakleshpur","Nandi Hills","Vijayapura","Chitradurga","Agumbe"],
   "kerala":["Alappuzha","Munnar","Kochi","Wayanad","Thekkady"],
   "tamil-nadu":["Chennai","Mahabalipuram","Madurai","Ooty","Kodaikanal"],
   "goa":["Panaji","Old Goa","Palolem","Dudhsagar Falls","Anjuna"],
