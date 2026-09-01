@@ -42,7 +42,7 @@ npm test
 
 ## Deploy
 
-The project includes a production Docker configuration and a Render Blueprint (`render.yaml`). The service needs a persistent disk mounted at `/app/data`; it stores accounts, reviews, enquiries and trip plans in SQLite. Set `ADMIN_PASSWORD` as a private environment variable in the hosting provider before the first start.
+The project includes a production Docker configuration and a free Render Blueprint (`render.yaml`). It publishes the full application for demonstration, but the free service does not preserve SQLite data after restarts. `render-persistent.yaml` is available for a paid persistent disk mounted at `/app/data`; it keeps accounts, reviews, enquiries and trip plans. Set `ADMIN_PASSWORD` as a private environment variable in the hosting provider before the first start.
 
 Do not deploy this full-stack version to static-only hosting such as GitHub Pages: the API and database are required for sign-in, saved destinations, reviews and enquiries.
 
