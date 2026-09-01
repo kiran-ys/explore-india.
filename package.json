@@ -1,0 +1,14 @@
+{
+  "name": "explore-india",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Explore India tourism discovery and trip-planning platform",
+  "scripts": {
+    "dev": "node --watch backend/server.js",
+    "start": "node backend/server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=24" },
+  "dependencies": { "express": "5.1.0" }
+}

@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: explore-india-kiran
+    runtime: docker
+    healthCheckPath: /api/health
+    disk:
+      name: explore-india-data
+      mountPath: /app/data
+      sizeGB: 1
