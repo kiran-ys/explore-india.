@@ -42,7 +42,7 @@ npm test
 
 ## Deploy
 
-The project includes a production Docker configuration and a free Render Blueprint (`render.yaml`). It publishes the full application for demonstration, but the free service does not preserve SQLite data after restarts. `render-persistent.yaml` is available for a paid persistent disk mounted at `/app/data`; it keeps accounts, reviews, enquiries and trip plans. Set `ADMIN_PASSWORD` as a private environment variable in the hosting provider before the first start.
+The project includes a production Docker configuration and a free Render Blueprint (`render.yaml`). It publishes the full application for demonstration, but the free service does not preserve SQLite data after restarts. `render-persistent.yaml` is available for a paid persistent disk mounted at `/app/data`; it keeps accounts, reviews, enquiries and trip plans. Set `ADMIN_EMAIL` and `ADMIN_PASSWORD` as private environment variables in the hosting provider before the first start.
 
 Do not deploy this full-stack version to static-only hosting such as GitHub Pages: the API and database are required for sign-in, saved destinations, reviews and enquiries.
 
@@ -59,7 +59,7 @@ Do not deploy this full-stack version to static-only hosting such as GitHub Page
 - `GET /api/auth/me`
 - `GET /api/admin/summary`
 
-For the local demonstration, the seeded administrator account is `admin@exploreindia.local` with password `ExploreIndia@2026`. Set `ADMIN_PASSWORD` before the first application start to use a different initial administrator password.
+Administrator access is created only from private `ADMIN_EMAIL` and `ADMIN_PASSWORD` environment variables. Do not place administrator credentials in source code or documentation.
 
 The local database is created at `backend/data/explore-india.db` and is intentionally excluded from version control.
 

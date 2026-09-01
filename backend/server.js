@@ -35,8 +35,11 @@ try {
 }
 db.exec("PRAGMA optimize");
 
-const demoAdminEmail = "admin@exploreindia.local";
-const demoAdminPassword = process.env.ADMIN_PASSWORD || "ExploreIndia@2026";
+const adminEmail = String(process.env.ADMIN_EMAIL || "").trim().toLowerCase();
+const adminPassword = String(process.env.ADMIN_PASSWORD || "");
+if (process.env.NODE_ENV === "production" && (!adminEmail || adminPassword.length < 10)) {
+  throw new Error("Set ADMIN_EMAIL and an ADMIN_PASSWORD of at least 10 characters before starting in production.");
+}
 const passwordHash = password => {
   const salt = randomBytes(16).toString("hex");
   return `${salt}:${scryptSync(password, salt, 64).toString("hex")}`;
@@ -48,8 +51,8 @@ const passwordMatches = (password, stored) => {
 };
 const hashToken = token => createHash("sha256").update(token).digest("hex");
 const publicUser = user => ({ id: user.id, name: user.name, email: user.email, role: user.role });
-if (!db.prepare("SELECT 1 FROM users WHERE email = ?").get(demoAdminEmail)) {
-  db.prepare("INSERT INTO users (name, email, password_hash, role) VALUES (?, ?, ?, 'admin')").run("Explore India Admin", demoAdminEmail, passwordHash(demoAdminPassword));
+if (adminEmail && adminPassword.length >= 10 && !db.prepare("SELECT 1 FROM users WHERE email = ?").get(adminEmail)) {
+  db.prepare("INSERT INTO users (name, email, password_hash, role) VALUES (?, ?, ?, 'admin')").run("Explore India Administrator", adminEmail, passwordHash(adminPassword));
 }
 
 export const app = express();
@@ -259,6 +262,7 @@ app.patch("/api/admin/destinations/:id", requireAdmin, (request, response) => {
 
 app.use(express.static(frontendDir, { extensions: ["html"] }));
 app.use("/api", (_request, response) => response.status(404).json({ error: "API route not found." }));
+app.use((_request, response) => response.status(404).sendFile(join(frontendDir, "404.html")));
 app.use((error, _request, response, _next) => { console.error(error); response.status(500).json({ error: "An unexpected server error occurred." }); });
 
 const isEntryPoint = process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href;
