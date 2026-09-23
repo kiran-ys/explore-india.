@@ -1,0 +1,1892 @@
+{
+  "andhra-pradesh": [
+    {
+      "name": "Tirupati",
+      "category": "Faith",
+      "description": "A pilgrimage city below the Tirumala hills, associated with the Venkateswara temple. Temple visits require separate planning through the official temple service.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/andhra-pradesh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Araku Valley",
+      "category": "Nature",
+      "description": "An Eastern Ghats valley known for coffee cultivation and hill scenery. Tribal museums introduce local communities; village visits should respect residents and their privacy.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/andhra-pradesh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Visakhapatnam",
+      "category": "Coast",
+      "description": "A port city with a long beachfront and maritime museums. The coastal promenade and nearby hills offer a different experience from the inland temple towns.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/andhra-pradesh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Lepakshi",
+      "category": "Heritage",
+      "description": "The Veerabhadra temple is known for Vijayanagara-era pillars and murals, with a monumental Nandi nearby. Look closely at the carved stone details.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/andhra-pradesh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Gandikota",
+      "category": "Nature",
+      "description": "A fort settlement above the rocky gorge of the Pennar River. The view combines river-cut terrain with surviving gateways and historic buildings.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/andhra-pradesh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "arunachal-pradesh": [
+    {
+      "name": "Tawang Monastery",
+      "category": "Faith",
+      "description": "A major Gelug Buddhist monastery overlooking Tawang. The assembly hall and hillside setting offer an introduction to Monpa religious life.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/arunachal-pradesh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Ziro Valley",
+      "category": "Culture",
+      "description": "An inhabited highland valley associated with Apatani communities and distinctive farming landscapes. Explore with local knowledge and ask before photographing residents.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/arunachal-pradesh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Dirang",
+      "category": "Nature",
+      "description": "A mountain town on the western Arunachal route, with a historic village and valley scenery. It can form a separate stop between lower hills and Tawang.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/arunachal-pradesh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Namdapha National Park",
+      "category": "Wildlife",
+      "description": "A forest reserve in eastern Arunachal with habitats ranging from lowland rainforest to mountains. Entry and guided visits must be arranged through current park information.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/arunachal-pradesh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Mechuka",
+      "category": "Culture",
+      "description": "A mountain valley with Buddhist heritage and traditional settlements near the Tibetan border. Check current route and entry requirements before planning.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/arunachal-pradesh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "assam": [
+    {
+      "name": "Kaziranga National Park",
+      "category": "Wildlife",
+      "description": "Floodplain grasslands support the Indian one-horned rhinoceros and many bird species. Safari access depends on the park season and conditions.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/assam",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Majuli",
+      "category": "Culture",
+      "description": "A Brahmaputra river island associated with Vaishnavite satras, mask making and performance. Ferry journeys and visits to monasteries need local planning.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/assam",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Sivasagar",
+      "category": "Heritage",
+      "description": "A former Ahom capital with tanks, temples and royal monuments, including Rang Ghar. Its architecture tells a different chapter of Assam from the tea estates.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/assam",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Manas National Park",
+      "category": "Wildlife",
+      "description": "A Himalayan foothill landscape of forest and grassland on the Bhutan border. Consult park authorities about permitted zones and seasonal access.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/assam",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Sualkuchi",
+      "category": "Craft",
+      "description": "A weaving town beside the Brahmaputra, known for Assamese silk textiles. Arrange a workshop visit to understand the work behind a finished garment.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/assam",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "bihar": [
+    {
+      "name": "Bodh Gaya",
+      "category": "Faith",
+      "description": "The Mahabodhi Temple complex marks the place associated with the Buddha’s enlightenment. Monasteries from several Buddhist traditions surround the pilgrimage town.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/bihar",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Nalanda",
+      "category": "Heritage",
+      "description": "The remains of a monastic university preserve brick courtyards, shrines and teaching spaces. A museum visit helps interpret the archaeological site.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/bihar",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Rajgir",
+      "category": "Heritage",
+      "description": "A hill-ringed town connected with Buddhist and Jain history. Its sacred sites and archaeological remains reward a slower visit across several locations.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/bihar",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Vaishali",
+      "category": "Heritage",
+      "description": "An ancient settlement linked with Buddhist and Jain traditions, including the Ashokan pillar at Kolhua. Interpret the dispersed archaeological sites with a guide.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/bihar",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Patna Sahib",
+      "category": "Faith",
+      "description": "Takht Sri Harmandir Sahib commemorates the birthplace of Guru Gobind Singh. Observe the gurdwara’s head-covering and visiting customs.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/bihar",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "chhattisgarh": [
+    {
+      "name": "Chitrakote Falls",
+      "category": "Nature",
+      "description": "A broad waterfall on the Indravati River near Jagdalpur. Its flow and appearance vary substantially between monsoon and dry months.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/chhattisgarh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Kanger Valley National Park",
+      "category": "Wildlife",
+      "description": "A forested protected area near Jagdalpur with limestone caves and diverse habitats. Cave and forest visits require current local access information.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/chhattisgarh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Sirpur",
+      "category": "Heritage",
+      "description": "An archaeological settlement on the Mahanadi with Buddhist, Hindu and Jain remains. The brick Lakshmana Temple is a prominent surviving monument.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/chhattisgarh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Bhoramdeo Temple",
+      "category": "Heritage",
+      "description": "A carved temple near Kawardha, set against wooded hills. The stone sculptures are its main draw; it remains a place of worship.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/chhattisgarh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Kondagaon",
+      "category": "Craft",
+      "description": "A Bastar craft centre associated with bell-metal casting and other artisan work. Meet makers through an arranged workshop visit rather than treating homes as exhibits.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/chhattisgarh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "goa": [
+    {
+      "name": "Fontainhas",
+      "category": "Heritage",
+      "description": "Panaji’s historic quarter has colourful houses, narrow lanes and Indo-Portuguese architecture. It is a residential neighbourhood, so keep photography respectful.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/goa",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Basilica of Bom Jesus",
+      "category": "Faith",
+      "description": "A major church in Old Goa, associated with the relics of St Francis Xavier. Its architectural and religious significance extends beyond a quick photo stop.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/goa",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Palolem",
+      "category": "Coast",
+      "description": "A curved beach in South Goa with a village and palm-lined shore. Sea conditions and activity availability change with the season.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/goa",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Dudhsagar Falls",
+      "category": "Nature",
+      "description": "A high waterfall in the forested Western Ghats. Visit only through currently authorised access arrangements; railway tracks are not a visitor walking route.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/goa",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Reis Magos Fort",
+      "category": "Heritage",
+      "description": "A restored fort overlooking the Mandovi near Panaji. Its elevated courtyards give context to Goa’s river defences.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/goa",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "gujarat": [
+    {
+      "name": "Rani ki Vav",
+      "category": "Heritage",
+      "description": "An elaborate stepwell in Patan with sculpted galleries descending into the earth. Look for the relationship between water architecture and religious imagery.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/gujarat",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Modhera Sun Temple",
+      "category": "Heritage",
+      "description": "A temple complex known for its stepped tank, assembly hall and carved stonework. The layout links sacred architecture with the movement of sunlight.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/gujarat",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Gir National Park",
+      "category": "Wildlife",
+      "description": "The forest landscape associated with the Asiatic lion. Wildlife sightings are never guaranteed and entry should be booked through authorised channels.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/gujarat",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "White Rann of Kutch",
+      "category": "Nature",
+      "description": "A seasonal salt-desert landscape near Dhordo. Surface conditions, access and the experience of the white salt plain depend on the time of year.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/gujarat",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Champaner-Pavagadh",
+      "category": "Heritage",
+      "description": "An archaeological landscape of mosques, fortifications and sacred hills. The dispersed monuments need more time than a single viewpoint stop.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/gujarat",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "haryana": [
+    {
+      "name": "Brahma Sarovar",
+      "category": "Faith",
+      "description": "A large sacred tank at Kurukshetra with ghats and temples around its edge. It is a focus of pilgrimage and religious gatherings.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/haryana",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Sultanpur National Park",
+      "category": "Wildlife",
+      "description": "A wetland bird habitat near Gurugram. Birdlife changes by season; quiet observation and binoculars are more useful than approaching birds.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/haryana",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Pinjore Gardens",
+      "category": "Heritage",
+      "description": "Terraced gardens also known as Yadavindra Gardens, with water channels and pavilions. They illustrate a Mughal-style garden layout at the foothills.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/haryana",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Morni Hills",
+      "category": "Nature",
+      "description": "Low hills and lakes in the Panchkula district. This landscape offers a quieter rural excursion from the plains.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/haryana",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Surajkund",
+      "category": "Craft",
+      "description": "A historic reservoir area near Faridabad, also associated with the annual crafts fair. The fair is a dated event rather than a year-round market.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/haryana",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "himachal-pradesh": [
+    {
+      "name": "Shimla",
+      "category": "Heritage",
+      "description": "A hill city with colonial-era buildings and pedestrian areas around the Ridge and Mall. Allow for steep walking routes and busy traffic approaches.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/himachal-pradesh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Manali",
+      "category": "Nature",
+      "description": "A Kullu Valley town beside the Beas, with nearby villages and mountain landscapes. Road and activity conditions vary sharply between seasons.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/himachal-pradesh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Dharamshala",
+      "category": "Culture",
+      "description": "A Dhauladhar foothill destination including McLeod Ganj, with Tibetan cultural institutions and monasteries. Visit religious spaces with respect for local practice.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/himachal-pradesh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Spiti Valley",
+      "category": "Nature",
+      "description": "A high-altitude cold-desert valley with villages and monasteries such as Tabo and Key. Distance, altitude and seasonal road access require a separate, slower itinerary.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/himachal-pradesh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Great Himalayan National Park",
+      "category": "Wildlife",
+      "description": "A protected mountain landscape in the Kullu region. Treks require appropriate permission, equipment and knowledgeable local support.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/himachal-pradesh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "jharkhand": [
+    {
+      "name": "Dassam Falls",
+      "category": "Nature",
+      "description": "A waterfall on the Kanchi River near Ranchi. Use designated viewpoints and heed barriers around the fast water and slippery rock.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/jharkhand",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Betla National Park",
+      "category": "Wildlife",
+      "description": "A forest reserve in the Palamu landscape. Arrange authorised park access and keep expectations about animal sightings realistic.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/jharkhand",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Deoghar",
+      "category": "Faith",
+      "description": "A pilgrimage town centred on the Baidyanath temple complex. Religious calendars strongly affect crowds and accommodation demand.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/jharkhand",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Netarhat",
+      "category": "Nature",
+      "description": "A plateau hill station known for forested surroundings and broad sunrise and sunset viewpoints. The slower road journey is part of planning a visit.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/jharkhand",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Parasnath Hill",
+      "category": "Faith",
+      "description": "A major Jain pilgrimage hill, also known as Shikharji. The route is a religious journey, and local customs should guide visitor behaviour.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/jharkhand",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "karnataka": [
+    {
+      "name": "Hampi",
+      "category": "Heritage",
+      "description": "Vijayanagara ruins spread across a boulder-filled landscape by the Tungabhadra. The Vittala complex, royal enclosure and living temple streets need more than one short stop.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/karnataka",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Mysuru",
+      "category": "Heritage",
+      "description": "A royal city known for its palace, markets and Dasara traditions. Silk, sandalwood craft and local food add context beyond the palace visit.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/karnataka",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Kodagu",
+      "category": "Nature",
+      "description": "A Western Ghats district of coffee-growing hills and Kodava heritage. Stay-based exploration works better than trying to cross the whole district in one day.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/karnataka",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Gokarna",
+      "category": "Coast",
+      "description": "A pilgrimage town on the Arabian Sea, with temples and several distinct beaches. Respect temple customs and check local sea and walking conditions.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/karnataka",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Chikkamagaluru",
+      "category": "Nature",
+      "description": "A coffee-growing hill district with estate landscapes and mountain viewpoints. Plantation visits should be arranged with the property rather than assumed to be public.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/karnataka",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Bengaluru",
+      "category": "City",
+      "description": "Karnataka’s capital combines gardens, markets, museums and contemporary creative life. Explore a neighbourhood at a time to allow for urban travel time.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/karnataka",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Badami",
+      "category": "Heritage",
+      "description": "Sandstone cave temples overlook a tank and rugged cliffs. The carvings introduce early Chalukya religious art and architecture.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/karnataka",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Pattadakal",
+      "category": "Heritage",
+      "description": "A group of early Chalukya temples showing different architectural forms together. It pairs naturally with Badami and Aihole on a heritage circuit.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/karnataka",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Aihole",
+      "category": "Heritage",
+      "description": "A village with numerous early temples, associated with experiments in Chalukya architecture. The sites are dispersed rather than a single building.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/karnataka",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Jog Falls",
+      "category": "Nature",
+      "description": "The Sharavathi drops over a steep escarpment in multiple streams. Water volume varies with rainfall and water releases; photographs do not predict a visit’s conditions.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/karnataka",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Udupi",
+      "category": "Faith",
+      "description": "A coastal temple town known for its Krishna temple and vegetarian culinary traditions. Nearby beaches are separate excursions from the old town.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/karnataka",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Murudeshwar",
+      "category": "Coast",
+      "description": "A coastal temple settlement recognised for its towering gateway and Shiva statue. It combines pilgrimage with a dramatic seafront setting.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/karnataka",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Bandipur National Park",
+      "category": "Wildlife",
+      "description": "A protected forest landscape in the Nilgiri Biosphere region. Book only authorised wildlife visits and follow park rules.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/karnataka",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Dandeli",
+      "category": "Nature",
+      "description": "A forest-and-river destination around the Kali. Rafting and other activities depend on operating permissions, water conditions and qualified operators.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/karnataka",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Sringeri",
+      "category": "Faith",
+      "description": "A temple town on the Tunga River associated with the Sharada Peetham. The riverfront and Vidyashankara Temple are central to a respectful visit.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/karnataka",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Belur",
+      "category": "Heritage",
+      "description": "The Chennakeshava Temple is known for intricate Hoysala stone carving. Study the sculpted figures and friezes with time for detail.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/karnataka",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Halebidu",
+      "category": "Heritage",
+      "description": "The Hoysaleswara Temple preserves richly carved walls from the Hoysala period. Belur and Halebidu are separate nearby stops, not names for one monument.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/karnataka",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Sakleshpur",
+      "category": "Nature",
+      "description": "A Western Ghats town surrounded by plantations and hills. Choose authorised estate trails and local routes suited to the weather.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/karnataka",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Nandi Hills",
+      "category": "Nature",
+      "description": "A hilltop excursion north of Bengaluru with viewpoints and historic remains. Weekend access and crowd arrangements should be checked locally.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/karnataka",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Vijayapura",
+      "category": "Heritage",
+      "description": "A Deccan city known for Adil Shahi architecture, including Gol Gumbaz and Ibrahim Rauza. The monuments tell a distinct chapter of Karnataka’s history.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/karnataka",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Chitradurga",
+      "category": "Heritage",
+      "description": "A hill fort with stone gateways, defensive walls and rocky terrain. Walking involves exposed sections and uneven steps.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/karnataka",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Agumbe",
+      "category": "Nature",
+      "description": "A rainforest settlement on the Western Ghats escarpment. Guided local exploration offers a better understanding of the habitat than wildlife disturbance.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/karnataka",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "kerala": [
+    {
+      "name": "Alappuzha",
+      "category": "Nature",
+      "description": "A gateway to canals and backwaters, where village life is closely connected with water. Compare licensed boat options and understand the planned route.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/kerala",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Munnar",
+      "category": "Nature",
+      "description": "A highland town surrounded by tea estates and mountain landscapes. Tea heritage and viewpoints can be explored without assuming every estate is open to visitors.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/kerala",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Fort Kochi",
+      "category": "Heritage",
+      "description": "A historic port quarter with layered trading history, places of worship and a waterfront. Walking reveals the neighbourhood’s cultural mix.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/kerala",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Wayanad",
+      "category": "Nature",
+      "description": "A hill district with forests, agricultural landscapes and archaeological sites such as Edakkal. Treat each attraction as a separate journey across the district.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/kerala",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Bekal Fort",
+      "category": "Heritage",
+      "description": "A coastal fort in Kasaragod, with walls facing the Arabian Sea. Its sea views complement the architecture rather than replacing its historical context.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/kerala",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "madhya-pradesh": [
+    {
+      "name": "Khajuraho",
+      "category": "Heritage",
+      "description": "A group of medieval temples celebrated for their sculptural detail. The temples include varied religious and everyday subjects across their stone surfaces.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/madhya-pradesh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Sanchi",
+      "category": "Heritage",
+      "description": "A Buddhist monument complex with stupas, gateways and monastic remains. The carved gateways are valuable guides to early narrative art.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/madhya-pradesh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Bhimbetka",
+      "category": "Heritage",
+      "description": "Rock shelters preserve traces of long human occupation and paintings from different periods. Stay on permitted routes to protect the archaeological surfaces.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/madhya-pradesh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Kanha National Park",
+      "category": "Wildlife",
+      "description": "A central Indian forest-and-grassland reserve with important barasingha habitat. Safari timing and access depend on park operations.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/madhya-pradesh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Orchha",
+      "category": "Heritage",
+      "description": "A riverside town of Bundela palaces, temples and cenotaphs on the Betwa. Its monuments can be understood together as a former royal capital.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/madhya-pradesh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "maharashtra": [
+    {
+      "name": "Mumbai",
+      "category": "City",
+      "description": "A coastal metropolis whose neighbourhoods connect port history, cinema, markets and contemporary life. Group nearby sights to reduce cross-city travel.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/maharashtra",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Ajanta Caves",
+      "category": "Heritage",
+      "description": "Buddhist rock-cut caves known for paintings and sculpture. Observe photography and lighting restrictions that help preserve the interiors.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/maharashtra",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Ellora Caves",
+      "category": "Heritage",
+      "description": "Rock-cut Buddhist, Hindu and Jain monuments include the monumental Kailasa temple. The complex extends across a large site.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/maharashtra",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Raigad Fort",
+      "category": "Heritage",
+      "description": "A hill fort closely associated with Chhatrapati Shivaji Maharaj. Its remains and landscape have strong historical significance in Maharashtra.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/maharashtra",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Tadoba-Andhari Tiger Reserve",
+      "category": "Wildlife",
+      "description": "A forest reserve in eastern Maharashtra with multiple entry zones. Plan authorised safaris and do not equate a booking with a promised tiger sighting.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/maharashtra",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "manipur": [
+    {
+      "name": "Loktak Lake",
+      "category": "Nature",
+      "description": "A freshwater lake known for floating vegetation masses called phumdis. Local livelihoods and the surrounding wetland are integral to the landscape.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/manipur",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Keibul Lamjao National Park",
+      "category": "Wildlife",
+      "description": "A protected phumdi habitat associated with the endangered sangai deer. Follow current official visitor arrangements.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/manipur",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Kangla Fort",
+      "category": "Heritage",
+      "description": "A historic fortified site in Imphal with deep importance to Meitei history. Its sacred spaces call for respectful behaviour.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/manipur",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Ima Keithel",
+      "category": "Culture",
+      "description": "Imphal’s women-run market is a centre of everyday commerce. Ask before photographing vendors and support their work through considered purchases.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/manipur",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Ukhrul",
+      "category": "Culture",
+      "description": "A hill town associated with Tangkhul Naga communities and surrounding mountain landscapes. Check current local travel advice before planning.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/manipur",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "meghalaya": [
+    {
+      "name": "Shillong",
+      "category": "City",
+      "description": "A hill city with music venues, markets and a distinctive urban culture. Nearby waterfalls and villages require separate travel time.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/meghalaya",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Sohra",
+      "category": "Nature",
+      "description": "Also called Cherrapunji, this plateau destination is known for escarpments, rainfall and waterfalls. Visibility and water volume change dramatically by season.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/meghalaya",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Nongriat",
+      "category": "Nature",
+      "description": "A village associated with living root bridges maintained by local communities. Access involves a substantial stair walk; plan for fitness, daylight and a local guide.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/meghalaya",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Dawki",
+      "category": "Nature",
+      "description": "A river-border town near the Umngot, often visited for boat views. Clear-water photographs reflect particular conditions rather than a year-round guarantee.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/meghalaya",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Mawphlang Sacred Forest",
+      "category": "Culture",
+      "description": "A sacred grove connected with Khasi custodianship and traditions. Follow local guide instructions and do not remove natural material.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/meghalaya",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "mizoram": [
+    {
+      "name": "Aizawl",
+      "category": "City",
+      "description": "Mizoram’s ridge-top capital has markets, churches and layered hill views. Its steep streets shape both walking and road journeys.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/mizoram",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Reiek",
+      "category": "Nature",
+      "description": "A hill destination near Aizawl associated with viewpoints and a heritage village. Check local trail conditions before walking.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/mizoram",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Vantawng Falls",
+      "category": "Nature",
+      "description": "A waterfall near Thenzawl surrounded by wooded hills. View it from authorised observation areas.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/mizoram",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Phawngpui",
+      "category": "Nature",
+      "description": "A high mountain landscape also called the Blue Mountain. Visits require planning around protected-area rules and conditions.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/mizoram",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Tam Dil",
+      "category": "Nature",
+      "description": "A forest-fringed lake visited as a quieter excursion from Aizawl. Confirm local facilities and road arrangements before travel.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/mizoram",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "nagaland": [
+    {
+      "name": "Kohima",
+      "category": "City",
+      "description": "A hill capital with markets, museums and the Kohima War Cemetery. Local history includes both Naga communities and the Second World War.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/nagaland",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Khonoma",
+      "category": "Culture",
+      "description": "An Angami village associated with terraced agriculture and community conservation. Village-guided visits give context and support local custodians.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/nagaland",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Kisama Heritage Village",
+      "category": "Culture",
+      "description": "A cultural venue near Kohima best known for the Hornbill Festival. The festival programme is seasonal, so check dates before planning around performances.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/nagaland",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Dzukou Valley",
+      "category": "Nature",
+      "description": "A highland valley reached on foot from the Nagaland-Manipur border area. Trekking access, camping and environmental rules need current local confirmation.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/nagaland",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Mon",
+      "category": "Culture",
+      "description": "A district associated with Konyak communities and villages. Arrange local guidance and ask permission before entering homes or photographing people.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/nagaland",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "odisha": [
+    {
+      "name": "Konark Sun Temple",
+      "category": "Heritage",
+      "description": "A monumental temple conceived as the chariot of the Sun, with carved stone wheels and horses. Its sculpture rewards close observation.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/odisha",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Puri",
+      "category": "Faith",
+      "description": "A coastal pilgrimage city centred on the Jagannath Temple and its festival traditions. Temple entry rules should be checked before planning a visit.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/odisha",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Bhubaneswar",
+      "category": "Heritage",
+      "description": "Odisha’s capital contains historic temple precincts alongside a modern city. The temples represent multiple periods of regional architecture.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/odisha",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Chilika Lake",
+      "category": "Nature",
+      "description": "A large brackish lagoon with fishing settlements and important bird habitats. Choose responsible boat operators and avoid disturbing wildlife.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/odisha",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Pipili",
+      "category": "Craft",
+      "description": "A craft town recognised for colourful applique textiles. Workshop visits reveal how stitched forms become canopies, hangings and other pieces.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/odisha",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "punjab": [
+    {
+      "name": "Golden Temple",
+      "category": "Faith",
+      "description": "Sri Harmandir Sahib in Amritsar is a major Sikh sacred site with a tradition of langar. Cover the head and follow the gurdwara’s visitor guidance.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/punjab",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Jallianwala Bagh",
+      "category": "Heritage",
+      "description": "A memorial in Amritsar to the victims of the 1919 massacre. Visit with time for reflection and historical interpretation.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/punjab",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Anandpur Sahib",
+      "category": "Faith",
+      "description": "A Sikh pilgrimage town linked with the formation of the Khalsa. Festival visits require additional planning for crowds.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/punjab",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Patiala",
+      "category": "Heritage",
+      "description": "A former princely city with palace architecture and traditions of music and dress. Qila Mubarak is central to its royal history.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/punjab",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Harike Wetland",
+      "category": "Wildlife",
+      "description": "A wetland at the meeting of the Beas and Sutlej, known for bird habitat. Confirm current access and observe birds from a distance.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/punjab",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "rajasthan": [
+    {
+      "name": "Jaipur",
+      "category": "Heritage",
+      "description": "A planned historic city with bazaars, palaces and nearby Amber Fort. Give both the urban heritage and surrounding forts adequate time.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/rajasthan",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Udaipur",
+      "category": "Heritage",
+      "description": "A lake city shaped by Mewar palaces and the Aravalli landscape. The City Palace and lakeside neighbourhoods tell connected stories.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/rajasthan",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Jaisalmer",
+      "category": "Heritage",
+      "description": "A sandstone city with a living fort and havelis on the edge of the Thar. Respect residential streets within the fort.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/rajasthan",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Jodhpur",
+      "category": "Heritage",
+      "description": "Mehrangarh rises above the old city, with markets and blue-painted neighbourhoods below. The fort museum offers context for Marwar history.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/rajasthan",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Pushkar",
+      "category": "Faith",
+      "description": "A pilgrimage town around a sacred lake, also associated with an annual fair. Photography and conduct at the ghats should follow local guidance.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/rajasthan",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "sikkim": [
+    {
+      "name": "Gangtok",
+      "category": "City",
+      "description": "A Himalayan capital with monasteries, markets and mountain-facing viewpoints. Conditions on routes beyond the city need separate checking.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/sikkim",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Tsomgo Lake",
+      "category": "Nature",
+      "description": "A high-altitude lake on the route east of Gangtok. Access depends on permits, weather and local road conditions.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/sikkim",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Pelling",
+      "category": "Heritage",
+      "description": "A hill destination associated with Pemayangtse Monastery and the remains of Rabdentse. Clear mountain views cannot be guaranteed.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/sikkim",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Yuksom",
+      "category": "Heritage",
+      "description": "A settlement linked with Sikkim’s early monarchy and a base for trekking. Allow separate time for village history and permitted mountain routes.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/sikkim",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Rumtek Monastery",
+      "category": "Faith",
+      "description": "A major Buddhist monastic complex outside Gangtok. Follow current entry and photography guidance in its religious spaces.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/sikkim",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "tamil-nadu": [
+    {
+      "name": "Chennai",
+      "category": "City",
+      "description": "Tamil Nadu’s coastal capital connects museums, neighbourhood temples and a major music and dance scene. Choose a compact area for each day of city exploration.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/tamil-nadu",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Mamallapuram",
+      "category": "Heritage",
+      "description": "Also known as Mahabalipuram, this coastal town has Pallava rock-cut monuments and the Shore Temple. Different monument groups are spread around the town.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/tamil-nadu",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Madurai",
+      "category": "Faith",
+      "description": "A historic city centred on the Meenakshi Amman Temple and surrounding market streets. Temple access and photography rules need advance checking.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/tamil-nadu",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Thanjavur",
+      "category": "Heritage",
+      "description": "The Brihadisvara Temple anchors a city associated with Chola history, painting and music. Its monumental architecture is a highlight of the region.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/tamil-nadu",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Ooty",
+      "category": "Nature",
+      "description": "A Nilgiri hill town also called Udhagamandalam, with gardens and tea landscapes. The railway and road approaches need separate booking and travel time.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/tamil-nadu",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "telangana": [
+    {
+      "name": "Charminar",
+      "category": "Heritage",
+      "description": "Hyderabad’s four-minareted monument stands amid the old city’s bazaars. Combine it with a neighbourhood walk rather than a rushed cross-city circuit.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/telangana",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Golconda Fort",
+      "category": "Heritage",
+      "description": "A fortified hill complex associated with the Qutb Shahi rulers. Its gateways and elevated ruins involve uneven walking and steps.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/telangana",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Chowmahalla Palace",
+      "category": "Heritage",
+      "description": "A palace complex associated with Hyderabad’s Nizams. Courtyards and ceremonial halls reveal a different royal chapter from Golconda.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/telangana",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Qutb Shahi Tombs",
+      "category": "Heritage",
+      "description": "A necropolis near Golconda with domed tombs and landscaped grounds. It provides architectural context for the dynasty that shaped early Hyderabad.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/telangana",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Ramappa Temple",
+      "category": "Heritage",
+      "description": "The Kakatiya Rudreshwara temple at Palampet is known for its carved pillars and sculptural detail. It is an excursion beyond Hyderabad.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/telangana",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Warangal Fort",
+      "category": "Heritage",
+      "description": "Surviving gateways and carved remains recall the Kakatiya capital. Pair the site with the broader history of Warangal.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/telangana",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Ramoji Film City",
+      "category": "Experience",
+      "description": "A film-studio and visitor complex outside Hyderabad. Confirm the operator’s current tickets and programme before allocating a day.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/telangana",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Hussain Sagar",
+      "category": "City",
+      "description": "A large urban lake between Hyderabad and Secunderabad, recognised for its Buddha statue. Use designated public waterfront areas.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/telangana",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Bhongir Fort",
+      "category": "Heritage",
+      "description": "A hill fort on a prominent rock mass east of Hyderabad. The climb is exposed and should be planned around weather and physical ability.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/telangana",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Bhadrachalam",
+      "category": "Faith",
+      "description": "A temple town on the Godavari associated with Rama worship. Religious festival periods can substantially change crowd levels.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/telangana",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "tripura": [
+    {
+      "name": "Ujjayanta Palace",
+      "category": "Heritage",
+      "description": "A former royal palace in Agartala that houses the state museum. Its galleries introduce Tripura’s communities and history.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/tripura",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Neermahal",
+      "category": "Heritage",
+      "description": "A palace set in Rudrasagar Lake, combining royal architecture with a water landscape. Boat access depends on local operations.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/tripura",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Unakoti",
+      "category": "Heritage",
+      "description": "A hillside site with large rock-cut religious sculptures. The setting includes stepped and uneven walking routes.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/tripura",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Jampui Hills",
+      "category": "Nature",
+      "description": "A hill region with villages and broad landscape views. A stay allows more time for local life than a short scenic stop.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/tripura",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Sepahijala Wildlife Sanctuary",
+      "category": "Wildlife",
+      "description": "A protected area near Agartala with forest habitats and visitor facilities. Confirm current opening arrangements and follow wildlife rules.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/tripura",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "uttar-pradesh": [
+    {
+      "name": "Taj Mahal",
+      "category": "Heritage",
+      "description": "A Mughal mausoleum in Agra with gardens and carefully composed marble architecture. Check official ticket and entry guidance for the intended date.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/uttar-pradesh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Varanasi",
+      "category": "Faith",
+      "description": "A city of Ganga ghats, temples, music and weaving. Religious and funerary spaces require respectful distance and photography practices.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/uttar-pradesh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Lucknow",
+      "category": "Heritage",
+      "description": "A city associated with Awadhi court culture, imambaras and chikankari. Its food and crafts connect with the architectural history.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/uttar-pradesh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Sarnath",
+      "category": "Heritage",
+      "description": "A Buddhist site near Varanasi associated with the Buddha’s first teaching. The archaeological remains and museum offer complementary context.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/uttar-pradesh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Fatehpur Sikri",
+      "category": "Heritage",
+      "description": "A Mughal city near Agra with ceremonial courts, palaces and religious buildings. It is a separate excursion from the Taj Mahal.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/uttar-pradesh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "uttarakhand": [
+    {
+      "name": "Rishikesh",
+      "category": "Faith",
+      "description": "A Ganga town known for ashrams, pilgrimage and river-based activities. Choose appropriately qualified operators for any adventure activity.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/uttarakhand",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Nainital",
+      "category": "Nature",
+      "description": "A Kumaon hill town arranged around Naini Lake. Lakeside walks and surrounding hill routes have different time and fitness demands.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/uttarakhand",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Valley of Flowers",
+      "category": "Nature",
+      "description": "A Himalayan alpine valley within a national park, reached by trekking. Access is seasonal and weather dependent.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/uttarakhand",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Kedarnath",
+      "category": "Faith",
+      "description": "A high Himalayan pilgrimage destination associated with the Shiva temple. Current registration, route and weather advice is essential before travel.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/uttarakhand",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Jim Corbett National Park",
+      "category": "Wildlife",
+      "description": "A forest and river landscape with several tourism zones. Use official booking information and confirm which zone a visit includes.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/uttarakhand",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "west-bengal": [
+    {
+      "name": "Kolkata",
+      "category": "City",
+      "description": "A city of museums, markets, literary culture and neighbourhood festivals. A walk through one district reveals more than crossing the city for isolated photographs.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/west-bengal",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Darjeeling",
+      "category": "Nature",
+      "description": "A Himalayan hill town associated with tea estates and the mountain railway. Weather determines whether distant peaks are visible.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/west-bengal",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Sundarbans",
+      "category": "Wildlife",
+      "description": "A tidal mangrove landscape shared with Bangladesh. Organised visits should follow protected-area rules and responsible boat practices.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/west-bengal",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Santiniketan",
+      "category": "Culture",
+      "description": "A university town associated with Rabindranath Tagore and artistic learning. Respect campus access arrangements and distinguish scheduled events from daily visits.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/west-bengal",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Bishnupur",
+      "category": "Heritage",
+      "description": "A town known for terracotta temples, music and textile traditions. Its brick reliefs offer a distinctive form of Bengal temple art.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/west-bengal",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "andaman-nicobar": [
+    {
+      "name": "Cellular Jail",
+      "category": "Heritage",
+      "description": "A former colonial prison in Sri Vijaya Puram, formerly Port Blair. Its interpretation centres on incarceration and India’s freedom struggle.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Radhanagar Beach",
+      "category": "Coast",
+      "description": "A forest-backed beach on Swaraj Dweep, formerly Havelock Island. Sea conditions and inter-island transport need current local checking.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Shaheed Dweep",
+      "category": "Coast",
+      "description": "An inhabited island formerly called Neil Island, known for beaches and coastal landscapes. Ferry journeys need to be built into the itinerary.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Chidiya Tapu",
+      "category": "Nature",
+      "description": "A coastal excursion on South Andaman associated with birdlife and sunset views. Stay within authorised visitor areas.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Wandoor",
+      "category": "Coast",
+      "description": "A South Andaman coastal village associated with access to marine-park excursions. Permitted island visits depend on current official arrangements.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "chandigarh": [
+    {
+      "name": "Rock Garden",
+      "category": "Art",
+      "description": "Nek Chand’s sculpture environment uses recovered materials in courtyards and passages. The experience is a sequence of spaces rather than one sculpture.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/chandigarh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Sukhna Lake",
+      "category": "Nature",
+      "description": "An urban lake at the foot of the Shivalik hills with public walking areas. Local conditions determine boating and other activities.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/chandigarh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Zakir Hussain Rose Garden",
+      "category": "Nature",
+      "description": "A landscaped city garden known for its rose collections. Blooms vary with season and maintenance schedules.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/chandigarh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Capitol Complex",
+      "category": "Heritage",
+      "description": "A group of modern civic buildings associated with Le Corbusier, including the Palace of Assembly. Check current guided access arrangements.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/chandigarh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Government Museum and Art Gallery",
+      "category": "Art",
+      "description": "A museum with collections that include Gandhara sculpture and Indian painting. Allow time to explore the galleries rather than only the exterior.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/chandigarh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "dadra-nagar-haveli-daman-diu": [
+    {
+      "name": "Diu Fort",
+      "category": "Heritage",
+      "description": "A Portuguese-era coastal fort in Diu with ramparts overlooking the sea. Diu is geographically separate from Daman and Silvassa.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Nagoa Beach",
+      "category": "Coast",
+      "description": "A curved beach on Diu island. Check local conditions and authorised water-sport operations before entering the sea.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Moti Daman",
+      "category": "Heritage",
+      "description": "The fortified historic quarter in Daman contains churches, civic buildings and coastal defences. It offers a walk through the territory’s colonial architecture.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Daman port",
+      "category": "Coast",
+      "description": "A working waterfront on the Daman Ganga estuary. Fishing boats and riverside activity distinguish it from Diu’s fort landscape.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Silvassa",
+      "category": "Culture",
+      "description": "A town in Dadra and Nagar Haveli associated with local cultural interpretation and access to surrounding villages. It requires a separate journey from Diu.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "delhi": [
+    {
+      "name": "India Gate",
+      "category": "Heritage",
+      "description": "A war memorial on New Delhi’s ceremonial axis. The surrounding public landscape forms part of the capital’s planned urban design.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/delhi",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Red Fort",
+      "category": "Heritage",
+      "description": "A Mughal fort complex in Old Delhi with palaces, courtyards and museums. Plan time for the site and the neighbouring old-city streets separately.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/delhi",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Humayun’s Tomb",
+      "category": "Heritage",
+      "description": "A Mughal garden-tomb complex recognised for its symmetrical composition. The surrounding monuments deepen the story of the site.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/delhi",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Qutub Minar",
+      "category": "Heritage",
+      "description": "A tall medieval minaret within an archaeological complex in Mehrauli. The surrounding structures are important to understanding the monument.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/delhi",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Lodhi Garden",
+      "category": "Nature",
+      "description": "A public garden with Sultanate-period tombs and established walking paths. It combines everyday city recreation with built heritage.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/delhi",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "jammu-kashmir": [
+    {
+      "name": "Srinagar",
+      "category": "City",
+      "description": "A valley city of lakes, gardens, shrines and artisan neighbourhoods. Distinguish a lakeside visit from exploring the old city.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Gulmarg",
+      "category": "Nature",
+      "description": "A mountain destination associated with meadows, snow and a gondola. Weather, altitude and current access arrangements shape the visit.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Pahalgam",
+      "category": "Nature",
+      "description": "A Lidder Valley town with forested surroundings and nearby valleys. Local routes and seasonal conditions require separate planning.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Sonamarg",
+      "category": "Nature",
+      "description": "An alpine valley destination east of Srinagar, with dramatic mountain scenery. Road and weather conditions can change quickly.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Jammu",
+      "category": "Faith",
+      "description": "A city associated with Dogra heritage, temples and access to surrounding pilgrimage routes. It has a different climate and travel pattern from the Kashmir Valley.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "ladakh": [
+    {
+      "name": "Leh Palace",
+      "category": "Heritage",
+      "description": "A former royal palace above Leh with views across the town. Plan gentle activity when newly arrived at altitude.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/ladakh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Pangong Tso",
+      "category": "Nature",
+      "description": "A high-altitude lake with stark mountain shores. Permit and road arrangements must be checked, and its distance from Leh needs realistic travel time.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/ladakh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Nubra Valley",
+      "category": "Nature",
+      "description": "A high mountain valley with settlements, dunes and monasteries. It deserves a multi-day route with allowance for altitude and road conditions.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/ladakh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Hemis Monastery",
+      "category": "Faith",
+      "description": "A Drukpa Buddhist monastery near Leh, associated with the Hemis festival. Festival performances take place on specific dates.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/ladakh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Alchi Monastery",
+      "category": "Heritage",
+      "description": "A monastic complex known for historic murals and artistic connections across the Himalayas. Follow restrictions intended to protect the interiors.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/ladakh",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "lakshadweep": [
+    {
+      "name": "Agatti",
+      "category": "Coast",
+      "description": "An inhabited coral island with an airport and lagoon landscape. Visiting arrangements and island access require advance official confirmation.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/lakshadweep",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Bangaram",
+      "category": "Coast",
+      "description": "A small coral island associated with lagoon stays. Bookings and transfers depend on authorised visitor arrangements.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/lakshadweep",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Kavaratti",
+      "category": "Culture",
+      "description": "Lakshadweep’s administrative capital, with a lagoon and island settlements. Respect local customs and confirm the activities permitted to visitors.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/lakshadweep",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Minicoy",
+      "category": "Culture",
+      "description": "A southern island with distinctive language and maritime traditions. Its separation from other islands requires careful transport planning.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/lakshadweep",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Kadmat",
+      "category": "Coast",
+      "description": "A long coral island associated with lagoon activities. Weather and authorised operators determine what is available.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/lakshadweep",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ],
+  "puducherry": [
+    {
+      "name": "White Town",
+      "category": "Heritage",
+      "description": "Puducherry’s French Quarter has a grid of streets, civic buildings and residential facades. It lies beside the seafront, within the Union Territory.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/puducherry",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Promenade Beach",
+      "category": "Coast",
+      "description": "The rocky seafront promenade is a public walking area beside the historic quarter. It should not be assumed to be a swimming beach.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/puducherry",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Sri Aurobindo Ashram",
+      "category": "Faith",
+      "description": "A spiritual community associated with Sri Aurobindo and the Mother. Quiet conduct and current visitor arrangements matter here.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/puducherry",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Arikamedu",
+      "category": "Heritage",
+      "description": "An archaeological site near Puducherry associated with ancient maritime trade. Interpret the limited visible remains with historical context.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/puducherry",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    },
+    {
+      "name": "Karaikal",
+      "category": "Culture",
+      "description": "A separate enclave of the Union Territory on the Tamil coast, with temples and a waterfront. It is not a neighbourhood of Puducherry city.",
+      "sourceUrl": "https://www.incredibleindia.gov.in/en/puducherry",
+      "sourceTitle": "Incredible India · Ministry of Tourism destination guide",
+      "checkedAt": "2026-09-17",
+      "sourceScope": "State destination overview; practical advice is editorial guidance. Confirm operational details with the official operator."
+    }
+  ]
+}

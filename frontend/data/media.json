@@ -1,0 +1,1291 @@
+{
+  "dest-arunachal-pradesh": {
+    "id": "dest-arunachal-pradesh",
+    "alt": "Tawang Monastery on its hillside",
+    "subjects": [
+      "Tawang Monastery"
+    ],
+    "src": "images/reviewed/dest-arunachal-pradesh-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-arunachal-pradesh-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 21196
+      },
+      {
+        "src": "images/reviewed/dest-arunachal-pradesh-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 66828
+      }
+    ],
+    "width": 960,
+    "height": 640,
+    "source": "https://commons.wikimedia.org/wiki/File:Tawang_Monastery_(Tibetan_Buddhist).jpg",
+    "title": "Tawang Monastery (Tibetan Buddhist).jpg",
+    "creator": "Vikramjit Kakati",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dest-arunachal-pradesh.jpg",
+    "originalSha256": "24dd36c645dd419dd386c3a62004bcfc33e203f71f172fd0149193966272f56d",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-assam": {
+    "id": "dest-assam",
+    "alt": "An Indian rhinoceros photographed in Kaziranga",
+    "subjects": [
+      "Kaziranga National Park"
+    ],
+    "src": "images/reviewed/dest-assam-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-assam-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 53336
+      },
+      {
+        "src": "images/reviewed/dest-assam-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 214948
+      }
+    ],
+    "width": 960,
+    "height": 640,
+    "source": "https://commons.wikimedia.org/wiki/File:Rhino_in_Khaziranga.jpg",
+    "title": "Rhino in Khaziranga.jpg",
+    "creator": "Shankar70",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dest-assam.jpg",
+    "originalSha256": "dd57e2c70c9e0938d10e740c350a318bed5cd2191a5ca5eaa57c2eca7031c439",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-chhattisgarh": {
+    "id": "dest-chhattisgarh",
+    "alt": "Panorama of Chitrakote Falls",
+    "subjects": [
+      "Chitrakote Falls"
+    ],
+    "src": "images/reviewed/dest-chhattisgarh-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-chhattisgarh-480.webp",
+        "width": 480,
+        "height": 101,
+        "bytes": 7576
+      },
+      {
+        "src": "images/reviewed/dest-chhattisgarh-960.webp",
+        "width": 960,
+        "height": 203,
+        "bytes": 30142
+      }
+    ],
+    "width": 960,
+    "height": 203,
+    "source": "https://commons.wikimedia.org/wiki/File:Chitrakot_panoramic.jpg",
+    "title": "Chitrakot panoramic.jpg",
+    "creator": "Vinay nihal",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "images/commons/dest-chhattisgarh.jpg",
+    "originalSha256": "0cff9f78e85c83525afe3158f725e9dbee92ece7d7efb69ce8278d57849ae7e1",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-haryana": {
+    "id": "dest-haryana",
+    "alt": "Arjun statue near Brahma Sarovar, Kurukshetra",
+    "subjects": [
+      "Brahma Sarovar"
+    ],
+    "src": "images/reviewed/dest-haryana-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-haryana-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 23008
+      },
+      {
+        "src": "images/reviewed/dest-haryana-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 68324
+      }
+    ],
+    "width": 960,
+    "height": 1280,
+    "source": "https://commons.wikimedia.org/wiki/File:Arjun_Chowk_near_Brahma_Sarovar_-_Kurukshetra.jpg",
+    "title": "Arjun Chowk near Brahma Sarovar - Kurukshetra.jpg",
+    "creator": "Giridharmamidi",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "images/commons/dest-haryana.jpg",
+    "originalSha256": "b791bd6d6674f907621ff309004d9c6d6fa5a077b0537f384752f838825bdce8",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-jharkhand": {
+    "id": "dest-jharkhand",
+    "alt": "Dassam Falls in Jharkhand",
+    "subjects": [
+      "Dassam Falls"
+    ],
+    "src": "images/reviewed/dest-jharkhand-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-jharkhand-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 41836
+      },
+      {
+        "src": "images/reviewed/dest-jharkhand-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 192812
+      }
+    ],
+    "width": 960,
+    "height": 1280,
+    "source": "https://commons.wikimedia.org/wiki/File:Dassam_Falls,_Jharkhand,_India_01.jpg",
+    "title": "Dassam Falls, Jharkhand, India 01.jpg",
+    "creator": "Kingshuk Mondal",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "originalFile": "images/commons/dest-jharkhand.jpg",
+    "originalSha256": "911ccb1e550dc4ee2488418d0b40c1b8a689e81179504543f4c11bd350802783",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-madhya-pradesh": {
+    "id": "dest-madhya-pradesh",
+    "alt": "Devi Jagadambi Temple at Khajuraho",
+    "subjects": [
+      "Khajuraho"
+    ],
+    "src": "images/reviewed/dest-madhya-pradesh-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-madhya-pradesh-480.webp",
+        "width": 480,
+        "height": 413,
+        "bytes": 30056
+      },
+      {
+        "src": "images/reviewed/dest-madhya-pradesh-960.webp",
+        "width": 960,
+        "height": 825,
+        "bytes": 123998
+      }
+    ],
+    "width": 960,
+    "height": 825,
+    "source": "https://commons.wikimedia.org/wiki/File:Khajuraho_Devi_Jagadambi_Temple_2010.jpg",
+    "title": "Khajuraho Devi Jagadambi Temple 2010.jpg",
+    "creator": "Marcin Białek",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dest-madhya-pradesh.jpg",
+    "originalSha256": "b73d473eb890c632949e6e80abd3ecf3bdfcb55d50f108061a9df5ad7539eb06",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-manipur": {
+    "id": "dest-manipur",
+    "alt": "Loktak Lake, Manipur",
+    "subjects": [
+      "Loktak Lake"
+    ],
+    "src": "images/reviewed/dest-manipur-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-manipur-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 12076
+      },
+      {
+        "src": "images/reviewed/dest-manipur-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 53098
+      }
+    ],
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:Loktak_Lake_Manipur_01.jpg",
+    "title": "Loktak Lake Manipur 01.jpg",
+    "creator": "ch_15march",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "originalFile": "images/commons/dest-manipur.jpg",
+    "originalSha256": "fa04096809743cf71551129c8461c58cbb134cbb10d144a755c0b7387e12f2af",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-meghalaya": {
+    "id": "dest-meghalaya",
+    "alt": "A living root bridge in Meghalaya; exact bridge not established",
+    "subjects": [
+      "Living root bridges"
+    ],
+    "src": "images/reviewed/dest-meghalaya-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-meghalaya-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 80474
+      },
+      {
+        "src": "images/reviewed/dest-meghalaya-960.webp",
+        "width": 960,
+        "height": 961,
+        "bytes": 366896
+      }
+    ],
+    "width": 960,
+    "height": 961,
+    "source": "https://commons.wikimedia.org/wiki/File:A_living_root_bridge_in_Meghalaya.jpg",
+    "title": "A living root bridge in Meghalaya.jpg",
+    "creator": "Sanchit1504",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dest-meghalaya.jpg",
+    "originalSha256": "567c124714a258f6eb0ef4a6711179ab2bf2589166ddd38aaebc434c7d3e05b5",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-mizoram": {
+    "id": "dest-mizoram",
+    "alt": "Green mountain landscape in Mizoram; exact viewpoint not established",
+    "subjects": [],
+    "src": "images/reviewed/dest-mizoram-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-mizoram-480.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 22334
+      },
+      {
+        "src": "images/reviewed/dest-mizoram-960.webp",
+        "width": 960,
+        "height": 540,
+        "bytes": 72856
+      }
+    ],
+    "width": 960,
+    "height": 540,
+    "source": "https://commons.wikimedia.org/wiki/File:Mizoram1.jpg",
+    "title": "Mizoram1.jpg",
+    "creator": "Fkaralte",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dest-mizoram.jpg",
+    "originalSha256": "4a0a64c1185f7bda9a8b6a680b0d23d415543d80fe3e449a8256770487a5f605",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-nagaland": {
+    "id": "dest-nagaland",
+    "alt": "Performers at the Hornbill Festival, Nagaland",
+    "subjects": [
+      "Hornbill Festival"
+    ],
+    "src": "images/reviewed/dest-nagaland-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-nagaland-480.webp",
+        "width": 480,
+        "height": 323,
+        "bytes": 26574
+      },
+      {
+        "src": "images/reviewed/dest-nagaland-960.webp",
+        "width": 960,
+        "height": 646,
+        "bytes": 90348
+      }
+    ],
+    "width": 960,
+    "height": 646,
+    "source": "https://commons.wikimedia.org/wiki/File:Hornbill_Festival,_Pix_by_Vikramjit_Kakati.jpg",
+    "title": "Hornbill Festival, Pix by Vikramjit Kakati.jpg",
+    "creator": "Vikramjit Kakati",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dest-nagaland.jpg",
+    "originalSha256": "0e4706fdf18e4cdd4ce4044e6fe1eaaea7e09577afe3c89169deb7ff2b23cc03",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-odisha": {
+    "id": "dest-odisha",
+    "alt": "Carved stone wheel at Konark Sun Temple",
+    "subjects": [
+      "Konark Sun Temple"
+    ],
+    "src": "images/reviewed/dest-odisha-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-odisha-480.webp",
+        "width": 480,
+        "height": 350,
+        "bytes": 57878
+      },
+      {
+        "src": "images/reviewed/dest-odisha-960.webp",
+        "width": 960,
+        "height": 701,
+        "bytes": 262188
+      }
+    ],
+    "width": 960,
+    "height": 701,
+    "source": "https://commons.wikimedia.org/wiki/File:Stone_wheel_engraved_in_the_13th_century_built_Konark_Sun_Temple_in_Orissa,_India.jpg",
+    "title": "Stone wheel engraved in the 13th century built Konark Sun Temple in Orissa, India.jpg",
+    "creator": "Subhrajyoti07",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dest-odisha.jpg",
+    "originalSha256": "5b6bc0b39658c98e244c67beff228c61a4c976a31a29a7791d475bc8cc30e078",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-sikkim": {
+    "id": "dest-sikkim",
+    "alt": "Tsomgo Lake in mist, Sikkim",
+    "subjects": [
+      "Tsomgo Lake"
+    ],
+    "src": "images/reviewed/dest-sikkim-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-sikkim-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 12038
+      },
+      {
+        "src": "images/reviewed/dest-sikkim-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 53554
+      }
+    ],
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:Tsomgo_Lake,_Sikkim,_India.jpg",
+    "title": "Tsomgo Lake, Sikkim, India.jpg",
+    "creator": "Anupam Manur",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Tsomgo_Lake,_Sikkim,_India.jpg",
+    "originalFile": "images/commons/dest-sikkim.jpg",
+    "originalSha256": "6129cb34807504affe0e711595e490dceb23de3ad859e184d6a0741eb85f0b83",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-telangana": {
+    "id": "dest-telangana",
+    "alt": "Charminar in Hyderabad",
+    "subjects": [
+      "Charminar"
+    ],
+    "src": "images/reviewed/dest-telangana-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-telangana-480.webp",
+        "width": 480,
+        "height": 678,
+        "bytes": 52728
+      },
+      {
+        "src": "images/reviewed/dest-telangana-960.webp",
+        "width": 960,
+        "height": 1356,
+        "bytes": 185638
+      }
+    ],
+    "width": 960,
+    "height": 1356,
+    "source": "https://commons.wikimedia.org/wiki/File:Charminar_Hyderabad_1.jpg",
+    "title": "Charminar Hyderabad 1.jpg",
+    "creator": "DidierTais",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "images/commons/dest-telangana.jpg",
+    "originalSha256": "dcbde57c256a4d1798514972d7d43a743ca5b82cfbaa6640e8c28754175a3223",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-tripura": {
+    "id": "dest-tripura",
+    "alt": "Ujjayanta Palace in Agartala",
+    "subjects": [
+      "Ujjayanta Palace"
+    ],
+    "src": "images/reviewed/dest-tripura-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-tripura-480.webp",
+        "width": 480,
+        "height": 339,
+        "bytes": 29520
+      },
+      {
+        "src": "images/reviewed/dest-tripura-960.webp",
+        "width": 960,
+        "height": 678,
+        "bytes": 100574
+      }
+    ],
+    "width": 960,
+    "height": 678,
+    "source": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+    "title": "Ujjayanta palace Tripura State Museum Agartala India.jpg",
+    "creator": "Sharada Prasad CS",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "originalFile": "images/commons/dest-tripura.jpg",
+    "originalSha256": "6582167ef96910b1a8405738e627fe702896dbe7e31a9b2659bf700dbaa4579f",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-uttarakhand": {
+    "id": "dest-uttarakhand",
+    "alt": "Mountain scenery in the Valley of Flowers, Chamoli",
+    "subjects": [
+      "Valley of Flowers"
+    ],
+    "src": "images/reviewed/dest-uttarakhand-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-uttarakhand-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 27782
+      },
+      {
+        "src": "images/reviewed/dest-uttarakhand-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 117532
+      }
+    ],
+    "width": 960,
+    "height": 1280,
+    "source": "https://commons.wikimedia.org/wiki/File:%22Flowers_Blossom_At_valley_of_flowers_Chamoli,_India%22_08.jpg",
+    "title": "\"Flowers Blossom At valley of flowers Chamoli, India\" 08.jpg",
+    "creator": "Naresh Chandra",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dest-uttarakhand.jpg",
+    "originalSha256": "0437e30f4ed813ae2957fcdb9b18389f14a39532a8f9c05755987773cf2ce7b7",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-andaman-nicobar": {
+    "id": "dest-andaman-nicobar",
+    "alt": "Radhanagar Beach on Swaraj Dweep",
+    "subjects": [
+      "Radhanagar Beach"
+    ],
+    "src": "images/reviewed/dest-andaman-nicobar-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-andaman-nicobar-480.webp",
+        "width": 480,
+        "height": 314,
+        "bytes": 40590
+      },
+      {
+        "src": "images/reviewed/dest-andaman-nicobar-960.webp",
+        "width": 960,
+        "height": 628,
+        "bytes": 194594
+      }
+    ],
+    "width": 960,
+    "height": 628,
+    "source": "https://commons.wikimedia.org/wiki/File:Radhanagar_Beach,_Havelock_Island,_Andaman,_India.jpg",
+    "title": "Radhanagar Beach, Havelock Island, Andaman, India.jpg",
+    "creator": "Mvbellad",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dest-andaman-nicobar.jpg",
+    "originalSha256": "9c3a5d617f44e6fb398ea3865caec1a077b015877a16065dddfe464c5f2bbea9",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-chandigarh": {
+    "id": "dest-chandigarh",
+    "alt": "Palace of Assembly at the Chandigarh Capitol Complex",
+    "subjects": [
+      "Capitol Complex"
+    ],
+    "src": "images/reviewed/dest-chandigarh-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-chandigarh-480.webp",
+        "width": 480,
+        "height": 201,
+        "bytes": 13518
+      },
+      {
+        "src": "images/reviewed/dest-chandigarh-960.webp",
+        "width": 960,
+        "height": 401,
+        "bytes": 51382
+      }
+    ],
+    "width": 960,
+    "height": 401,
+    "source": "https://commons.wikimedia.org/wiki/File:Palace_of_Assembly_Chandigarh_2006.jpg",
+    "title": "Palace of Assembly Chandigarh 2006.jpg",
+    "creator": "duncid",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "originalFile": "images/commons/dest-chandigarh.jpg",
+    "originalSha256": "5e06bc09ec0fc608ff8ef264cece04dc5db0f62d0545dd4584ee35dbf946d85d",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-dadra-nagar-haveli-daman-diu": {
+    "id": "dest-dadra-nagar-haveli-daman-diu",
+    "alt": "Boats at the port of Daman; this is not Diu Fort",
+    "subjects": [
+      "Daman port"
+    ],
+    "src": "images/reviewed/dest-dadra-nagar-haveli-daman-diu-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-dadra-nagar-haveli-daman-diu-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 15240
+      },
+      {
+        "src": "images/reviewed/dest-dadra-nagar-haveli-daman-diu-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 59252
+      }
+    ],
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:The_port_of_Daman,_India.jpg",
+    "title": "The port of Daman, India.jpg",
+    "creator": "Ashok Prabhakaran",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "originalFile": "images/commons/dest-dadra-nagar-haveli-daman-diu.jpg",
+    "originalSha256": "07e75c474159c523e10731e7ad20db2ff21a70828cde7a8fbaa45b34a09cdd21",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-delhi": {
+    "id": "dest-delhi",
+    "alt": "India Gate in New Delhi",
+    "subjects": [
+      "India Gate"
+    ],
+    "src": "images/reviewed/dest-delhi-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-delhi-480.webp",
+        "width": 480,
+        "height": 527,
+        "bytes": 18710
+      },
+      {
+        "src": "images/reviewed/dest-delhi-960.webp",
+        "width": 960,
+        "height": 1053,
+        "bytes": 66114
+      }
+    ],
+    "width": 960,
+    "height": 1053,
+    "source": "https://commons.wikimedia.org/wiki/File:India_Gate_1_(New_Delhi).jpg",
+    "title": "India Gate 1 (New Delhi).jpg",
+    "creator": "Subeesh Balan സുഭീഷ് ബാലൻ",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "images/commons/dest-delhi.jpg",
+    "originalSha256": "2bae88044b10ae513be75ee501618fbad9e6435b747219ef3f8b89aa7bd157de",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-ladakh": {
+    "id": "dest-ladakh",
+    "alt": "Pangong Tso in Ladakh",
+    "subjects": [
+      "Pangong Tso"
+    ],
+    "src": "images/reviewed/dest-ladakh-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-ladakh-480.webp",
+        "width": 480,
+        "height": 232,
+        "bytes": 25076
+      },
+      {
+        "src": "images/reviewed/dest-ladakh-960.webp",
+        "width": 960,
+        "height": 464,
+        "bytes": 83214
+      }
+    ],
+    "width": 960,
+    "height": 464,
+    "source": "https://commons.wikimedia.org/wiki/File:Pangong_Tso_2.jpg",
+    "title": "Pangong Tso 2.jpg",
+    "creator": "KennyOMG",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dest-ladakh.jpg",
+    "originalSha256": "8bef66ba4aa7e093b7f60c62b9894b070269af5db61b054dc23ec154add48c20",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-lakshadweep": {
+    "id": "dest-lakshadweep",
+    "alt": "Satellite view of Lakshadweep islands, NASA Earth Observatory",
+    "subjects": [],
+    "src": "images/reviewed/dest-lakshadweep-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-lakshadweep-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 2828
+      },
+      {
+        "src": "images/reviewed/dest-lakshadweep-960.webp",
+        "width": 720,
+        "height": 720,
+        "bytes": 5574
+      }
+    ],
+    "width": 720,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:Lakshadweep_Islands_-_NASA_Earth_Observatory.jpg",
+    "title": "Lakshadweep Islands - NASA Earth Observatory.jpg",
+    "creator": "NASA's Earth Observatory",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "originalFile": "images/commons/dest-lakshadweep.jpg",
+    "originalSha256": "81bf03aac650013ee3f437c331d55b374f72993be996a7433a561e9f34d5dfa7",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-puducherry": {
+    "id": "dest-puducherry",
+    "alt": "A street in the French Quarter of Puducherry",
+    "subjects": [
+      "White Town"
+    ],
+    "src": "images/reviewed/dest-puducherry-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-puducherry-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 45884
+      },
+      {
+        "src": "images/reviewed/dest-puducherry-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 165628
+      }
+    ],
+    "width": 960,
+    "height": 640,
+    "source": "https://commons.wikimedia.org/wiki/File:Puducherry-French_Quarter-WUS02272.jpg",
+    "title": "Puducherry-French Quarter-WUS02272.jpg",
+    "creator": "Rainer Halama",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dest-puducherry.jpg",
+    "originalSha256": "03ab44f9fe125c244fe4d21bfb1de501a49a78715b7a018a553e81d5f08581c4",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "festival-navratri": {
+    "id": "festival-navratri",
+    "alt": "Women in Garba dress during Navratri",
+    "subjects": [
+      "Garba",
+      "Navratri"
+    ],
+    "src": "images/reviewed/festival-navratri-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/festival-navratri-480.webp",
+        "width": 480,
+        "height": 273,
+        "bytes": 39870
+      },
+      {
+        "src": "images/reviewed/festival-navratri-960.webp",
+        "width": 960,
+        "height": 546,
+        "bytes": 119400
+      }
+    ],
+    "width": 960,
+    "height": 546,
+    "source": "https://commons.wikimedia.org/wiki/File:Traditional_dress_for_Garba_dance,_Navratri_festival_celebrations.jpg",
+    "title": "Traditional dress for Garba dance, Navratri festival celebrations.jpg",
+    "creator": "Sudhamshu Hebbar from Chennai, India",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "originalFile": "images/commons/festival-navratri.jpg",
+    "originalSha256": "1f4ad1e35e015875c363182f927fd31107ff67dedfbdf731f27c98524933727c",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "festival-durga-puja": {
+    "id": "festival-durga-puja",
+    "alt": "Durga Puja idols at GD Block, Salt Lake, in 2018",
+    "subjects": [
+      "Durga Puja"
+    ],
+    "src": "images/reviewed/festival-durga-puja-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/festival-durga-puja-480.webp",
+        "width": 480,
+        "height": 288,
+        "bytes": 29946
+      },
+      {
+        "src": "images/reviewed/festival-durga-puja-960.webp",
+        "width": 960,
+        "height": 577,
+        "bytes": 111498
+      }
+    ],
+    "width": 960,
+    "height": 577,
+    "source": "https://commons.wikimedia.org/wiki/File:%E0%A6%9C%E0%A6%BF._%E0%A6%A1%E0%A6%BF._%E0%A6%AC%E0%A7%8D%E0%A6%B2%E0%A6%95_%E0%A6%B8%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%B2%E0%A7%87%E0%A6%95_%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A6%BE_%E0%A6%AA%E0%A7%81%E0%A6%9C%E0%A7%8B_%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AE.jpg",
+    "title": "জি. ডি. ব্লক সল্টলেক দুর্গা পুজো ২০১৮.jpg",
+    "creator": "Subhrajyoti07",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/festival-durga-puja.jpg",
+    "originalSha256": "2ce7314e85a5168d2378d4955e4c89abc56aa0d9f74dfd0d60890b361ded1f1c",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "festival-eid": {
+    "id": "festival-eid",
+    "alt": "Historical photograph of Eid prayers in Delhi in 1942",
+    "subjects": [
+      "Eid-ul-Fitr"
+    ],
+    "src": "images/reviewed/festival-eid-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/festival-eid-480.webp",
+        "width": 480,
+        "height": 365,
+        "bytes": 41722
+      },
+      {
+        "src": "images/reviewed/festival-eid-960.webp",
+        "width": 960,
+        "height": 730,
+        "bytes": 126844
+      }
+    ],
+    "width": 960,
+    "height": 730,
+    "source": "https://commons.wikimedia.org/wiki/File:Thousands_of_Muslims_praying_during_the_Eid_festival_at_a_mosque_in_Delhi_in_1942.jpg",
+    "title": "Thousands of Muslims praying during the Eid festival at a mosque in Delhi in 1942.jpg",
+    "creator": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Thousands_of_Muslims_praying_during_the_Eid_festival_at_a_mosque_in_Delhi_in_1942.jpg",
+    "originalFile": "images/commons/festival-eid.jpg",
+    "originalSha256": "e00cc31dc42ba5a2a0f1d77d2bd98be1f0d814ac1279e0a23520ac2a46319250",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "food-kashmiri": {
+    "id": "food-kashmiri",
+    "alt": "Dishes served as part of a Kashmiri wazwan",
+    "subjects": [
+      "Wazwan"
+    ],
+    "src": "images/reviewed/food-kashmiri-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/food-kashmiri-480.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 23584
+      },
+      {
+        "src": "images/reviewed/food-kashmiri-960.webp",
+        "width": 960,
+        "height": 539,
+        "bytes": 68168
+      }
+    ],
+    "width": 960,
+    "height": 539,
+    "source": "https://commons.wikimedia.org/wiki/File:Kashmiri_Warzwan_02.jpg",
+    "title": "Kashmiri Warzwan 02.jpg",
+    "creator": "Aakash Goyal",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/food-kashmiri.jpg",
+    "originalSha256": "47fffca1950d3b4598dd602fb4afb1039bcc8526ec29b94184ab1d2c8c590fef",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "food-gujarati": {
+    "id": "food-gujarati",
+    "alt": "Gujarati thali with papad, buttermilk and mango pulp",
+    "subjects": [
+      "Gujarati thali"
+    ],
+    "src": "images/reviewed/food-gujarati-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/food-gujarati-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 17056
+      },
+      {
+        "src": "images/reviewed/food-gujarati-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 53204
+      }
+    ],
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:Gujarati_Thali_(Dish)_With_Papad,Chhas_(Butter-Milk),Aam_Rass_(Mango_Juice)_And_Water.jpg",
+    "title": "Gujarati Thali (Dish) With Papad,Chhas (Butter-Milk),Aam Rass (Mango Juice) And Water.jpg",
+    "creator": "Shivkatira",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/food-gujarati.jpg",
+    "originalSha256": "eec9f5c83a13c4be205f08aef92a22bf4acb5c574d7e50eec7766fbdbcc61708",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "food-kerala": {
+    "id": "food-kerala",
+    "alt": "Sadya served on a banana leaf",
+    "subjects": [
+      "Sadya"
+    ],
+    "src": "images/reviewed/food-kerala-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/food-kerala-480.webp",
+        "width": 480,
+        "height": 340,
+        "bytes": 41214
+      },
+      {
+        "src": "images/reviewed/food-kerala-960.webp",
+        "width": 960,
+        "height": 680,
+        "bytes": 150068
+      }
+    ],
+    "width": 960,
+    "height": 680,
+    "source": "https://commons.wikimedia.org/wiki/File:Sadya_-_An_art.jpeg",
+    "title": "Sadya - An art.jpeg",
+    "creator": "Sreerajsadanand",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/food-kerala.jpeg",
+    "originalSha256": "18a7f54d6023a8354dac0a79be34b9d4893fcbc2e2feb1c0d1a8a8e05c787877",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "food-bengali": {
+    "id": "food-bengali",
+    "alt": "A Bengali vegetarian thali",
+    "subjects": [
+      "Bengali vegetarian thali"
+    ],
+    "src": "images/reviewed/food-bengali-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/food-bengali-480.webp",
+        "width": 480,
+        "height": 404,
+        "bytes": 44426
+      },
+      {
+        "src": "images/reviewed/food-bengali-960.webp",
+        "width": 960,
+        "height": 808,
+        "bytes": 138296
+      }
+    ],
+    "width": 960,
+    "height": 808,
+    "source": "https://commons.wikimedia.org/wiki/File:Bengali_vegetarian_thali.jpg",
+    "title": "Bengali vegetarian thali.jpg",
+    "creator": "Marajozkee",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/food-bengali.jpg",
+    "originalSha256": "b97a8ca538e96b3e3a3f8ccf5f5bbf64762928a16de61b72b18a17fd31dc5a78",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dance-bharatanatyam": {
+    "id": "dance-bharatanatyam",
+    "alt": "A Bharatanatyam performer on stage",
+    "subjects": [
+      "Bharatanatyam"
+    ],
+    "src": "images/reviewed/dance-bharatanatyam-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dance-bharatanatyam-480.webp",
+        "width": 480,
+        "height": 754,
+        "bytes": 37502
+      },
+      {
+        "src": "images/reviewed/dance-bharatanatyam-960.webp",
+        "width": 960,
+        "height": 1508,
+        "bytes": 109746
+      }
+    ],
+    "width": 960,
+    "height": 1508,
+    "source": "https://commons.wikimedia.org/wiki/File:Bharata_Natyam_Performance_DS.jpg",
+    "title": "Bharata Natyam Performance DS.jpg",
+    "creator": "Augustus Binu/ facebook",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "images/commons/dance-bharatanatyam.jpg",
+    "originalSha256": "7f2e84e3adbe6652e0c9f10639c60b96d388275121f5656941d7d131f6c095d2",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dance-kuchipudi": {
+    "id": "dance-kuchipudi",
+    "alt": "A Kuchipudi performer on stage",
+    "subjects": [
+      "Kuchipudi"
+    ],
+    "src": "images/reviewed/dance-kuchipudi-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dance-kuchipudi-480.webp",
+        "width": 480,
+        "height": 679,
+        "bytes": 32898
+      },
+      {
+        "src": "images/reviewed/dance-kuchipudi-960.webp",
+        "width": 960,
+        "height": 1358,
+        "bytes": 119814
+      }
+    ],
+    "width": 960,
+    "height": 1358,
+    "source": "https://commons.wikimedia.org/wiki/File:Kuchipudi_Performer_DS.jpg",
+    "title": "Kuchipudi Performer DS.jpg",
+    "creator": "Augustus Binu/ facebook",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "images/commons/dance-kuchipudi.jpg",
+    "originalSha256": "6aa6ad89a4353f2c28c544817f98ea7129748244ba88c916aa8ab0b135bd9154",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dance-kathakali": {
+    "id": "dance-kathakali",
+    "alt": "A Kathakali performer preparing makeup",
+    "subjects": [
+      "Kathakali"
+    ],
+    "src": "images/reviewed/dance-kathakali-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dance-kathakali-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 9572
+      },
+      {
+        "src": "images/reviewed/dance-kathakali-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 33382
+      }
+    ],
+    "width": 960,
+    "height": 640,
+    "source": "https://commons.wikimedia.org/wiki/File:A_kathakali_dancer_prepares.jpg",
+    "title": "A kathakali dancer prepares.jpg",
+    "creator": "Evan Silver",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dance-kathakali.jpg",
+    "originalSha256": "543cac6be541e071786cb80b56ad2f54e196efbc0e89eb3899730083399e4b0e",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dance-odissi": {
+    "id": "dance-odissi",
+    "alt": "An Odissi dancer in performance",
+    "subjects": [
+      "Odissi"
+    ],
+    "src": "images/reviewed/dance-odissi-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dance-odissi-480.webp",
+        "width": 480,
+        "height": 725,
+        "bytes": 25782
+      },
+      {
+        "src": "images/reviewed/dance-odissi-960.webp",
+        "width": 960,
+        "height": 1450,
+        "bytes": 105094
+      }
+    ],
+    "width": 960,
+    "height": 1450,
+    "source": "https://commons.wikimedia.org/wiki/File:Odissi_Dance.JPG",
+    "title": "Odissi Dance.JPG",
+    "creator": "Augustus Binu : flickr",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "images/commons/dance-odissi.jpg",
+    "originalSha256": "99da603958b93e310fb3257dde92702547079387a2620f7cf3bfe0d97b871134",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dance-mohiniyattam": {
+    "id": "dance-mohiniyattam",
+    "alt": "Mohiniyattam at Kerala school Kalolsavam in 2019",
+    "subjects": [
+      "Mohiniyattam"
+    ],
+    "src": "images/reviewed/dance-mohiniyattam-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dance-mohiniyattam-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 12930
+      },
+      {
+        "src": "images/reviewed/dance-mohiniyattam-960.webp",
+        "width": 960,
+        "height": 641,
+        "bytes": 41408
+      }
+    ],
+    "width": 960,
+    "height": 641,
+    "source": "https://commons.wikimedia.org/wiki/File:Mohiniyattam_at_Kerala_state_school_kalothsavam_2019.jpg",
+    "title": "Mohiniyattam at Kerala state school kalothsavam 2019.jpg",
+    "creator": "Shagil Kannur",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dance-mohiniyattam.jpg",
+    "originalSha256": "60b048782868516b5fa7b95aa05d4b14e5615822ce22b8012b9987f6a90c6608",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "food-rajasthani": {
+    "id": "food-rajasthani",
+    "alt": "A Rajasthani meal photographed in Jaipur",
+    "subjects": [
+      "Rajasthani thali"
+    ],
+    "src": "images/reviewed/food-rajasthani-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/food-rajasthani-480.webp",
+        "width": 480,
+        "height": 343,
+        "bytes": 35208
+      },
+      {
+        "src": "images/reviewed/food-rajasthani-960.webp",
+        "width": 960,
+        "height": 686,
+        "bytes": 118914
+      }
+    ],
+    "width": 960,
+    "height": 686,
+    "source": "https://commons.wikimedia.org/wiki/File:Rajasthani_thali_,Jaipur_Rajasthan_india_1.jpg",
+    "title": "Rajasthani thali ,Jaipur Rajasthan india 1.jpg",
+    "creator": "Swapnil.Karambelkar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/food-rajasthani.jpg",
+    "originalSha256": "7a5a50d7fc155d2de35763be777aeb1a983aabad766932866742e134741a4be2",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dance-kathak": {
+    "id": "dance-kathak",
+    "alt": "Kathak dancer Namrata Rai, photographed by Avinash Pasricha",
+    "subjects": [
+      "Kathak"
+    ],
+    "src": "images/reviewed/dance-kathak-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dance-kathak-480.webp",
+        "width": 480,
+        "height": 467,
+        "bytes": 22140
+      },
+      {
+        "src": "images/reviewed/dance-kathak-960.webp",
+        "width": 960,
+        "height": 933,
+        "bytes": 82140
+      }
+    ],
+    "width": 960,
+    "height": 933,
+    "source": "https://commons.wikimedia.org/wiki/File:Kathak_Dancer_Namrata_Rai,_clicked_by_famous_photographer_(Padma_Shri)_Shri_Avinash_Pasricha.jpg",
+    "title": "Kathak Dancer Namrata Rai, clicked by famous photographer (Padma Shri) Shri Avinash Pasricha.jpg",
+    "creator": "Nishasinghrai",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dance-kathak.jpg",
+    "originalSha256": "17ff211c7bbf7539e04989d55c15153a227ac0c40215f48e60da22c3e7246ac0",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "festival-mysuru-dasara": {
+    "id": "festival-mysuru-dasara",
+    "alt": "Elephants in a Mysuru Dasara procession",
+    "subjects": [
+      "Mysuru Dasara"
+    ],
+    "src": "images/reviewed/festival-mysuru-dasara-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/festival-mysuru-dasara-480.webp",
+        "width": 480,
+        "height": 346,
+        "bytes": 57644
+      },
+      {
+        "src": "images/reviewed/festival-mysuru-dasara-960.webp",
+        "width": 960,
+        "height": 693,
+        "bytes": 192308
+      }
+    ],
+    "width": 960,
+    "height": 693,
+    "source": "https://commons.wikimedia.org/wiki/File:Mysore_Dasara_procession.jpg",
+    "title": "Mysore Dasara procession.jpg",
+    "creator": "Kalyan Kumar",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "originalFile": "images/commons/festival-mysuru-dasara.jpg",
+    "originalSha256": "c1e1ec0fc8837c00979fbdb30ab5c21d6d34a03fb9b2ed0a1e8c24521c77fd58",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "festival-kambala": {
+    "id": "festival-kambala",
+    "alt": "Buffaloes and a runner in a Kambala race",
+    "subjects": [
+      "Kambala"
+    ],
+    "src": "images/reviewed/festival-kambala-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/festival-kambala-480.webp",
+        "width": 480,
+        "height": 720,
+        "bytes": 54120
+      },
+      {
+        "src": "images/reviewed/festival-kambala-960.webp",
+        "width": 960,
+        "height": 1439,
+        "bytes": 183532
+      }
+    ],
+    "width": 960,
+    "height": 1439,
+    "source": "https://commons.wikimedia.org/wiki/File:Kambala_Pride_of_Tulunadu.jpg",
+    "title": "Kambala Pride of Tulunadu.jpg",
+    "creator": "Sagar Shetty98",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "originalFile": "images/commons/festival-kambala.jpg",
+    "originalSha256": "d0444c9d32561762f5da7ddb741ed24ee9e63cbf7b7e20b103c8ed71d9bd0f1a",
+    "reviewedAt": "2026-09-17",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  }
+}

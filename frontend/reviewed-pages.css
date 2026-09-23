@@ -1,0 +1,4 @@
+.destinations-hero{background-image:linear-gradient(90deg,rgba(9,30,22,.82),rgba(9,30,22,.28)),url('images/reviewed/dest-uttarakhand-960.webp')}
+.culture-page-hero{background-image:linear-gradient(90deg,rgba(42,15,4,.82),rgba(42,15,4,.22)),url('images/reviewed/festival-mysuru-dasara-960.webp')}
+.about-hero{background:linear-gradient(110deg,rgba(11,39,29,.95),rgba(21,62,49,.77)),url('images/reviewed/dest-telangana-960.webp') center/cover}
+@media(prefers-reduced-motion:reduce){.hero-video{display:block!important}.home-hero{background:#132c22}}

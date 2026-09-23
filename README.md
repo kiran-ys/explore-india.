@@ -1,66 +1,37 @@
 # Explore India
 
-Explore India is a portfolio-ready tourism discovery platform that helps travellers explore every Indian state and union territory.
+An India destination discovery and trip planning project built with vanilla HTML, CSS and JavaScript, Node.js 24, Express 5, and SQLite. It covers all 28 states and 8 union territories.
 
-## Current stage
+## What works locally
 
-The current build provides:
+- Searchable destination pages combine a curated place list, regional food, traditions, festivals, map search, and practical links. The place list currently has 202 distinct entries across 36 destinations, with 5 to 22 per destination. The regional culture entries are still uneven and require item-specific research.
+- A reviewed catalogue supplies 38 subject-matched photographs with attribution and licence links at [image credits](frontend/credits.html). Where a verified image is unavailable, the site shows an explicit illustration instead of an unrelated photograph.
+- Travellers can register, sign in, save destinations, build and edit day-by-day trip plans, share a revocable itinerary snapshot, and print plans. Transfer days are conservative planning buffers, **not** calculated routes or confirmed times/prices.
+- Reviews are private until an administrator approves them. Signed-in users can report published reviews. Enquiries are stored for the administrator, with optional email notifications through Resend when privately configured.
+- Weather uses Open-Meteo and maps use OpenStreetMap. Hotel and transport links open third-party searches; Explore India does not book either service.
 
-- a responsive multi-page frontend;
-- an Express application server;
-- a persistent SQLite database with a versioned schema;
-- all 28 states and 8 union territories as database-managed destinations, each with a locally stored destination image;
-- destination search and region filtering through the API;
-- destination pages with five famous places, regional food, living culture and nearby inspiration;
-- expanded festival, regional cuisine and classical dance coverage, including Karnataka cuisine and festivals;
-- live weather from Open-Meteo and an interactive OpenStreetMap view on every destination page;
-- map, weather, stay-search and share actions on every destination page without requiring an API key;
-- persistent contact enquiries with client and server validation; and
-- traveller ratings and written reviews, with one editable review per signed-in traveller; and
-- automated API tests for the public, traveller and administrator flows.
+## Run and test
 
-It also provides registration, login/logout, seven-day secure sessions, traveller and administrator roles, audit logging, saved destinations, trip planning and an administrator workspace for enquiries and destination visibility.
-
-Hotel bookings, transport bookings and enquiry-email delivery are intentionally external integrations. The interface opens trusted search and travel tools without collecting payment or booking data; production booking and notification integrations require the selected providers' API keys and policies.
-
-## Run locally
-
-Requires Node.js 24 or newer.
+Install Node.js 24 or newer, then run:
 
 ```bash
-npm install
-npm run dev
-```
-
-Open `http://127.0.0.1:4173`.
-
-## Test
-
-```bash
+npm ci
 npm test
+npm start
 ```
 
-## Deploy
+Open `http://127.0.0.1:10000` unless `PORT` is set. For the browser smoke test, set `PLAYWRIGHT_MODULE` to a local Playwright package path and optionally `CHROME_BIN`, then run `node test/browser-smoke.mjs`. The smoke test uses an in-memory database and synthetic accounts.
 
-The project includes a production Docker configuration and a free Render Blueprint (`render.yaml`). It publishes the full application for demonstration, but the free service does not preserve SQLite data after restarts. `render-persistent.yaml` is available for a paid persistent disk mounted at `/app/data`; it keeps accounts, reviews, enquiries and trip plans. Set `ADMIN_EMAIL` and `ADMIN_PASSWORD` as private environment variables in the hosting provider before the first start.
+## Data and deployment
 
-Do not deploy this full-stack version to static-only hosting such as GitHub Pages: the API and database are required for sign-in, saved destinations, reviews and enquiries.
+The database defaults to `backend/data/explore-india.db`; override it with `EXPLORE_INDIA_DB`. The application migrates existing review and trip tables in place. **Back up the SQLite database before updating a deployment.** Keep the app stopped during a file-level backup and include its WAL sidecars if present, or use SQLite's online backup API. Restore the backup only after stopping the service, then restart on the previous application commit to roll back.
 
-## API routes
+`render.yaml` is the existing free Render deployment. Its filesystem is ephemeral: accounts, reviews, plans and enquiries can disappear after a restart or redeploy. Do not present that setup as durable storage. `render-persistent.yaml` provisions a paid disk and must only be selected after reviewing Render's current price. Alternatively migrate to a durable external database with a tested backup and restore path before relying on real user records. A GitHub push may trigger Render auto-deploy; check the Render deployment and health endpoint after publication.
 
-- `GET /api/health`
-- `GET /api/destinations`
-- `GET /api/destinations?region=south&q=kerala`
-- `GET /api/destinations/:slug`
-- `POST /api/enquiries`
-- `POST /api/auth/register`
-- `POST /api/auth/login`
-- `POST /api/auth/logout`
-- `GET /api/auth/me`
-- `GET /api/admin/summary`
+Set `ADMIN_EMAIL` and a strong `ADMIN_PASSWORD` only in private host environment variables before starting in production. Do not commit either value. Optional email notifications require `ENQUIRY_EMAIL_PROVIDER=resend`, `RESEND_API_KEY`, `ENQUIRY_EMAIL_FROM`, and `ENQUIRY_EMAIL_TO`; they are disabled otherwise. Provider charges or quotas must be checked before enabling. The free maps/weather services may impose usage or attribution rules; check current terms before high traffic.
 
-Administrator access is created only from private `ADMIN_EMAIL` and `ADMIN_PASSWORD` environment variables. Do not place administrator credentials in source code or documentation.
+Static-only GitHub Pages cannot run the API or SQLite features. Source code goes to GitHub; the Render web service hosts the application.
 
-The local database is created at `backend/data/explore-india.db` and is intentionally excluded from version control.
+## Remaining work
 
-Externally sourced image credits and reusable-license details are recorded in `IMAGE_ATTRIBUTIONS.md`.
+See [content audit](CONTENT_AUDIT.md). Culture stories for most destinations are short overviews; the site does not claim 10 fully researched items in every category. More item-specific sources and images, accessibility review, a durable production database, provider email verification, and broader end-to-end browser coverage remain before treating it as a business-ready service.

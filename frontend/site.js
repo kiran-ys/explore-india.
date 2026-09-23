@@ -7,3 +7,4 @@ const footerNavigation=document.querySelector(".site-footer nav");
 footerNavigation?.append(Object.assign(document.createElement("a"),{href:"about.html",textContent:"About this project"}),Object.assign(document.createElement("a"),{href:"admin.html",textContent:"Admin access"}));
 
 fetch("/api/auth/me").then(response=>response.ok?response.json():null).then(result=>{if(!navigation)return;const user=result?.data,links=user?.role==="admin"?[["admin.html","Admin"]]:user?[["favourites.html","Saved"],["planner.html","Plan a trip"],["profile.html","Profile"]]:[["auth.html","Sign in"]];links.forEach(([href,label])=>{const link=document.createElement("a");link.href=href;link.textContent=label;navigation.append(link)})}).catch(()=>{});
+import('./page-media.js').catch(() => {});

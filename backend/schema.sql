@@ -79,6 +79,32 @@ CREATE TABLE IF NOT EXISTS destination_reviews (
   UNIQUE(user_id, destination_id)
 );
 
+CREATE TABLE IF NOT EXISTS review_reports (
+  id INTEGER PRIMARY KEY,
+  review_id INTEGER NOT NULL REFERENCES destination_reviews(id) ON DELETE CASCADE,
+  reporter_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+  reason TEXT NOT NULL CHECK (reason IN ('spam', 'offensive', 'misleading', 'privacy', 'other')),
+  detail TEXT NOT NULL DEFAULT '',
+  status TEXT NOT NULL DEFAULT 'open' CHECK (status IN ('open', 'resolved', 'dismissed')),
+  created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  UNIQUE(review_id, reporter_id)
+);
+
+CREATE TABLE IF NOT EXISTS enquiry_notifications (
+  enquiry_id INTEGER PRIMARY KEY REFERENCES enquiries(id) ON DELETE CASCADE,
+  status TEXT NOT NULL DEFAULT 'disabled' CHECK (status IN ('disabled', 'pending', 'accepted', 'failed')),
+  provider_id TEXT,
+  error TEXT,
+  attempts INTEGER NOT NULL DEFAULT 0,
+  updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE IF NOT EXISTS enquiry_submissions (
+  submission_key TEXT PRIMARY KEY,
+  body_hash TEXT NOT NULL,
+  enquiry_id INTEGER NOT NULL REFERENCES enquiries(id) ON DELETE CASCADE
+);
+
 CREATE INDEX IF NOT EXISTS idx_destinations_region_published
 ON destinations(region, published);
 
