@@ -1,4 +1,1264 @@
 {
+  "dest-himachal-pradesh": {
+    "id": "dest-himachal-pradesh",
+    "alt": "Christ Church in Shimla with snow-covered hills behind it",
+    "subjects": [
+      "Christ Church Shimla"
+    ],
+    "src": "images/reviewed/dest-himachal-pradesh-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-himachal-pradesh-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 37072
+      },
+      {
+        "src": "images/reviewed/dest-himachal-pradesh-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 129312
+      }
+    ],
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:Christ_Church,_Shimla.jpg",
+    "title": "Christ Church, Shimla.jpg",
+    "creator": "ShashankSharma2511",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "originalFile": "images/commons/dest-himachal-pradesh.jpg",
+    "originalSha256": "874ac0b75c13690f5ccbc0f4426728627eb7fc76aeb236155fc98cc787c7c34b",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-jammu-kashmir": {
+    "id": "dest-jammu-kashmir",
+    "alt": "Houseboats on Dal Lake in Srinagar",
+    "subjects": [
+      "Dal Lake",
+      "Srinagar"
+    ],
+    "src": "images/reviewed/dest-jammu-kashmir-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-jammu-kashmir-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 30794
+      },
+      {
+        "src": "images/reviewed/dest-jammu-kashmir-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 121218
+      }
+    ],
+    "width": 960,
+    "height": 640,
+    "source": "https://commons.wikimedia.org/wiki/File:Dal_Lake,_Srinagar,_Jammu_and_Kashmir.jpg",
+    "title": "Dal Lake, Srinagar, Jammu and Kashmir.jpg",
+    "creator": "Dashrathgoyal85",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dest-jammu-kashmir.jpg",
+    "originalSha256": "7b5aa7554c0100041eb5ee9693d9fd7474b7502159c72889dfc6bf6809d8ef53",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-kerala": {
+    "id": "dest-kerala",
+    "alt": "A boat travelling through Kerala backwaters near Nedumudy",
+    "subjects": [
+      "Kerala backwaters"
+    ],
+    "src": "images/reviewed/dest-kerala-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-kerala-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 33176
+      },
+      {
+        "src": "images/reviewed/dest-kerala-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 143030
+      }
+    ],
+    "width": 960,
+    "height": 640,
+    "source": "https://commons.wikimedia.org/wiki/File:Kerala_Backwaters_near_Nedumudy_-_4.jpg",
+    "title": "Kerala Backwaters near Nedumudy - 4.jpg",
+    "creator": "Ingo Mehling",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dest-kerala.jpg",
+    "originalSha256": "0eebebd1e0453ba548c25d0989d1b6c37ef9932bb95aebf05d15c69247bb0a43",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-rajasthan": {
+    "id": "dest-rajasthan",
+    "alt": "The pink facade of Hawa Mahal in Jaipur",
+    "subjects": [
+      "Hawa Mahal"
+    ],
+    "src": "images/reviewed/dest-rajasthan-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-rajasthan-480.webp",
+        "width": 480,
+        "height": 414,
+        "bytes": 45066
+      },
+      {
+        "src": "images/reviewed/dest-rajasthan-960.webp",
+        "width": 960,
+        "height": 827,
+        "bytes": 182232
+      }
+    ],
+    "width": 960,
+    "height": 827,
+    "source": "https://commons.wikimedia.org/wiki/File:Hawa_Mahal_2011.jpg",
+    "title": "Hawa Mahal 2011.jpg",
+    "creator": "Marcin Białek",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dest-rajasthan.jpg",
+    "originalSha256": "dbee30b467f73b1c76c9611aa9616d1ca881e4ffda63b93e6caabddc91594a32",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-andhra-pradesh": {
+    "id": "dest-andhra-pradesh",
+    "alt": "Tirumala Venkateswara Temple in Andhra Pradesh",
+    "subjects": [
+      "Tirumala Venkateswara Temple"
+    ],
+    "src": "images/reviewed/dest-andhra-pradesh-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-andhra-pradesh-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 22620
+      },
+      {
+        "src": "images/reviewed/dest-andhra-pradesh-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 78450
+      }
+    ],
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:A_View_of_Tirumala_Venkateswara_Temple.JPG",
+    "title": "A View of Tirumala Venkateswara Temple.JPG",
+    "creator": "Adityamadhav83",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "images/commons/dest-andhra-pradesh.jpg",
+    "originalSha256": "2e178b6dcf736e6fbe7cc5ad8ae65233bf0771c44c122e53f51d46766d4354e9",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-bihar": {
+    "id": "dest-bihar",
+    "alt": "Mahabodhi Temple complex in Bodh Gaya",
+    "subjects": [
+      "Mahabodhi Temple"
+    ],
+    "src": "images/reviewed/dest-bihar-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-bihar-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 43004
+      },
+      {
+        "src": "images/reviewed/dest-bihar-960.webp",
+        "width": 960,
+        "height": 641,
+        "bytes": 176926
+      }
+    ],
+    "width": 960,
+    "height": 641,
+    "source": "https://commons.wikimedia.org/wiki/File:Mahabodhi_temple_complex,_Bodhgaya_23.jpg",
+    "title": "Mahabodhi temple complex, Bodhgaya 23.jpg",
+    "creator": "Rohit Sharma",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dest-bihar.jpg",
+    "originalSha256": "f556b3ae226288d5e0028ea2a99a592e0e81e2c5ef0cc3ab904b92530832b339",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-goa": {
+    "id": "dest-goa",
+    "alt": "Front facade of the Basilica of Bom Jesus in Goa",
+    "subjects": [
+      "Basilica of Bom Jesus"
+    ],
+    "src": "images/reviewed/dest-goa-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-goa-480.webp",
+        "width": 480,
+        "height": 339,
+        "bytes": 28870
+      },
+      {
+        "src": "images/reviewed/dest-goa-960.webp",
+        "width": 960,
+        "height": 679,
+        "bytes": 110456
+      }
+    ],
+    "width": 960,
+    "height": 679,
+    "source": "https://commons.wikimedia.org/wiki/File:Front_Elevation_of_Basilica_of_Bom_Jesus.jpg",
+    "title": "Front Elevation of Basilica of Bom Jesus.jpg",
+    "creator": "iMahesh",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dest-goa.jpg",
+    "originalSha256": "89592bb10a25a037ba7ecf3de0741c9cfe7925cc0d6a71dd98a4247c5df88283",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-gujarat": {
+    "id": "dest-gujarat",
+    "alt": "White salt flats of the Rann of Kutch at sunset",
+    "subjects": [
+      "Rann of Kutch"
+    ],
+    "src": "images/reviewed/dest-gujarat-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-gujarat-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 28876
+      },
+      {
+        "src": "images/reviewed/dest-gujarat-960.webp",
+        "width": 800,
+        "height": 533,
+        "bytes": 86388
+      }
+    ],
+    "width": 800,
+    "height": 533,
+    "source": "https://commons.wikimedia.org/wiki/File:White_Rann_of_Kutch.jpg",
+    "title": "White Rann of Kutch.jpg",
+    "creator": "Rahul Zota",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dest-gujarat.jpg",
+    "originalSha256": "e8264fee60ee9c5cf92add872f54e53352cf7136db2f168de365d409653e1ab9",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-karnataka": {
+    "id": "dest-karnataka",
+    "alt": "Virupaksha Temple complex among the ruins of Hampi",
+    "subjects": [
+      "Hampi",
+      "Virupaksha Temple"
+    ],
+    "src": "images/reviewed/dest-karnataka-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-karnataka-480.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 21934
+      },
+      {
+        "src": "images/reviewed/dest-karnataka-960.webp",
+        "width": 960,
+        "height": 540,
+        "bytes": 93794
+      }
+    ],
+    "width": 960,
+    "height": 540,
+    "source": "https://commons.wikimedia.org/wiki/File:Complex_of_Virupaksha_Temple,_Hampi_(08).jpg",
+    "title": "Complex of Virupaksha Temple, Hampi (08).jpg",
+    "creator": "iMahesh",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dest-karnataka.jpg",
+    "originalSha256": "b5dc5ed04d0b43d3b33359a26f19f77d7f29646ce0509028ccc1ec368a86488a",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-maharashtra": {
+    "id": "dest-maharashtra",
+    "alt": "Gateway of India on Mumbai waterfront",
+    "subjects": [
+      "Gateway of India"
+    ],
+    "src": "images/reviewed/dest-maharashtra-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-maharashtra-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 23836
+      },
+      {
+        "src": "images/reviewed/dest-maharashtra-960.webp",
+        "width": 960,
+        "height": 960,
+        "bytes": 101762
+      }
+    ],
+    "width": 960,
+    "height": 960,
+    "source": "https://commons.wikimedia.org/wiki/File:The_Gateway_of_India,_Mumbai,_Maharashtra,_India.jpg",
+    "title": "The Gateway of India, Mumbai, Maharashtra, India.jpg",
+    "creator": "Craftofolio.media",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dest-maharashtra.jpg",
+    "originalSha256": "2910944e0c3e0ead4fe2d4204994f06fea20880216d6f54fe2986b6b01892ba1",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-punjab": {
+    "id": "dest-punjab",
+    "alt": "The Golden Temple reflected in its sacred pool in Amritsar",
+    "subjects": [
+      "Golden Temple"
+    ],
+    "src": "images/reviewed/dest-punjab-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-punjab-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 25892
+      },
+      {
+        "src": "images/reviewed/dest-punjab-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 98816
+      }
+    ],
+    "width": 960,
+    "height": 640,
+    "source": "https://commons.wikimedia.org/wiki/File:Golden_Temple,_Amritsar_01.jpg",
+    "title": "Golden Temple, Amritsar 01.jpg",
+    "creator": "Bernard Gagnon",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dest-punjab.jpg",
+    "originalSha256": "97e5dc3318430b1fb4ecdbd04a28cc6e9ae2c590b29fce06bbea9a7ef96a2f2a",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-tamil-nadu": {
+    "id": "dest-tamil-nadu",
+    "alt": "Carved gopuram of Meenakshi Amman Temple in Madurai",
+    "subjects": [
+      "Meenakshi Amman Temple"
+    ],
+    "src": "images/reviewed/dest-tamil-nadu-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-tamil-nadu-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 93246
+      },
+      {
+        "src": "images/reviewed/dest-tamil-nadu-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 308574
+      }
+    ],
+    "width": 960,
+    "height": 1280,
+    "source": "https://commons.wikimedia.org/wiki/File:Meenakshi_Amman_Temple_Tamil_Nadu_India.jpg",
+    "title": "Meenakshi Amman Temple Tamil Nadu India.jpg",
+    "creator": "Upretyvaibhav",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dest-tamil-nadu.jpg",
+    "originalSha256": "f4946f9c26a535032b22f13a93accd634d720c6e65dc2a625be95dba4ea9544b",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-uttar-pradesh": {
+    "id": "dest-uttar-pradesh",
+    "alt": "Taj Mahal seen from its garden in Agra",
+    "subjects": [
+      "Taj Mahal"
+    ],
+    "src": "images/reviewed/dest-uttar-pradesh-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-uttar-pradesh-480.webp",
+        "width": 480,
+        "height": 316,
+        "bytes": 19024
+      },
+      {
+        "src": "images/reviewed/dest-uttar-pradesh-960.webp",
+        "width": 960,
+        "height": 632,
+        "bytes": 73742
+      }
+    ],
+    "width": 960,
+    "height": 632,
+    "source": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India_edit2.jpg",
+    "title": "Taj Mahal, Agra, India edit2.jpg",
+    "creator": "Yann; edited by King of Hearts",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dest-uttar-pradesh.jpg",
+    "originalSha256": "1b9bffd9a3260b8cbf6232e6038b24f7a2dfc44b84a99b5ec322432bda307007",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dest-west-bengal": {
+    "id": "dest-west-bengal",
+    "alt": "Victoria Memorial in Kolkata",
+    "subjects": [
+      "Victoria Memorial"
+    ],
+    "src": "images/reviewed/dest-west-bengal-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dest-west-bengal-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 27162
+      },
+      {
+        "src": "images/reviewed/dest-west-bengal-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 127302
+      }
+    ],
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:Victoria_Memorial,_Kolkata,_West_Bengal_(1).jpg",
+    "title": "Victoria Memorial, Kolkata, West Bengal (1).jpg",
+    "creator": "K.Venkataramana",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "originalFile": "images/commons/dest-west-bengal.jpg",
+    "originalSha256": "bfe7c9d98deefb8cc5c652d93d28909b48c34b88222a64f713517c8212fd5157",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "place-gulmarg": {
+    "id": "place-gulmarg",
+    "alt": "Green meadows and grazing animals near Gulmarg",
+    "subjects": [
+      "Gulmarg"
+    ],
+    "src": "images/reviewed/place-gulmarg-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/place-gulmarg-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 72116
+      },
+      {
+        "src": "images/reviewed/place-gulmarg-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 304558
+      }
+    ],
+    "width": 960,
+    "height": 1280,
+    "source": "https://commons.wikimedia.org/wiki/File:Landscape_view_of_Gulmarg,_Kashmir_01.jpg",
+    "title": "Landscape view of Gulmarg, Kashmir 01.jpg",
+    "creator": "Harvinder Chandigarh",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "originalFile": "images/commons/place-gulmarg.jpg",
+    "originalSha256": "275f21bc3aca6f78d2901e31ada3024b46bfe41969fa2cb50fd42e3be8b94754",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "place-pahalgam": {
+    "id": "place-pahalgam",
+    "alt": "River valley and wooded mountains near Pahalgam",
+    "subjects": [
+      "Pahalgam"
+    ],
+    "src": "images/reviewed/place-pahalgam-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/place-pahalgam-480.webp",
+        "width": 480,
+        "height": 268,
+        "bytes": 29700
+      },
+      {
+        "src": "images/reviewed/place-pahalgam-960.webp",
+        "width": 960,
+        "height": 536,
+        "bytes": 121300
+      }
+    ],
+    "width": 960,
+    "height": 536,
+    "source": "https://commons.wikimedia.org/wiki/File:Pahalgam_Valley.jpg",
+    "title": "Pahalgam Valley.jpg",
+    "creator": "KennyOMG",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "images/commons/place-pahalgam.jpg",
+    "originalSha256": "5f22e8cc13c8ccd212030e20e7a23fcccf42e428212a9831e2775eb5cfec4102",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "place-sonamarg": {
+    "id": "place-sonamarg",
+    "alt": "Mountain meadow at Sonamarg",
+    "subjects": [
+      "Sonamarg"
+    ],
+    "src": "images/reviewed/place-sonamarg-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/place-sonamarg-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 30724
+      },
+      {
+        "src": "images/reviewed/place-sonamarg-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 123494
+      }
+    ],
+    "width": 960,
+    "height": 640,
+    "source": "https://commons.wikimedia.org/wiki/File:Mountain_Meadow_in_Sonamarg,_Kashmir,_India.jpg",
+    "title": "Mountain Meadow in Sonamarg, Kashmir, India.jpg",
+    "creator": "Rohit Sharma",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/place-sonamarg.jpg",
+    "originalSha256": "8e0b18f3d88993b52010c98522e9795b73edec11287ea98fbefd6b891e359d4a",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "place-jammu": {
+    "id": "place-jammu",
+    "alt": "Bahu Fort in Jammu",
+    "subjects": [
+      "Jammu"
+    ],
+    "src": "images/reviewed/place-jammu-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/place-jammu-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 29600
+      },
+      {
+        "src": "images/reviewed/place-jammu-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 114822
+      }
+    ],
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:Bahu_Fort,_Jammu,_India.jpg",
+    "title": "Bahu Fort, Jammu, India.jpg",
+    "creator": "Nvvchar",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "images/commons/place-jammu.jpg",
+    "originalSha256": "9659faa5cac75b21c3163dc1d8e265e354b9aa0725a80b830199640cf802cb9d",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "place-mysuru": {
+    "id": "place-mysuru",
+    "alt": "Mysuru Palace illuminated at night",
+    "subjects": [
+      "Mysuru"
+    ],
+    "src": "images/reviewed/place-mysuru-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/place-mysuru-480.webp",
+        "width": 480,
+        "height": 240,
+        "bytes": 14008
+      },
+      {
+        "src": "images/reviewed/place-mysuru-960.webp",
+        "width": 960,
+        "height": 481,
+        "bytes": 53652
+      }
+    ],
+    "width": 960,
+    "height": 481,
+    "source": "https://commons.wikimedia.org/wiki/File:Mysuru_Palace_-_Night_View.jpg",
+    "title": "Mysuru Palace - Night View.jpg",
+    "creator": "Ingo Mehling",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/place-mysuru.jpg",
+    "originalSha256": "8dbe30f39a4fff18747e3550064e8e8692d761bb5176bd8ddce7c997465b9da5",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "place-kodagu": {
+    "id": "place-kodagu",
+    "alt": "Landscape seen from Raja's Seat in Kodagu",
+    "subjects": [
+      "Kodagu"
+    ],
+    "src": "images/reviewed/place-kodagu-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/place-kodagu-480.webp",
+        "width": 480,
+        "height": 319,
+        "bytes": 24642
+      },
+      {
+        "src": "images/reviewed/place-kodagu-960.webp",
+        "width": 960,
+        "height": 638,
+        "bytes": 86348
+      }
+    ],
+    "width": 960,
+    "height": 638,
+    "source": "https://commons.wikimedia.org/wiki/File:View_from_Raja%27s_Seat_2.jpg",
+    "title": "View from Raja's Seat 2.jpg",
+    "creator": "Devaiahpa",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "images/commons/place-kodagu.jpg",
+    "originalSha256": "18482e5bde04c01f64afa3334a861d802dfc3c0f36ba9a1067e91e59fc843046",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "place-gokarna": {
+    "id": "place-gokarna",
+    "alt": "People walking on Om Beach at Gokarna",
+    "subjects": [
+      "Gokarna"
+    ],
+    "src": "images/reviewed/place-gokarna-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/place-gokarna-480.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 11924
+      },
+      {
+        "src": "images/reviewed/place-gokarna-960.webp",
+        "width": 960,
+        "height": 540,
+        "bytes": 68036
+      }
+    ],
+    "width": 960,
+    "height": 540,
+    "source": "https://commons.wikimedia.org/wiki/File:PXL_20260103_101009613_People_and_Beach_Om_Beach_Gokarna,_Karnataka_08.jpg",
+    "title": "PXL 20260103 101009613 People and Beach Om Beach Gokarna, Karnataka 08.jpg",
+    "creator": "Sourabh.biswas003",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/place-gokarna.jpg",
+    "originalSha256": "73b4af39844c3420d882cee3facf9ea5447a1486210384c22d74971f0a8c659c",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "place-chikkamagaluru": {
+    "id": "place-chikkamagaluru",
+    "alt": "Green hills around Mullayanagiri in Chikkamagaluru",
+    "subjects": [
+      "Chikkamagaluru"
+    ],
+    "src": "images/reviewed/place-chikkamagaluru-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/place-chikkamagaluru-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 40090
+      },
+      {
+        "src": "images/reviewed/place-chikkamagaluru-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 163830
+      }
+    ],
+    "width": 960,
+    "height": 640,
+    "source": "https://commons.wikimedia.org/wiki/File:Mullayanagiri,_Chikmagalur_district_of_Karnataka.jpg",
+    "title": "Mullayanagiri, Chikmagalur district of Karnataka.jpg",
+    "creator": "RakeshRaju M",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/place-chikkamagaluru.jpg",
+    "originalSha256": "2b8df95491590ccff2b2591b014aa40585245b49ddfbc7167cafe37515defaac",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "place-bengaluru": {
+    "id": "place-bengaluru",
+    "alt": "Vidhana Soudha illuminated in Bengaluru",
+    "subjects": [
+      "Bengaluru"
+    ],
+    "src": "images/reviewed/place-bengaluru-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/place-bengaluru-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 22078
+      },
+      {
+        "src": "images/reviewed/place-bengaluru-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 82044
+      }
+    ],
+    "width": 960,
+    "height": 640,
+    "source": "https://commons.wikimedia.org/wiki/File:Vidhana_Soudha_LE.jpg",
+    "title": "Vidhana Soudha LE.jpg",
+    "creator": "DeepanjanGhosh",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/place-bengaluru.jpg",
+    "originalSha256": "a71571890e083dd169febf8a66483db069db39b2a46683272355fb28b40668b4",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "place-badami": {
+    "id": "place-badami",
+    "alt": "Rock-cut cave temple at Badami",
+    "subjects": [
+      "Badami"
+    ],
+    "src": "images/reviewed/place-badami-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/place-badami-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 33180
+      },
+      {
+        "src": "images/reviewed/place-badami-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 127152
+      }
+    ],
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:A-cave-temple-at-badami.JPG",
+    "title": "A-cave-temple-at-badami.JPG",
+    "creator": "Rajeshodayanchal",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "images/commons/place-badami.jpg",
+    "originalSha256": "42686427981f224448b7db38f87b69495e1208fed16de7dd885291a32b750bc4",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "place-pattadakal": {
+    "id": "place-pattadakal",
+    "alt": "Stone temple at Pattadakal",
+    "subjects": [
+      "Pattadakal"
+    ],
+    "src": "images/reviewed/place-pattadakal-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/place-pattadakal-480.webp",
+        "width": 480,
+        "height": 309,
+        "bytes": 23424
+      },
+      {
+        "src": "images/reviewed/place-pattadakal-960.webp",
+        "width": 960,
+        "height": 617,
+        "bytes": 90042
+      }
+    ],
+    "width": 960,
+    "height": 617,
+    "source": "https://commons.wikimedia.org/wiki/File:The_Pattadakal_(Pattadakallu)_temple_complex_in_Karnataka_(26).jpg",
+    "title": "The Pattadakal (Pattadakallu) temple complex in Karnataka (26).jpg",
+    "creator": "Shagil Muzhappilangad",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/place-pattadakal.jpg",
+    "originalSha256": "9434c1929f5d598399f865d5a241c08f20b9f46fdc89643c73b9ead8b64d37fd",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "place-aihole": {
+    "id": "place-aihole",
+    "alt": "Durga Temple at Aihole",
+    "subjects": [
+      "Aihole"
+    ],
+    "src": "images/reviewed/place-aihole-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/place-aihole-480.webp",
+        "width": 480,
+        "height": 321,
+        "bytes": 26496
+      },
+      {
+        "src": "images/reviewed/place-aihole-960.webp",
+        "width": 960,
+        "height": 643,
+        "bytes": 109748
+      }
+    ],
+    "width": 960,
+    "height": 643,
+    "source": "https://commons.wikimedia.org/wiki/File:DurgaTempleAihole.JPG",
+    "title": "DurgaTempleAihole.JPG",
+    "creator": "Sanyam Bahga",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "images/commons/place-aihole.jpg",
+    "originalSha256": "6f6445945aef2567692da6d6f880b281741d6a2475b46825389a1012444a01ac",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "place-jog-falls": {
+    "id": "place-jog-falls",
+    "alt": "Jog Falls dropping over a forested escarpment",
+    "subjects": [
+      "Jog Falls"
+    ],
+    "src": "images/reviewed/place-jog-falls-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/place-jog-falls-480.webp",
+        "width": 480,
+        "height": 177,
+        "bytes": 7816
+      },
+      {
+        "src": "images/reviewed/place-jog-falls-960.webp",
+        "width": 960,
+        "height": 354,
+        "bytes": 26888
+      }
+    ],
+    "width": 960,
+    "height": 354,
+    "source": "https://commons.wikimedia.org/wiki/File:Jog_Falls_Wide.jpg",
+    "title": "Jog Falls Wide.jpg",
+    "creator": "Prasanaik (talk)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "images/commons/place-jog-falls.jpg",
+    "originalSha256": "72e4c0cc39bc932c7bfa20f005b4cf21ab6beac54f66b7804e318cf63dec5673",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "place-udupi": {
+    "id": "place-udupi",
+    "alt": "Entrance to Sri Krishna Temple at Udupi",
+    "subjects": [
+      "Udupi"
+    ],
+    "src": "images/reviewed/place-udupi-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/place-udupi-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 24964
+      },
+      {
+        "src": "images/reviewed/place-udupi-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 80900
+      }
+    ],
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:Udupi_Sri_Krishna_Temple,_Udupi,_Karnataka,_India_(2007).jpg",
+    "title": "Udupi Sri Krishna Temple, Udupi, Karnataka, India (2007).jpg",
+    "creator": "Ilya Mauter",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+    "originalFile": "images/commons/place-udupi.jpg",
+    "originalSha256": "294619442c946ef5055a5272306beeda0091c71606de7744197ff7c10881e3b5",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "place-murudeshwar": {
+    "id": "place-murudeshwar",
+    "alt": "Large Shiva statue at Murudeshwar",
+    "subjects": [
+      "Murudeshwar"
+    ],
+    "src": "images/reviewed/place-murudeshwar-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/place-murudeshwar-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 30928
+      },
+      {
+        "src": "images/reviewed/place-murudeshwar-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 95098
+      }
+    ],
+    "width": 960,
+    "height": 1280,
+    "source": "https://commons.wikimedia.org/wiki/File:Lord_Shiva_at_Murudeshwar,_Karnataka..jpg",
+    "title": "Lord Shiva at Murudeshwar, Karnataka..jpg",
+    "creator": "Abhijeetsawant",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "images/commons/place-murudeshwar.jpg",
+    "originalSha256": "9e6bae76d0ed8ef0aa065488d3103cfbe10321ffd3982c687edceca1de89d145",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "festival-diwali": {
+    "id": "festival-diwali",
+    "alt": "Diyas arranged for Diwali",
+    "subjects": [
+      "Diwali"
+    ],
+    "src": "images/reviewed/festival-diwali-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/festival-diwali-480.webp",
+        "width": 480,
+        "height": 321,
+        "bytes": 10526
+      },
+      {
+        "src": "images/reviewed/festival-diwali-960.webp",
+        "width": 960,
+        "height": 641,
+        "bytes": 26854
+      }
+    ],
+    "width": 960,
+    "height": 641,
+    "source": "https://commons.wikimedia.org/wiki/File:Diyas_Diwali_Decor_India.jpg",
+    "title": "Diyas Diwali Decor India.jpg",
+    "creator": "humdingor",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "originalFile": "images/commons/festival-diwali.jpg",
+    "originalSha256": "a6867b2f1dfe50c61570708d0ed67cc05f5135d1b85ca14ab9a8780828e160ca",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "festival-holi": {
+    "id": "festival-holi",
+    "alt": "People with coloured powder during Holi",
+    "subjects": [
+      "Holi"
+    ],
+    "src": "images/reviewed/festival-holi-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/festival-holi-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 20192
+      },
+      {
+        "src": "images/reviewed/festival-holi-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 54612
+      }
+    ],
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:Festival_of_Colours,_HOLI.jpg",
+    "title": "Festival of Colours, HOLI.jpg",
+    "creator": "Chandrabindu Naskar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/festival-holi.jpg",
+    "originalSha256": "9adac69e4c899ef737e8d7e372fa48ebddfcaf206c737fd6c06c4ea7f0be7546",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "festival-onam": {
+    "id": "festival-onam",
+    "alt": "Pookalam floral design made for Onam",
+    "subjects": [
+      "Onam"
+    ],
+    "src": "images/reviewed/festival-onam-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/festival-onam-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 30530
+      },
+      {
+        "src": "images/reviewed/festival-onam-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 129762
+      }
+    ],
+    "width": 960,
+    "height": 640,
+    "source": "https://commons.wikimedia.org/wiki/File:Onam-Pookalam(floral_designs).jpg",
+    "title": "Onam-Pookalam(floral designs).jpg",
+    "creator": "Yugaljoshi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/festival-onam.jpg",
+    "originalSha256": "d19ec32c25b4e565de0cce3dde6ec063697cac08c59ccde490943b8595cfe0dc",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "festival-pongal": {
+    "id": "festival-pongal",
+    "alt": "People celebrating Pongal in a street gathering",
+    "subjects": [
+      "Pongal"
+    ],
+    "src": "images/reviewed/festival-pongal-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/festival-pongal-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 53172
+      },
+      {
+        "src": "images/reviewed/festival-pongal-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 192384
+      }
+    ],
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:Pongal_Festival.jpg",
+    "title": "Pongal Festival.jpg",
+    "creator": "Hishampgm",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/festival-pongal.jpg",
+    "originalSha256": "3753bb0b69a9c8c106429de7b1782066cd9850066d3184397e931f7ca561f377",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "festival-baisakhi": {
+    "id": "festival-baisakhi",
+    "alt": "Sikh participants in a Baisakhi procession",
+    "subjects": [
+      "Baisakhi"
+    ],
+    "src": "images/reviewed/festival-baisakhi-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/festival-baisakhi-480.webp",
+        "width": 480,
+        "height": 319,
+        "bytes": 14296
+      },
+      {
+        "src": "images/reviewed/festival-baisakhi-960.webp",
+        "width": 800,
+        "height": 531,
+        "bytes": 27848
+      }
+    ],
+    "width": 800,
+    "height": 531,
+    "source": "https://commons.wikimedia.org/wiki/File:Baisakhi_a_Sikh_festival.jpg",
+    "title": "Baisakhi a Sikh festival.jpg",
+    "creator": "Marco Ghitti from Brescia / Lombardia / Italia",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "originalFile": "images/commons/festival-baisakhi.jpg",
+    "originalSha256": "8cc7fcfaf60aac8700efb989fafd8bceeb8021fd810dd6b267eaf5f2497513ae",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "food-karnataka": {
+    "id": "food-karnataka",
+    "alt": "Karnataka vegetarian meal served on a banana leaf",
+    "subjects": [
+      "Karnataka meals"
+    ],
+    "src": "images/reviewed/food-karnataka-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/food-karnataka-480.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 20960
+      },
+      {
+        "src": "images/reviewed/food-karnataka-960.webp",
+        "width": 960,
+        "height": 541,
+        "bytes": 72778
+      }
+    ],
+    "width": 960,
+    "height": 541,
+    "source": "https://commons.wikimedia.org/wiki/File:Karnataka_Vegetarian_Meal.jpg",
+    "title": "Karnataka Vegetarian Meal.jpg",
+    "creator": "Kalesh",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/food-karnataka.jpg",
+    "originalSha256": "62c8ad55432b055dc749119c5420bad3a25f0c1f35175e780732170776255a7d",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dance-manipuri": {
+    "id": "dance-manipuri",
+    "alt": "Krishna character performing Manipuri Ras Lila",
+    "subjects": [
+      "Manipuri"
+    ],
+    "src": "images/reviewed/dance-manipuri-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dance-manipuri-480.webp",
+        "width": 480,
+        "height": 720,
+        "bytes": 46638
+      },
+      {
+        "src": "images/reviewed/dance-manipuri-960.webp",
+        "width": 960,
+        "height": 1440,
+        "bytes": 132794
+      }
+    ],
+    "width": 960,
+    "height": 1440,
+    "source": "https://commons.wikimedia.org/wiki/File:Lord_Krishna_in_Manipuri_Ras_Lila_dance_01.jpg",
+    "title": "Lord Krishna in Manipuri Ras Lila dance 01.jpg",
+    "creator": "Suyash Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/dance-manipuri.jpg",
+    "originalSha256": "737080a45f0e7f2665bfb20fcaad8425cb1288017122a0b45bda1c60ffde0a35",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "dance-sattriya": {
+    "id": "dance-sattriya",
+    "alt": "Two dancers performing Sattriya on stage",
+    "subjects": [
+      "Sattriya"
+    ],
+    "src": "images/reviewed/dance-sattriya-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/dance-sattriya-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 19866
+      },
+      {
+        "src": "images/reviewed/dance-sattriya-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 45654
+      }
+    ],
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:Sattriya_Dance_Performance.jpg",
+    "title": "Sattriya Dance Performance.jpg",
+    "creator": "Creatorgallery1",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "originalFile": "images/commons/dance-sattriya.jpg",
+    "originalSha256": "7a6329f77ad6e982b3154cafc0d9b2512aba1f068175f76f014e691ade40ae73",
+    "reviewedAt": "2026-09-23",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
   "dest-arunachal-pradesh": {
     "id": "dest-arunachal-pradesh",
     "alt": "Tawang Monastery on its hillside",

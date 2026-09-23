@@ -360,26 +360,6 @@
     "original": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Kathak_Dancer_Namrata_Rai%2C_clicked_by_famous_photographer_%28Padma_Shri%29_Shri_Avinash_Pasricha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
   {
-    "slug": "dance-manipuri",
-    "search": "Manipuri dance India performance",
-    "file": "images/commons/dance-manipuri.jpg",
-    "title": "Bharatanatyam dance performance by Guru Saroja Vaidyanathan' disciples at Youth Festival 2012 IMG 3165 09.jpg",
-    "creator": "Sumita Roy Dutta",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bharatanatyam_dance_performance_by_Guru_Saroja_Vaidyanathan%27_disciples_at_Youth_Festival_2012_IMG_3165_09.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Bharatanatyam_dance_performance_by_Guru_Saroja_Vaidyanathan%27_disciples_at_Youth_Festival_2012_IMG_3165_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
-  },
-  {
-    "slug": "food-karnataka",
-    "search": "Karnataka thali food India",
-    "file": "images/commons/food-karnataka.jpg",
-    "title": "The Vijaynagar Thali.jpg",
-    "creator": "Klassic Khushi",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Vijaynagar_Thali.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/3/39/The_Vijaynagar_Thali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
-  },
-  {
     "slug": "festival-mysuru-dasara",
     "search": "Mysore Dasara Karnataka India festival",
     "file": "images/commons/festival-mysuru-dasara.jpg",
@@ -408,5 +388,375 @@
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Kambala_Pride_of_Tulunadu.jpg",
     "original": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Kambala_Pride_of_Tulunadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "dest-himachal-pradesh",
+    "search": "Exact Commons file: Christ Church, Shimla.jpg",
+    "file": "images/commons/dest-himachal-pradesh.jpg",
+    "title": "Christ Church, Shimla.jpg",
+    "creator": "ShashankSharma2511",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Christ_Church,_Shimla.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Christ_Church%2C_Shimla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "dest-jammu-kashmir",
+    "search": "Exact Commons file: Dal Lake, Srinagar, Jammu and Kashmir.jpg",
+    "file": "images/commons/dest-jammu-kashmir.jpg",
+    "title": "Dal Lake, Srinagar, Jammu and Kashmir.jpg",
+    "creator": "Dashrathgoyal85",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dal_Lake,_Srinagar,_Jammu_and_Kashmir.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/17/Dal_Lake%2C_Srinagar%2C_Jammu_and_Kashmir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "dest-kerala",
+    "search": "Exact Commons file: Kerala Backwaters near Nedumudy - 4.jpg",
+    "file": "images/commons/dest-kerala.jpg",
+    "title": "Kerala Backwaters near Nedumudy - 4.jpg",
+    "creator": "Ingo Mehling",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kerala_Backwaters_near_Nedumudy_-_4.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Kerala_Backwaters_near_Nedumudy_-_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "dest-rajasthan",
+    "search": "Exact Commons file: Hawa Mahal 2011.jpg",
+    "file": "images/commons/dest-rajasthan.jpg",
+    "title": "Hawa Mahal 2011.jpg",
+    "creator": "Marcin Białek",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hawa_Mahal_2011.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/37/Hawa_Mahal_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "dest-andhra-pradesh",
+    "search": "Exact Commons file: A View of Tirumala Venkateswara Temple.JPG",
+    "file": "images/commons/dest-andhra-pradesh.jpg",
+    "title": "A View of Tirumala Venkateswara Temple.JPG",
+    "creator": "Adityamadhav83",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_View_of_Tirumala_Venkateswara_Temple.JPG",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/2a/A_View_of_Tirumala_Venkateswara_Temple.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "dest-bihar",
+    "search": "Exact Commons file: Mahabodhi temple complex, Bodhgaya 23.jpg",
+    "file": "images/commons/dest-bihar.jpg",
+    "title": "Mahabodhi temple complex, Bodhgaya 23.jpg",
+    "creator": "Rohit Sharma",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mahabodhi_temple_complex,_Bodhgaya_23.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Mahabodhi_temple_complex%2C_Bodhgaya_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "dest-goa",
+    "search": "Exact Commons file: Front Elevation of Basilica of Bom Jesus.jpg",
+    "file": "images/commons/dest-goa.jpg",
+    "title": "Front Elevation of Basilica of Bom Jesus.jpg",
+    "creator": "iMahesh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Front_Elevation_of_Basilica_of_Bom_Jesus.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Front_Elevation_of_Basilica_of_Bom_Jesus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "dest-karnataka",
+    "search": "Exact Commons file: Complex of Virupaksha Temple, Hampi (08).jpg",
+    "file": "images/commons/dest-karnataka.jpg",
+    "title": "Complex of Virupaksha Temple, Hampi (08).jpg",
+    "creator": "iMahesh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Complex_of_Virupaksha_Temple,_Hampi_(08).jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/64/Complex_of_Virupaksha_Temple%2C_Hampi_%2808%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "dest-maharashtra",
+    "search": "Exact Commons file: The Gateway of India, Mumbai, Maharashtra, India.jpg",
+    "file": "images/commons/dest-maharashtra.jpg",
+    "title": "The Gateway of India, Mumbai, Maharashtra, India.jpg",
+    "creator": "Craftofolio.media",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Gateway_of_India,_Mumbai,_Maharashtra,_India.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b0/The_Gateway_of_India%2C_Mumbai%2C_Maharashtra%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "dest-punjab",
+    "search": "Exact Commons file: Golden Temple, Amritsar 01.jpg",
+    "file": "images/commons/dest-punjab.jpg",
+    "title": "Golden Temple, Amritsar 01.jpg",
+    "creator": "Bernard Gagnon",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Golden_Temple,_Amritsar_01.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Golden_Temple%2C_Amritsar_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "dest-uttar-pradesh",
+    "search": "Exact Commons file: Taj Mahal, Agra, India edit2.jpg",
+    "file": "images/commons/dest-uttar-pradesh.jpg",
+    "title": "Taj Mahal, Agra, India edit2.jpg",
+    "creator": "Yann; edited by King of Hearts",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India_edit2.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/74/Taj_Mahal%2C_Agra%2C_India_edit2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "dest-west-bengal",
+    "search": "Exact Commons file: Victoria Memorial, Kolkata, West Bengal (1).jpg",
+    "file": "images/commons/dest-west-bengal.jpg",
+    "title": "Victoria Memorial, Kolkata, West Bengal (1).jpg",
+    "creator": "K.Venkataramana",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Victoria_Memorial,_Kolkata,_West_Bengal_(1).jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Victoria_Memorial%2C_Kolkata%2C_West_Bengal_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "dest-gujarat",
+    "search": "Exact Commons file: White Rann of Kutch.jpg",
+    "file": "images/commons/dest-gujarat.jpg",
+    "title": "White Rann of Kutch.jpg",
+    "creator": "Rahul Zota",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:White_Rann_of_Kutch.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/0e/White_Rann_of_Kutch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "dest-tamil-nadu",
+    "search": "Exact Commons file: Meenakshi Amman Temple Tamil Nadu India.jpg",
+    "file": "images/commons/dest-tamil-nadu.jpg",
+    "title": "Meenakshi Amman Temple Tamil Nadu India.jpg",
+    "creator": "Upretyvaibhav",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Meenakshi_Amman_Temple_Tamil_Nadu_India.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Meenakshi_Amman_Temple_Tamil_Nadu_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "place-gulmarg",
+    "search": "Exact Commons file: Landscape view of Gulmarg, Kashmir 01.jpg",
+    "file": "images/commons/place-gulmarg.jpg",
+    "title": "Landscape view of Gulmarg, Kashmir 01.jpg",
+    "creator": "Harvinder Chandigarh",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Landscape_view_of_Gulmarg,_Kashmir_01.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/45/Landscape_view_of_Gulmarg%2C_Kashmir_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "place-pahalgam",
+    "search": "Exact Commons file: Pahalgam Valley.jpg",
+    "file": "images/commons/place-pahalgam.jpg",
+    "title": "Pahalgam Valley.jpg",
+    "creator": "KennyOMG",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pahalgam_Valley.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pahalgam_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "place-sonamarg",
+    "search": "Exact Commons file: Mountain Meadow in Sonamarg, Kashmir, India.jpg",
+    "file": "images/commons/place-sonamarg.jpg",
+    "title": "Mountain Meadow in Sonamarg, Kashmir, India.jpg",
+    "creator": "Rohit Sharma",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mountain_Meadow_in_Sonamarg,_Kashmir,_India.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/46/Mountain_Meadow_in_Sonamarg%2C_Kashmir%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "place-jammu",
+    "search": "Exact Commons file: Bahu Fort, Jammu, India.jpg",
+    "file": "images/commons/place-jammu.jpg",
+    "title": "Bahu Fort, Jammu, India.jpg",
+    "creator": "Nvvchar",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bahu_Fort,_Jammu,_India.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bahu_Fort%2C_Jammu%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "place-mysuru",
+    "search": "Exact Commons file: Mysuru Palace - Night View.jpg",
+    "file": "images/commons/place-mysuru.jpg",
+    "title": "Mysuru Palace - Night View.jpg",
+    "creator": "Ingo Mehling",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mysuru_Palace_-_Night_View.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Mysuru_Palace_-_Night_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "place-gokarna",
+    "search": "Exact Commons file: PXL 20260103 101009613 People and Beach Om Beach Gokarna, Karnataka 08.jpg",
+    "file": "images/commons/place-gokarna.jpg",
+    "title": "PXL 20260103 101009613 People and Beach Om Beach Gokarna, Karnataka 08.jpg",
+    "creator": "Sourabh.biswas003",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:PXL_20260103_101009613_People_and_Beach_Om_Beach_Gokarna,_Karnataka_08.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d1/PXL_20260103_101009613_People_and_Beach_Om_Beach_Gokarna%2C_Karnataka_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "place-chikkamagaluru",
+    "search": "Exact Commons file: Mullayanagiri, Chikmagalur district of Karnataka.jpg",
+    "file": "images/commons/place-chikkamagaluru.jpg",
+    "title": "Mullayanagiri, Chikmagalur district of Karnataka.jpg",
+    "creator": "RakeshRaju M",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mullayanagiri,_Chikmagalur_district_of_Karnataka.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Mullayanagiri%2C_Chikmagalur_district_of_Karnataka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "place-bengaluru",
+    "search": "Exact Commons file: Vidhana Soudha LE.jpg",
+    "file": "images/commons/place-bengaluru.jpg",
+    "title": "Vidhana Soudha LE.jpg",
+    "creator": "DeepanjanGhosh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vidhana_Soudha_LE.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Vidhana_Soudha_LE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "place-badami",
+    "search": "Exact Commons file: A-cave-temple-at-badami.JPG",
+    "file": "images/commons/place-badami.jpg",
+    "title": "A-cave-temple-at-badami.JPG",
+    "creator": "Rajeshodayanchal",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A-cave-temple-at-badami.JPG",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/24/A-cave-temple-at-badami.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "place-pattadakal",
+    "search": "Exact Commons file: The Pattadakal (Pattadakallu) temple complex in Karnataka (26).jpg",
+    "file": "images/commons/place-pattadakal.jpg",
+    "title": "The Pattadakal (Pattadakallu) temple complex in Karnataka (26).jpg",
+    "creator": "Shagil Muzhappilangad",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Pattadakal_(Pattadakallu)_temple_complex_in_Karnataka_(26).jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/5c/The_Pattadakal_%28Pattadakallu%29_temple_complex_in_Karnataka_%2826%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "place-jog-falls",
+    "search": "Exact Commons file: Jog Falls Wide.jpg",
+    "file": "images/commons/place-jog-falls.jpg",
+    "title": "Jog Falls Wide.jpg",
+    "creator": "Prasanaik (talk)",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jog_Falls_Wide.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/af/Jog_Falls_Wide.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "place-udupi",
+    "search": "Exact Commons file: Udupi Sri Krishna Temple, Udupi, Karnataka, India (2007).jpg",
+    "file": "images/commons/place-udupi.jpg",
+    "title": "Udupi Sri Krishna Temple, Udupi, Karnataka, India (2007).jpg",
+    "creator": "Ilya Mauter",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Udupi_Sri_Krishna_Temple,_Udupi,_Karnataka,_India_(2007).jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/89/Udupi_Sri_Krishna_Temple%2C_Udupi%2C_Karnataka%2C_India_%282007%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "place-murudeshwar",
+    "search": "Exact Commons file: Lord Shiva at Murudeshwar, Karnataka..jpg",
+    "file": "images/commons/place-murudeshwar.jpg",
+    "title": "Lord Shiva at Murudeshwar, Karnataka..jpg",
+    "creator": "Abhijeetsawant",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lord_Shiva_at_Murudeshwar,_Karnataka..jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Lord_Shiva_at_Murudeshwar%2C_Karnataka..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "place-kodagu",
+    "search": "Exact Commons file: View from Raja's Seat 2.jpg",
+    "file": "images/commons/place-kodagu.jpg",
+    "title": "View from Raja's Seat 2.jpg",
+    "creator": "Devaiahpa",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_from_Raja%27s_Seat_2.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/99/View_from_Raja%27s_Seat_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "place-aihole",
+    "search": "Exact Commons file: DurgaTempleAihole.JPG",
+    "file": "images/commons/place-aihole.jpg",
+    "title": "DurgaTempleAihole.JPG",
+    "creator": "Sanyam Bahga",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:DurgaTempleAihole.JPG",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/92/DurgaTempleAihole.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "festival-diwali",
+    "search": "Exact Commons file: Diyas Diwali Decor India.jpg",
+    "file": "images/commons/festival-diwali.jpg",
+    "title": "Diyas Diwali Decor India.jpg",
+    "creator": "humdingor",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Diyas_Diwali_Decor_India.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/73/Diyas_Diwali_Decor_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "festival-holi",
+    "search": "Exact Commons file: Festival of Colours, HOLI.jpg",
+    "file": "images/commons/festival-holi.jpg",
+    "title": "Festival of Colours, HOLI.jpg",
+    "creator": "Chandrabindu Naskar",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Festival_of_Colours,_HOLI.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/da/Festival_of_Colours%2C_HOLI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "festival-onam",
+    "search": "Exact Commons file: Onam-Pookalam(floral designs).jpg",
+    "file": "images/commons/festival-onam.jpg",
+    "title": "Onam-Pookalam(floral designs).jpg",
+    "creator": "Yugaljoshi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Onam-Pookalam(floral_designs).jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/24/Onam-Pookalam%28floral_designs%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "festival-pongal",
+    "search": "Exact Commons file: Pongal Festival.jpg",
+    "file": "images/commons/festival-pongal.jpg",
+    "title": "Pongal Festival.jpg",
+    "creator": "Hishampgm",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pongal_Festival.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Pongal_Festival.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "food-karnataka",
+    "search": "Exact Commons file: Karnataka Vegetarian Meal.jpg",
+    "file": "images/commons/food-karnataka.jpg",
+    "title": "Karnataka Vegetarian Meal.jpg",
+    "creator": "Kalesh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Karnataka_Vegetarian_Meal.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/34/Karnataka_Vegetarian_Meal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "dance-manipuri",
+    "search": "Exact Commons file: Lord Krishna in Manipuri Ras Lila dance 01.jpg",
+    "file": "images/commons/dance-manipuri.jpg",
+    "title": "Lord Krishna in Manipuri Ras Lila dance 01.jpg",
+    "creator": "Suyash Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lord_Krishna_in_Manipuri_Ras_Lila_dance_01.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Lord_Krishna_in_Manipuri_Ras_Lila_dance_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "dance-sattriya",
+    "search": "Exact Commons file: Sattriya Dance Performance.jpg",
+    "file": "images/commons/dance-sattriya.jpg",
+    "title": "Sattriya Dance Performance.jpg",
+    "creator": "Creatorgallery1",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sattriya_Dance_Performance.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/18/Sattriya_Dance_Performance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "slug": "festival-baisakhi",
+    "search": "Exact Commons file: Baisakhi a Sikh festival.jpg",
+    "file": "images/commons/festival-baisakhi.jpg",
+    "title": "Baisakhi a Sikh festival.jpg",
+    "creator": "Marco Ghitti from Brescia / Lombardia / Italia",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Baisakhi_a_Sikh_festival.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Baisakhi_a_Sikh_festival.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   }
 ]

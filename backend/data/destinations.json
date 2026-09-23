@@ -4,8 +4,8 @@
     "name": "Andhra Pradesh",
     "region": "south",
     "summary": "Temple towns, long beaches and bold regional cuisine.",
-    "imagePath": "images/photo-pending.svg",
-    "imageAlt": "Andhra Pradesh: photograph not yet available",
+    "imagePath": "images/reviewed/dest-andhra-pradesh-960.webp",
+    "imageAlt": "Tirumala Venkateswara Temple in Andhra Pradesh",
     "featured": 0
   },
   {
@@ -31,8 +31,8 @@
     "name": "Bihar",
     "region": "east",
     "summary": "Ancient learning centres and sacred pilgrimage sites.",
-    "imagePath": "images/photo-pending.svg",
-    "imageAlt": "Bihar: photograph not yet available",
+    "imagePath": "images/reviewed/dest-bihar-960.webp",
+    "imageAlt": "Mahabodhi Temple complex in Bodh Gaya",
     "featured": 0
   },
   {
@@ -49,8 +49,8 @@
     "name": "Goa",
     "region": "west",
     "summary": "Sunlit beaches, heritage quarters and coastal food.",
-    "imagePath": "images/photo-pending.svg",
-    "imageAlt": "Goa: photograph not yet available",
+    "imagePath": "images/reviewed/dest-goa-960.webp",
+    "imageAlt": "Front facade of the Basilica of Bom Jesus in Goa",
     "featured": 0
   },
   {
@@ -58,8 +58,8 @@
     "name": "Gujarat",
     "region": "west",
     "summary": "White salt desert, wildlife and colourful craft.",
-    "imagePath": "images/photo-pending.svg",
-    "imageAlt": "Gujarat: photograph not yet available",
+    "imagePath": "images/reviewed/dest-gujarat-960.webp",
+    "imageAlt": "White salt flats of the Rann of Kutch at sunset",
     "featured": 0
   },
   {
@@ -76,8 +76,8 @@
     "name": "Himachal Pradesh",
     "region": "north",
     "summary": "Mountain trails, cedar forests and peaceful valleys.",
-    "imagePath": "images/photo-pending.svg",
-    "imageAlt": "Himachal Pradesh: photograph not yet available",
+    "imagePath": "images/reviewed/dest-himachal-pradesh-960.webp",
+    "imageAlt": "Christ Church in Shimla with snow-covered hills behind it",
     "featured": 1
   },
   {
@@ -94,8 +94,8 @@
     "name": "Karnataka",
     "region": "south",
     "summary": "Heritage ruins, wild forests and modern city life.",
-    "imagePath": "images/photo-pending.svg",
-    "imageAlt": "Karnataka: photograph not yet available",
+    "imagePath": "images/reviewed/dest-karnataka-960.webp",
+    "imageAlt": "Virupaksha Temple complex among the ruins of Hampi",
     "featured": 0
   },
   {
@@ -103,8 +103,8 @@
     "name": "Kerala",
     "region": "south",
     "summary": "Backwaters, green hills and a slower rhythm of life.",
-    "imagePath": "images/photo-pending.svg",
-    "imageAlt": "Kerala: photograph not yet available",
+    "imagePath": "images/reviewed/dest-kerala-960.webp",
+    "imageAlt": "A boat travelling through Kerala backwaters near Nedumudy",
     "featured": 1
   },
   {
@@ -121,8 +121,8 @@
     "name": "Maharashtra",
     "region": "west",
     "summary": "Big-city energy, cave temples and hill escapes.",
-    "imagePath": "images/photo-pending.svg",
-    "imageAlt": "Maharashtra: photograph not yet available",
+    "imagePath": "images/reviewed/dest-maharashtra-960.webp",
+    "imageAlt": "Gateway of India on Mumbai waterfront",
     "featured": 0
   },
   {
@@ -175,8 +175,8 @@
     "name": "Punjab",
     "region": "north",
     "summary": "Warm hospitality, fertile fields and vibrant festivals.",
-    "imagePath": "images/photo-pending.svg",
-    "imageAlt": "Punjab: photograph not yet available",
+    "imagePath": "images/reviewed/dest-punjab-960.webp",
+    "imageAlt": "The Golden Temple reflected in its sacred pool in Amritsar",
     "featured": 0
   },
   {
@@ -184,8 +184,8 @@
     "name": "Rajasthan",
     "region": "west",
     "summary": "Desert landscapes, palaces and living royal heritage.",
-    "imagePath": "images/photo-pending.svg",
-    "imageAlt": "Rajasthan: photograph not yet available",
+    "imagePath": "images/reviewed/dest-rajasthan-960.webp",
+    "imageAlt": "The pink facade of Hawa Mahal in Jaipur",
     "featured": 1
   },
   {
@@ -202,8 +202,8 @@
     "name": "Tamil Nadu",
     "region": "south",
     "summary": "Great temples, classical arts and ancient towns.",
-    "imagePath": "images/photo-pending.svg",
-    "imageAlt": "Tamil Nadu: photograph not yet available",
+    "imagePath": "images/reviewed/dest-tamil-nadu-960.webp",
+    "imageAlt": "Carved gopuram of Meenakshi Amman Temple in Madurai",
     "featured": 0
   },
   {
@@ -229,8 +229,8 @@
     "name": "Uttar Pradesh",
     "region": "north",
     "summary": "Monumental heritage, sacred rivers and old cities.",
-    "imagePath": "images/photo-pending.svg",
-    "imageAlt": "Uttar Pradesh: photograph not yet available",
+    "imagePath": "images/reviewed/dest-uttar-pradesh-960.webp",
+    "imageAlt": "Taj Mahal seen from its garden in Agra",
     "featured": 0
   },
   {
@@ -247,8 +247,8 @@
     "name": "West Bengal",
     "region": "east",
     "summary": "Literature, festivals, tea country and the Sundarbans.",
-    "imagePath": "images/photo-pending.svg",
-    "imageAlt": "West Bengal: photograph not yet available",
+    "imagePath": "images/reviewed/dest-west-bengal-960.webp",
+    "imageAlt": "Victoria Memorial in Kolkata",
     "featured": 0
   },
   {
@@ -292,8 +292,8 @@
     "name": "Jammu & Kashmir",
     "region": "north",
     "summary": "Alpine valleys, quiet lakes and Himalayan journeys.",
-    "imagePath": "images/photo-pending.svg",
-    "imageAlt": "Jammu & Kashmir: photograph not yet available",
+    "imagePath": "images/reviewed/dest-jammu-kashmir-960.webp",
+    "imageAlt": "Houseboats on Dal Lake in Srinagar",
     "featured": 1
   },
   {

@@ -1,6 +1,6 @@
 # Wikimedia Commons image attributions
 
-Images were selected for the Explore India educational project through Wikimedia Commons. Follow each source link for the full license terms.
+The photographs below are credited to their named creators. Follow each source link for the full licence and attribution details.
 
 ## dest-arunachal-pradesh
 
@@ -290,22 +290,6 @@ Images were selected for the Explore India educational project through Wikimedia
 - License: CC BY-SA 4.0
 - Source: https://commons.wikimedia.org/wiki/File:Kathak_Dancer_Namrata_Rai,_clicked_by_famous_photographer_(Padma_Shri)_Shri_Avinash_Pasricha.jpg
 
-## dance-manipuri
-
-- File: `images/commons/dance-manipuri.jpg`
-- Title: Bharatanatyam dance performance by Guru Saroja Vaidyanathan' disciples at Youth Festival 2012 IMG 3165 09.jpg
-- Creator: Sumita Roy Dutta
-- License: CC BY-SA 4.0
-- Source: https://commons.wikimedia.org/wiki/File:Bharatanatyam_dance_performance_by_Guru_Saroja_Vaidyanathan%27_disciples_at_Youth_Festival_2012_IMG_3165_09.jpg
-
-## food-karnataka
-
-- File: `images/commons/food-karnataka.jpg`
-- Title: The Vijaynagar Thali.jpg
-- Creator: Klassic Khushi
-- License: CC BY-SA 4.0
-- Source: https://commons.wikimedia.org/wiki/File:The_Vijaynagar_Thali.jpg
-
 ## festival-mysuru-dasara
 
 - File: `images/commons/festival-mysuru-dasara.jpg`
@@ -330,10 +314,298 @@ Images were selected for the Explore India educational project through Wikimedia
 - License: CC0
 - Source: https://commons.wikimedia.org/wiki/File:Kambala_Pride_of_Tulunadu.jpg
 
+## dest-himachal-pradesh
+
+- File: `images/commons/dest-himachal-pradesh.jpg`
+- Title: Christ Church, Shimla.jpg
+- Creator: ShashankSharma2511
+- License: CC BY 3.0
+- Source: https://commons.wikimedia.org/wiki/File:Christ_Church,_Shimla.jpg
+
+## dest-jammu-kashmir
+
+- File: `images/commons/dest-jammu-kashmir.jpg`
+- Title: Dal Lake, Srinagar, Jammu and Kashmir.jpg
+- Creator: Dashrathgoyal85
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Dal_Lake,_Srinagar,_Jammu_and_Kashmir.jpg
+
+## dest-kerala
+
+- File: `images/commons/dest-kerala.jpg`
+- Title: Kerala Backwaters near Nedumudy - 4.jpg
+- Creator: Ingo Mehling
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Kerala_Backwaters_near_Nedumudy_-_4.jpg
+
+## dest-rajasthan
+
+- File: `images/commons/dest-rajasthan.jpg`
+- Title: Hawa Mahal 2011.jpg
+- Creator: Marcin Białek
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Hawa_Mahal_2011.jpg
+
+## dest-andhra-pradesh
+
+- File: `images/commons/dest-andhra-pradesh.jpg`
+- Title: A View of Tirumala Venkateswara Temple.JPG
+- Creator: Adityamadhav83
+- License: CC BY-SA 3.0
+- Source: https://commons.wikimedia.org/wiki/File:A_View_of_Tirumala_Venkateswara_Temple.JPG
+
+## dest-bihar
+
+- File: `images/commons/dest-bihar.jpg`
+- Title: Mahabodhi temple complex, Bodhgaya 23.jpg
+- Creator: Rohit Sharma
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Mahabodhi_temple_complex,_Bodhgaya_23.jpg
+
+## dest-goa
+
+- File: `images/commons/dest-goa.jpg`
+- Title: Front Elevation of Basilica of Bom Jesus.jpg
+- Creator: iMahesh
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Front_Elevation_of_Basilica_of_Bom_Jesus.jpg
+
+## dest-karnataka
+
+- File: `images/commons/dest-karnataka.jpg`
+- Title: Complex of Virupaksha Temple, Hampi (08).jpg
+- Creator: iMahesh
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Complex_of_Virupaksha_Temple,_Hampi_(08).jpg
+
+## dest-maharashtra
+
+- File: `images/commons/dest-maharashtra.jpg`
+- Title: The Gateway of India, Mumbai, Maharashtra, India.jpg
+- Creator: Craftofolio.media
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:The_Gateway_of_India,_Mumbai,_Maharashtra,_India.jpg
+
+## dest-punjab
+
+- File: `images/commons/dest-punjab.jpg`
+- Title: Golden Temple, Amritsar 01.jpg
+- Creator: Bernard Gagnon
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Golden_Temple,_Amritsar_01.jpg
+
+## dest-uttar-pradesh
+
+- File: `images/commons/dest-uttar-pradesh.jpg`
+- Title: Taj Mahal, Agra, India edit2.jpg
+- Creator: Yann; edited by King of Hearts
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India_edit2.jpg
+
+## dest-west-bengal
+
+- File: `images/commons/dest-west-bengal.jpg`
+- Title: Victoria Memorial, Kolkata, West Bengal (1).jpg
+- Creator: K.Venkataramana
+- License: CC0
+- Source: https://commons.wikimedia.org/wiki/File:Victoria_Memorial,_Kolkata,_West_Bengal_(1).jpg
+
+## dest-gujarat
+
+- File: `images/commons/dest-gujarat.jpg`
+- Title: White Rann of Kutch.jpg
+- Creator: Rahul Zota
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:White_Rann_of_Kutch.jpg
+
+## dest-tamil-nadu
+
+- File: `images/commons/dest-tamil-nadu.jpg`
+- Title: Meenakshi Amman Temple Tamil Nadu India.jpg
+- Creator: Upretyvaibhav
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Meenakshi_Amman_Temple_Tamil_Nadu_India.jpg
+
+## place-gulmarg
+
+- File: `images/commons/place-gulmarg.jpg`
+- Title: Landscape view of Gulmarg, Kashmir 01.jpg
+- Creator: Harvinder Chandigarh
+- License: CC BY 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Landscape_view_of_Gulmarg,_Kashmir_01.jpg
+
+## place-pahalgam
+
+- File: `images/commons/place-pahalgam.jpg`
+- Title: Pahalgam Valley.jpg
+- Creator: KennyOMG
+- License: CC BY-SA 3.0
+- Source: https://commons.wikimedia.org/wiki/File:Pahalgam_Valley.jpg
+
+## place-sonamarg
+
+- File: `images/commons/place-sonamarg.jpg`
+- Title: Mountain Meadow in Sonamarg, Kashmir, India.jpg
+- Creator: Rohit Sharma
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Mountain_Meadow_in_Sonamarg,_Kashmir,_India.jpg
+
+## place-jammu
+
+- File: `images/commons/place-jammu.jpg`
+- Title: Bahu Fort, Jammu, India.jpg
+- Creator: Nvvchar
+- License: CC BY-SA 3.0
+- Source: https://commons.wikimedia.org/wiki/File:Bahu_Fort,_Jammu,_India.jpg
+
+## place-mysuru
+
+- File: `images/commons/place-mysuru.jpg`
+- Title: Mysuru Palace - Night View.jpg
+- Creator: Ingo Mehling
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Mysuru_Palace_-_Night_View.jpg
+
+## place-gokarna
+
+- File: `images/commons/place-gokarna.jpg`
+- Title: PXL 20260103 101009613 People and Beach Om Beach Gokarna, Karnataka 08.jpg
+- Creator: Sourabh.biswas003
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:PXL_20260103_101009613_People_and_Beach_Om_Beach_Gokarna,_Karnataka_08.jpg
+
+## place-chikkamagaluru
+
+- File: `images/commons/place-chikkamagaluru.jpg`
+- Title: Mullayanagiri, Chikmagalur district of Karnataka.jpg
+- Creator: RakeshRaju M
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Mullayanagiri,_Chikmagalur_district_of_Karnataka.jpg
+
+## place-bengaluru
+
+- File: `images/commons/place-bengaluru.jpg`
+- Title: Vidhana Soudha LE.jpg
+- Creator: DeepanjanGhosh
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Vidhana_Soudha_LE.jpg
+
+## place-badami
+
+- File: `images/commons/place-badami.jpg`
+- Title: A-cave-temple-at-badami.JPG
+- Creator: Rajeshodayanchal
+- License: CC BY-SA 3.0
+- Source: https://commons.wikimedia.org/wiki/File:A-cave-temple-at-badami.JPG
+
+## place-pattadakal
+
+- File: `images/commons/place-pattadakal.jpg`
+- Title: The Pattadakal (Pattadakallu) temple complex in Karnataka (26).jpg
+- Creator: Shagil Muzhappilangad
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:The_Pattadakal_(Pattadakallu)_temple_complex_in_Karnataka_(26).jpg
+
+## place-jog-falls
+
+- File: `images/commons/place-jog-falls.jpg`
+- Title: Jog Falls Wide.jpg
+- Creator: Prasanaik (talk)
+- License: CC BY-SA 3.0
+- Source: https://commons.wikimedia.org/wiki/File:Jog_Falls_Wide.jpg
+
+## place-udupi
+
+- File: `images/commons/place-udupi.jpg`
+- Title: Udupi Sri Krishna Temple, Udupi, Karnataka, India (2007).jpg
+- Creator: Ilya Mauter
+- License: CC BY-SA 2.5
+- Source: https://commons.wikimedia.org/wiki/File:Udupi_Sri_Krishna_Temple,_Udupi,_Karnataka,_India_(2007).jpg
+
+## place-murudeshwar
+
+- File: `images/commons/place-murudeshwar.jpg`
+- Title: Lord Shiva at Murudeshwar, Karnataka..jpg
+- Creator: Abhijeetsawant
+- License: CC BY-SA 3.0
+- Source: https://commons.wikimedia.org/wiki/File:Lord_Shiva_at_Murudeshwar,_Karnataka..jpg
+
+## place-kodagu
+
+- File: `images/commons/place-kodagu.jpg`
+- Title: View from Raja's Seat 2.jpg
+- Creator: Devaiahpa
+- License: CC BY-SA 3.0
+- Source: https://commons.wikimedia.org/wiki/File:View_from_Raja%27s_Seat_2.jpg
+
+## place-aihole
+
+- File: `images/commons/place-aihole.jpg`
+- Title: DurgaTempleAihole.JPG
+- Creator: Sanyam Bahga
+- License: CC BY-SA 3.0
+- Source: https://commons.wikimedia.org/wiki/File:DurgaTempleAihole.JPG
+
+## festival-diwali
+
+- File: `images/commons/festival-diwali.jpg`
+- Title: Diyas Diwali Decor India.jpg
+- Creator: humdingor
+- License: CC BY-SA 2.0
+- Source: https://commons.wikimedia.org/wiki/File:Diyas_Diwali_Decor_India.jpg
+
+## festival-holi
+
+- File: `images/commons/festival-holi.jpg`
+- Title: Festival of Colours, HOLI.jpg
+- Creator: Chandrabindu Naskar
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Festival_of_Colours,_HOLI.jpg
+
+## festival-onam
+
+- File: `images/commons/festival-onam.jpg`
+- Title: Onam-Pookalam(floral designs).jpg
+- Creator: Yugaljoshi
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Onam-Pookalam(floral_designs).jpg
+
+## festival-pongal
+
+- File: `images/commons/festival-pongal.jpg`
+- Title: Pongal Festival.jpg
+- Creator: Hishampgm
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Pongal_Festival.jpg
+
+## food-karnataka
+
+- File: `images/commons/food-karnataka.jpg`
+- Title: Karnataka Vegetarian Meal.jpg
+- Creator: Kalesh
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Karnataka_Vegetarian_Meal.jpg
+
+## dance-manipuri
+
+- File: `images/commons/dance-manipuri.jpg`
+- Title: Lord Krishna in Manipuri Ras Lila dance 01.jpg
+- Creator: Suyash Dwivedi
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Lord_Krishna_in_Manipuri_Ras_Lila_dance_01.jpg
+
 ## dance-sattriya
 
 - File: `images/commons/dance-sattriya.jpg`
-- Title: Sattriya Dance of Assam.jpg
-- Creator: Dr Devika P Borthakur
-- License: CC BY-SA 4.0
-- Source: https://commons.wikimedia.org/wiki/File:Sattriya_Dance_of_Assam.jpg
+- Title: Sattriya Dance Performance.jpg
+- Creator: Creatorgallery1
+- License: CC0
+- Source: https://commons.wikimedia.org/wiki/File:Sattriya_Dance_Performance.jpg
+
+## festival-baisakhi
+
+- File: `images/commons/festival-baisakhi.jpg`
+- Title: Baisakhi a Sikh festival.jpg
+- Creator: Marco Ghitti from Brescia / Lombardia / Italia
+- License: CC BY 2.0
+- Source: https://commons.wikimedia.org/wiki/File:Baisakhi_a_Sikh_festival.jpg
