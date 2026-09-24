@@ -2547,5 +2547,960 @@
     "reviewedAt": "2026-09-17",
     "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
     "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "place-leh-palace": {
+    "id": "place-leh-palace",
+    "alt": "Leh Palace above the town of Leh",
+    "subjects": [
+      "Leh Palace"
+    ],
+    "src": "images/reviewed/place-leh-palace-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/place-leh-palace-480.webp",
+        "width": 480,
+        "height": 311,
+        "bytes": 17982
+      },
+      {
+        "src": "images/reviewed/place-leh-palace-960.webp",
+        "width": 960,
+        "height": 623,
+        "bytes": 69676
+      }
+    ],
+    "width": 960,
+    "height": 623,
+    "source": "https://commons.wikimedia.org/wiki/File:The_Leh_Palace.jpg",
+    "title": "The Leh Palace.jpg",
+    "creator": "NeerajVardhan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/place-leh-palace.jpg",
+    "originalSha256": "845f675262c0e5ec30a954276d6d2008c5c98bef6889cebcd2921638f66d0529",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "place-nubra-valley": {
+    "id": "place-nubra-valley",
+    "alt": "Sand dunes in Nubra Valley, Ladakh",
+    "subjects": [
+      "Nubra Valley"
+    ],
+    "src": "images/reviewed/place-nubra-valley-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/place-nubra-valley-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 22304
+      },
+      {
+        "src": "images/reviewed/place-nubra-valley-960.webp",
+        "width": 960,
+        "height": 641,
+        "bytes": 84954
+      }
+    ],
+    "width": 960,
+    "height": 641,
+    "source": "https://commons.wikimedia.org/wiki/File:Sand_dunes_of_Nubra_Valley,_Ladakh.jpg",
+    "title": "Sand dunes of Nubra Valley, Ladakh.jpg",
+    "creator": "Mohanrangaphotography",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/place-nubra-valley.jpg",
+    "originalSha256": "0558319e2623195694066c227ac6fddafe3f270441b69f4de3277f2854ac493c",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "place-hemis-monastery": {
+    "id": "place-hemis-monastery",
+    "alt": "Hemis Monastery in Ladakh",
+    "subjects": [
+      "Hemis Monastery"
+    ],
+    "src": "images/reviewed/place-hemis-monastery-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/place-hemis-monastery-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 36056
+      },
+      {
+        "src": "images/reviewed/place-hemis-monastery-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 132430
+      }
+    ],
+    "width": 960,
+    "height": 640,
+    "source": "https://commons.wikimedia.org/wiki/File:Hemis_Monastery,_Ladakh_(2563965489).jpg",
+    "title": "Hemis Monastery, Ladakh (2563965489).jpg",
+    "creator": "Michael Day",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "originalFile": "images/commons/place-hemis-monastery.jpg",
+    "originalSha256": "f9e278987d88d897ff7157e392b00f8e4449cd35c168102df4fee29d80b5a511",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "place-alchi-monastery": {
+    "id": "place-alchi-monastery",
+    "alt": "Alchi Monastery in Ladakh",
+    "subjects": [
+      "Alchi Monastery"
+    ],
+    "src": "images/reviewed/place-alchi-monastery-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/place-alchi-monastery-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 41532
+      },
+      {
+        "src": "images/reviewed/place-alchi-monastery-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 155460
+      }
+    ],
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:Alchi_Monastery,_Leh,_Ladakh,_India_01.jpg",
+    "title": "Alchi Monastery, Leh, Ladakh, India 01.jpg",
+    "creator": "Harvinder Chandigarh",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/place-alchi-monastery.jpg",
+    "originalSha256": "72ecf81dc1ed347bc2f67667d94d676ed0d4d543365c83edf395b3bf39f30e3e",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "festival-hemis-festival": {
+    "id": "festival-hemis-festival",
+    "alt": "Performers at the Hemis Monastery Festival",
+    "subjects": [
+      "Hemis Festival"
+    ],
+    "src": "images/reviewed/festival-hemis-festival-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/festival-hemis-festival-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 37696
+      },
+      {
+        "src": "images/reviewed/festival-hemis-festival-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 128258
+      }
+    ],
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:Hemis_Monastery_Festival_1.jpg",
+    "title": "Hemis Monastery Festival 1.jpg",
+    "creator": "MaryOfPrag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/festival-hemis-festival.jpg",
+    "originalSha256": "eb639c0a610b3f9c9a3d3d4f75699192ff009d359a10d2121acffc843c7e24f3",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "festival-ladakh-festival": {
+    "id": "festival-ladakh-festival",
+    "alt": "Festival crowd gathered at Leh polo ground",
+    "subjects": [
+      "Ladakh Festival"
+    ],
+    "src": "images/reviewed/festival-ladakh-festival-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/festival-ladakh-festival-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 24798
+      },
+      {
+        "src": "images/reviewed/festival-ladakh-festival-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 100138
+      }
+    ],
+    "width": 960,
+    "height": 640,
+    "source": "https://commons.wikimedia.org/wiki/File:Leh,_Ladakh_Festival,_Ladakh,_India.jpg",
+    "title": "Leh, Ladakh Festival, Ladakh, India.jpg",
+    "creator": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "originalFile": "images/commons/festival-ladakh-festival.jpg",
+    "originalSha256": "0059ec2853e63c65bf2e970ff803cc67b7c1e48c4f5b2ff79601b6dc9ebffdc3",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "festival-losar": {
+    "id": "festival-losar",
+    "alt": "Barley dough and butter sculptures prepared for Ladakhi Losar",
+    "subjects": [
+      "Losar"
+    ],
+    "destinationSlugs": [
+      "ladakh"
+    ],
+    "src": "images/reviewed/festival-losar-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/festival-losar-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 21726
+      },
+      {
+        "src": "images/reviewed/festival-losar-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 93508
+      }
+    ],
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:Ladakh%27s_New_Year.jpg",
+    "title": "Ladakh's New Year.jpg",
+    "creator": "Peter Kason",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/festival-losar.jpg",
+    "originalSha256": "17d3ba37f68c497d80771a0016fc46c69733dcb90d25c73ef44b45faeb314df5",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "food-udupi-cuisine": {
+    "id": "food-udupi-cuisine",
+    "alt": "Udupi-style vegetarian meal with rice and side dishes on a banana leaf",
+    "subjects": [
+      "Udupi cuisine"
+    ],
+    "src": "images/reviewed/food-udupi-cuisine-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/food-udupi-cuisine-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 48752
+      },
+      {
+        "src": "images/reviewed/food-udupi-cuisine-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 148738
+      }
+    ],
+    "width": 960,
+    "height": 1280,
+    "source": "https://commons.wikimedia.org/wiki/File:Delicious_Udupi_style_food_with_rice,_tomato_rasum,_payasa,_papas,_pickel,_mango_chutney,_kosaumbari,_vegetable_palya,_having_in_banana_leaf.jpg",
+    "title": "Delicious Udupi style food with rice, tomato rasum, payasa, papas, pickel, mango chutney, kosaumbari, vegetable palya, having in banana leaf.jpg",
+    "creator": "Suchetha-87",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/food-udupi-cuisine.jpg",
+    "originalSha256": "1177268bc22b4d9b7413a70d1ebc1e67bfcfaaebd20dd6c243cc23de181d050d",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "food-kundapura-chicken": {
+    "id": "food-kundapura-chicken",
+    "alt": "Kundapura-style chicken curry served with neer dosa",
+    "subjects": [
+      "Kundapura chicken"
+    ],
+    "src": "images/reviewed/food-kundapura-chicken-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/food-kundapura-chicken-480.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 27238
+      },
+      {
+        "src": "images/reviewed/food-kundapura-chicken-960.webp",
+        "width": 960,
+        "height": 540,
+        "bytes": 111990
+      }
+    ],
+    "width": 960,
+    "height": 540,
+    "source": "https://commons.wikimedia.org/wiki/File:Neer_dosa_with_kundapur_style_kori(country_chicken)_gassy(curry).jpg",
+    "title": "Neer dosa with kundapur style kori(country chicken) gassy(curry).jpg",
+    "creator": "Surajms1994",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/food-kundapura-chicken.jpg",
+    "originalSha256": "7266281355bd41937b70779dd92b9fca34c11e6b4ecea57793e4bcb702a137c8",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "food-bisi-bele-bath": {
+    "id": "food-bisi-bele-bath",
+    "alt": "Bisi bele bath, a Karnataka rice and lentil dish",
+    "subjects": [
+      "Bisi bele bath"
+    ],
+    "src": "images/reviewed/food-bisi-bele-bath-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/food-bisi-bele-bath-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 48188
+      },
+      {
+        "src": "images/reviewed/food-bisi-bele-bath-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 162686
+      }
+    ],
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:Bisi_Bele_Bath.jpg",
+    "title": "Bisi Bele Bath.jpg",
+    "creator": "Devika.pujari",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "originalFile": "images/commons/food-bisi-bele-bath.jpg",
+    "originalSha256": "ea557c1477c87fdfff01dffc059e5a170247e314b27190edde0f929ac145c275",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "food-ragi-mudde": {
+    "id": "food-ragi-mudde",
+    "alt": "Ragi mudde served as a Karnataka meal",
+    "subjects": [
+      "Ragi mudde"
+    ],
+    "src": "images/reviewed/food-ragi-mudde-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/food-ragi-mudde-480.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 14734
+      },
+      {
+        "src": "images/reviewed/food-ragi-mudde-960.webp",
+        "width": 960,
+        "height": 541,
+        "bytes": 60558
+      }
+    ],
+    "width": 960,
+    "height": 541,
+    "source": "https://commons.wikimedia.org/wiki/File:Ragi_Muddde.jpg",
+    "title": "Ragi Muddde.jpg",
+    "creator": "Chandan.kempegowda",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/food-ragi-mudde.jpg",
+    "originalSha256": "7c40cd1783e51935030a31d224f9223bf8f57df6dbcd80b0f88c2e43eb3d769c",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "food-neer-dosa": {
+    "id": "food-neer-dosa",
+    "alt": "Thin coastal Karnataka neer dosa",
+    "subjects": [
+      "Neer dosa"
+    ],
+    "src": "images/reviewed/food-neer-dosa-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/food-neer-dosa-480.webp",
+        "width": 480,
+        "height": 351,
+        "bytes": 11440
+      },
+      {
+        "src": "images/reviewed/food-neer-dosa-960.webp",
+        "width": 960,
+        "height": 703,
+        "bytes": 30832
+      }
+    ],
+    "width": 960,
+    "height": 703,
+    "source": "https://commons.wikimedia.org/wiki/File:Neer-dosa.jpg",
+    "title": "Neer-dosa.jpg",
+    "creator": "Kannadavegrecipes",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/food-neer-dosa.jpg",
+    "originalSha256": "504a728b487f9770669ae6a3b44ebb200588b84dee5c913ba8a3f0c3a068b144",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "food-jolada-rotti": {
+    "id": "food-jolada-rotti",
+    "alt": "Jolada rotti sorghum flatbread",
+    "subjects": [
+      "Jolada rotti"
+    ],
+    "src": "images/reviewed/food-jolada-rotti-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/food-jolada-rotti-480.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 16910
+      },
+      {
+        "src": "images/reviewed/food-jolada-rotti-960.webp",
+        "width": 960,
+        "height": 539,
+        "bytes": 51068
+      }
+    ],
+    "width": 960,
+    "height": 539,
+    "source": "https://commons.wikimedia.org/wiki/File:Jolada_rotti.jpg",
+    "title": "Jolada rotti.jpg",
+    "creator": "Aparna Rao 72",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/food-jolada-rotti.jpg",
+    "originalSha256": "8d1de398e99485204c490cc18889b82e6b9bb094485af2d608a01d291f2844bf",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "food-mysore-pak": {
+    "id": "food-mysore-pak",
+    "alt": "Pieces of Mysore pak sweet",
+    "subjects": [
+      "Mysore pak"
+    ],
+    "src": "images/reviewed/food-mysore-pak-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/food-mysore-pak-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 8630
+      },
+      {
+        "src": "images/reviewed/food-mysore-pak-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 23858
+      }
+    ],
+    "width": 960,
+    "height": 640,
+    "source": "https://commons.wikimedia.org/wiki/File:Mysore_pak.jpg",
+    "title": "Mysore pak.jpg",
+    "creator": "Charles Haynes",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "originalFile": "images/commons/food-mysore-pak.jpg",
+    "originalSha256": "9b2f4045fa90ab1adcb1669455d50f67bdfad1ed55dc2859c957d5735f90f12c",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "food-mangalore-buns": {
+    "id": "food-mangalore-buns",
+    "alt": "Mangalore buns served in Udupi",
+    "subjects": [
+      "Mangalore buns"
+    ],
+    "src": "images/reviewed/food-mangalore-buns-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/food-mangalore-buns-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 22798
+      },
+      {
+        "src": "images/reviewed/food-mangalore-buns-960.webp",
+        "width": 960,
+        "height": 721,
+        "bytes": 89392
+      }
+    ],
+    "width": 960,
+    "height": 721,
+    "source": "https://commons.wikimedia.org/wiki/File:Mangalore_buns_in_Udupi.jpg",
+    "title": "Mangalore buns in Udupi.jpg",
+    "creator": "Sohom Datta",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "originalFile": "images/commons/food-mangalore-buns.jpg",
+    "originalSha256": "73b0a6dbefab165a25062a1095c27f2dc1cf7a2fe6328b283da76126b4922e06",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "food-dharwad-peda": {
+    "id": "food-dharwad-peda",
+    "alt": "Dharwad peda milk sweets",
+    "subjects": [
+      "Dharwad peda"
+    ],
+    "src": "images/reviewed/food-dharwad-peda-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/food-dharwad-peda-480.webp",
+        "width": 480,
+        "height": 365,
+        "bytes": 49944
+      },
+      {
+        "src": "images/reviewed/food-dharwad-peda-960.webp",
+        "width": 960,
+        "height": 729,
+        "bytes": 210748
+      }
+    ],
+    "width": 960,
+    "height": 729,
+    "source": "https://commons.wikimedia.org/wiki/File:Dharwad_pedha.jpg",
+    "title": "Dharwad pedha.jpg",
+    "creator": "Maharana7573",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/food-dharwad-peda.jpg",
+    "originalSha256": "10fac0dc6093a4f0797ed816240786e5e25f071c683fd803a8ad75b31f71827a",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "food-dham": {
+    "id": "food-dham",
+    "alt": "Dham meal from Mandi, Himachal Pradesh",
+    "subjects": [
+      "Dham"
+    ],
+    "src": "images/reviewed/food-dham-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/food-dham-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 55856
+      },
+      {
+        "src": "images/reviewed/food-dham-960.webp",
+        "width": 960,
+        "height": 960,
+        "bytes": 245326
+      }
+    ],
+    "width": 960,
+    "height": 960,
+    "source": "https://commons.wikimedia.org/wiki/File:Dham.jpg",
+    "title": "Dham.jpg",
+    "creator": "Gannu03",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/food-dham.jpg",
+    "originalSha256": "fb7e163b80b93a8a573eb022e4d926a083621cb2d0c388dff72ef49aca58c2c5",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "food-siddu": {
+    "id": "food-siddu",
+    "alt": "Siddu steamed bread from Himachal Pradesh",
+    "subjects": [
+      "Siddu"
+    ],
+    "src": "images/reviewed/food-siddu-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/food-siddu-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 19842
+      },
+      {
+        "src": "images/reviewed/food-siddu-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 52438
+      }
+    ],
+    "width": 960,
+    "height": 1280,
+    "source": "https://commons.wikimedia.org/wiki/File:Siddu_(73518).jpg",
+    "title": "Siddu (73518).jpg",
+    "creator": "Gannu03",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/food-siddu.jpg",
+    "originalSha256": "bcdf716a39e4e644c350fe70c53287b461555defe7ad265bb454ba461d91d79a",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "food-madra": {
+    "id": "food-madra",
+    "alt": "White chana madra from Himachal Pradesh",
+    "subjects": [
+      "Madra"
+    ],
+    "src": "images/reviewed/food-madra-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/food-madra-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 32956
+      },
+      {
+        "src": "images/reviewed/food-madra-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 92270
+      }
+    ],
+    "width": 960,
+    "height": 1280,
+    "source": "https://commons.wikimedia.org/wiki/File:White_Chana_Madra.jpg",
+    "title": "White Chana Madra.jpg",
+    "creator": "Niyati Sharma 1505",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/food-madra.jpg",
+    "originalSha256": "89a01e677cd5655be74652bbb15ce80e47d378bca2d51c5df6f5df6f8025e0ef",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "culture-nati-dance": {
+    "id": "culture-nati-dance",
+    "alt": "Villagers performing Nati dance in Himachal Pradesh",
+    "subjects": [
+      "Nati dance"
+    ],
+    "src": "images/reviewed/culture-nati-dance-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/culture-nati-dance-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 49392
+      },
+      {
+        "src": "images/reviewed/culture-nati-dance-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 208002
+      }
+    ],
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:Nati_dance_of_Himachal_Pradesh.jpg",
+    "title": "Nati dance of Himachal Pradesh.jpg",
+    "creator": "Aniket Alam",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/culture-nati-dance.jpg",
+    "originalSha256": "bb20e89d42d9d72418122542498b60b78824f3ef449d58eacf0e684b9296baeb",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "culture-pahari-miniature-art": {
+    "id": "culture-pahari-miniature-art",
+    "alt": "Kangra school Pahari miniature painting of Krishna",
+    "subjects": [
+      "Pahari miniature art"
+    ],
+    "src": "images/reviewed/culture-pahari-miniature-art-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/culture-pahari-miniature-art-480.webp",
+        "width": 480,
+        "height": 650,
+        "bytes": 42674
+      },
+      {
+        "src": "images/reviewed/culture-pahari-miniature-art-960.webp",
+        "width": 960,
+        "height": 1299,
+        "bytes": 139974
+      }
+    ],
+    "width": 960,
+    "height": 1299,
+    "source": "https://commons.wikimedia.org/wiki/File:Krishna_playing_the_flute.jpg",
+    "title": "Krishna playing the flute.jpg",
+    "creator": "Aadrit28",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/culture-pahari-miniature-art.jpg",
+    "originalSha256": "3ec510b12a2bd4d506f5626c026316100f9eb084ceef73bfe8bbfdabaad8a844",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "festival-kullu-dussehra": {
+    "id": "festival-kullu-dussehra",
+    "alt": "Main procession during Kullu Dussehra",
+    "subjects": [
+      "Kullu Dussehra"
+    ],
+    "src": "images/reviewed/festival-kullu-dussehra-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/festival-kullu-dussehra-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 45248
+      },
+      {
+        "src": "images/reviewed/festival-kullu-dussehra-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 153794
+      }
+    ],
+    "width": 960,
+    "height": 640,
+    "source": "https://commons.wikimedia.org/wiki/File:Kullu_Dussehra_-_main_procession.jpg",
+    "title": "Kullu Dussehra - main procession.jpg",
+    "creator": "Kondephy",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "images/commons/festival-kullu-dussehra.jpg",
+    "originalSha256": "ef2f376e1352a2c733a3273a2d4374998df1c25f546b442f96c943744182966c",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "festival-minjar-fair": {
+    "id": "festival-minjar-fair",
+    "alt": "Procession during the Minjar Fair of Chamba",
+    "subjects": [
+      "Minjar Fair"
+    ],
+    "src": "images/reviewed/festival-minjar-fair-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/festival-minjar-fair-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 36564
+      },
+      {
+        "src": "images/reviewed/festival-minjar-fair-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 127180
+      }
+    ],
+    "width": 960,
+    "height": 640,
+    "source": "https://commons.wikimedia.org/wiki/File:Procession_in_the_Minjar_fair_of_Chamba.jpg",
+    "title": "Procession in the Minjar fair of Chamba.jpg",
+    "creator": "Kalitgautam",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/festival-minjar-fair.jpg",
+    "originalSha256": "f9b004f37aab8bcf150871cd3e0593bd8a9bf5d35119d5dff6fb0e7948cbbbe4",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "culture-yakshagana": {
+    "id": "culture-yakshagana",
+    "alt": "Yakshagana theatre performer in Karnataka",
+    "subjects": [
+      "Yakshagana"
+    ],
+    "src": "images/reviewed/culture-yakshagana-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/culture-yakshagana-480.webp",
+        "width": 480,
+        "height": 468,
+        "bytes": 34046
+      },
+      {
+        "src": "images/reviewed/culture-yakshagana-960.webp",
+        "width": 960,
+        "height": 936,
+        "bytes": 101012
+      }
+    ],
+    "width": 960,
+    "height": 936,
+    "source": "https://commons.wikimedia.org/wiki/File:Yakshagana_Performance.jpg",
+    "title": "Yakshagana Performance.jpg",
+    "creator": "Vinay.hegde2",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/culture-yakshagana.jpg",
+    "originalSha256": "c63a0ed75a0c8f6014dd38db4244cd1cc2cb86cb52e4ae8bbe18dacbb1d0cd0d",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "culture-dollu-kunitha": {
+    "id": "culture-dollu-kunitha",
+    "alt": "Dollu Kunitha drum dancers",
+    "subjects": [
+      "Dollu Kunitha"
+    ],
+    "src": "images/reviewed/culture-dollu-kunitha-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/culture-dollu-kunitha-480.webp",
+        "width": 480,
+        "height": 346,
+        "bytes": 50126
+      },
+      {
+        "src": "images/reviewed/culture-dollu-kunitha-960.webp",
+        "width": 960,
+        "height": 692,
+        "bytes": 167554
+      }
+    ],
+    "width": 960,
+    "height": 692,
+    "source": "https://commons.wikimedia.org/wiki/File:Dollu_kunita.jpg",
+    "title": "Dollu kunita.jpg",
+    "creator": "Krishna murali s",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "images/commons/culture-dollu-kunitha.jpg",
+    "originalSha256": "819aae899ce1e7e37c1c5044d4b0397c7deb4b81451ea35064d2089dda4ba148",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "culture-channapatna-toys": {
+    "id": "culture-channapatna-toys",
+    "alt": "Colourful wooden Channapatna toys",
+    "subjects": [
+      "Channapatna toys"
+    ],
+    "src": "images/reviewed/culture-channapatna-toys-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/culture-channapatna-toys-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 24470
+      },
+      {
+        "src": "images/reviewed/culture-channapatna-toys-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 64758
+      }
+    ],
+    "width": 960,
+    "height": 640,
+    "source": "https://commons.wikimedia.org/wiki/File:Channapatna_toys104.jpg",
+    "title": "Channapatna toys104.jpg",
+    "creator": "MaximusPrasad",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "images/commons/culture-channapatna-toys.jpg",
+    "originalSha256": "565ff1c56b996535d105fcffa2d040dbb31ae3b56fa9fae7380c0f65047db672",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "culture-ilkal-sarees": {
+    "id": "culture-ilkal-sarees",
+    "alt": "Handwoven Ilkal saree from North Karnataka",
+    "subjects": [
+      "Ilkal sarees"
+    ],
+    "src": "images/reviewed/culture-ilkal-sarees-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/culture-ilkal-sarees-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 26072
+      },
+      {
+        "src": "images/reviewed/culture-ilkal-sarees-960.webp",
+        "width": 768,
+        "height": 1024,
+        "bytes": 54556
+      }
+    ],
+    "width": 768,
+    "height": 1024,
+    "source": "https://commons.wikimedia.org/wiki/File:Ilkal_saree.jpg",
+    "title": "Ilkal saree.jpg",
+    "creator": "T B Dinesh",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "originalFile": "images/commons/culture-ilkal-sarees.jpg",
+    "originalSha256": "55c6adef913e67e24da1a32257756c8896335d7512de03ddfa1260c39f163aa6",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
+  },
+  "culture-bidriware": {
+    "id": "culture-bidriware",
+    "alt": "Decorative Bidriware metal craft",
+    "subjects": [
+      "Bidriware"
+    ],
+    "src": "images/reviewed/culture-bidriware-960.webp",
+    "variants": [
+      {
+        "src": "images/reviewed/culture-bidriware-480.webp",
+        "width": 480,
+        "height": 643,
+        "bytes": 45132
+      },
+      {
+        "src": "images/reviewed/culture-bidriware-960.webp",
+        "width": 960,
+        "height": 1286,
+        "bytes": 239172
+      }
+    ],
+    "width": 960,
+    "height": 1286,
+    "source": "https://commons.wikimedia.org/wiki/File:Bidri_ware_art_in_craft_museum.JPG",
+    "title": "Bidri ware art in craft museum.JPG",
+    "creator": "Siddharth0365",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "images/commons/culture-bidriware.jpg",
+    "originalSha256": "e95e9800083dcebe474d6ea6d4700e67857a8300a73cfda99df574e7f630f1bd",
+    "reviewedAt": "2026-09-24",
+    "review": "Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.",
+    "changes": "Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view."
   }
 }

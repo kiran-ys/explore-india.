@@ -17,7 +17,7 @@ function openDetail(item, trigger) {
   const content = $('#guideDialogContent'); content.replaceChildren();
   content.append(el('p', `${destination.name} / ${labels[item.kind]}`, 'eyebrow'), el('h2', item.name));
   content.querySelector('h2').id = 'guideDialogTitle';
-  content.append(mediaFigure(matchingMedia(catalogue, item.name), { full:true, eager:true }), el('p', item.description, 'detail-description'));
+  content.append(mediaFigure(matchingMedia(catalogue, item.name, slug), { full:true, eager:true }), el('p', item.description, 'detail-description'));
   if (item.area) content.append(el('p', `Associated with: ${item.area}`));
   if (item.kind === 'festivals') content.append(el('p', 'Festival dates and public access vary. Confirm the current programme with the organiser before booking travel.', 'visitor-note'));
   if (item.kind === 'places') content.append(link('Open this place in Google Maps ↗', `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${item.name}, ${destination.name}, India`)}`));
@@ -31,7 +31,7 @@ dialog.addEventListener('click', event => { if (event.target === dialog) { const
 function entryCard(item) {
   const article = el('article', '', 'guide-card'), button = el('button', '', 'guide-card-open'); button.type = 'button';
   button.setAttribute('aria-label', `Read about ${item.name}`);
-  const figure = mediaFigure(matchingMedia(catalogue, item.name));
+  const figure = mediaFigure(matchingMedia(catalogue, item.name, slug));
   // Photo credits are separate links, never nested inside a button.
   button.append(figure.querySelector('img'));
   const body = el('div', '', 'guide-card-body');

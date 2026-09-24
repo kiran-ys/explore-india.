@@ -609,3 +609,227 @@ The photographs below are credited to their named creators. Follow each source l
 - Creator: Marco Ghitti from Brescia / Lombardia / Italia
 - License: CC BY 2.0
 - Source: https://commons.wikimedia.org/wiki/File:Baisakhi_a_Sikh_festival.jpg
+
+## food-bisi-bele-bath
+
+- File: `images/commons/food-bisi-bele-bath.jpg`
+- Title: Bisi Bele Bath.jpg
+- Creator: Devika.pujari
+- License: CC0
+- Source: https://commons.wikimedia.org/wiki/File:Bisi_Bele_Bath.jpg
+
+## food-ragi-mudde
+
+- File: `images/commons/food-ragi-mudde.jpg`
+- Title: Ragi Muddde.jpg
+- Creator: Chandan.kempegowda
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Ragi_Muddde.jpg
+
+## food-neer-dosa
+
+- File: `images/commons/food-neer-dosa.jpg`
+- Title: Neer-dosa.jpg
+- Creator: Kannadavegrecipes
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Neer-dosa.jpg
+
+## food-jolada-rotti
+
+- File: `images/commons/food-jolada-rotti.jpg`
+- Title: Jolada rotti.jpg
+- Creator: Aparna Rao 72
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Jolada_rotti.jpg
+
+## food-mysore-pak
+
+- File: `images/commons/food-mysore-pak.jpg`
+- Title: Mysore pak.jpg
+- Creator: Charles Haynes
+- License: CC BY-SA 2.0
+- Source: https://commons.wikimedia.org/wiki/File:Mysore_pak.jpg
+
+## food-mangalore-buns
+
+- File: `images/commons/food-mangalore-buns.jpg`
+- Title: Mangalore buns in Udupi.jpg
+- Creator: Sohom Datta
+- License: CC0
+- Source: https://commons.wikimedia.org/wiki/File:Mangalore_buns_in_Udupi.jpg
+
+## food-dharwad-peda
+
+- File: `images/commons/food-dharwad-peda.jpg`
+- Title: Dharwad pedha.jpg
+- Creator: Maharana7573
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Dharwad_pedha.jpg
+
+## food-dham
+
+- File: `images/commons/food-dham.jpg`
+- Title: Dham.jpg
+- Creator: Gannu03
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Dham.jpg
+
+## food-siddu
+
+- File: `images/commons/food-siddu.jpg`
+- Title: Siddu (73518).jpg
+- Creator: Gannu03
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Siddu_(73518).jpg
+
+## food-madra
+
+- File: `images/commons/food-madra.jpg`
+- Title: White Chana Madra.jpg
+- Creator: Niyati Sharma 1505
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:White_Chana_Madra.jpg
+
+## culture-nati-dance
+
+- File: `images/commons/culture-nati-dance.jpg`
+- Title: Nati dance of Himachal Pradesh.jpg
+- Creator: Aniket Alam
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Nati_dance_of_Himachal_Pradesh.jpg
+
+## culture-pahari-miniature-art
+
+- File: `images/commons/culture-pahari-miniature-art.jpg`
+- Title: Krishna playing the flute.jpg
+- Creator: Aadrit28
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Krishna_playing_the_flute.jpg
+
+## festival-kullu-dussehra
+
+- File: `images/commons/festival-kullu-dussehra.jpg`
+- Title: Kullu Dussehra - main procession.jpg
+- Creator: Kondephy
+- License: CC BY-SA 3.0
+- Source: https://commons.wikimedia.org/wiki/File:Kullu_Dussehra_-_main_procession.jpg
+
+## festival-minjar-fair
+
+- File: `images/commons/festival-minjar-fair.jpg`
+- Title: Procession in the Minjar fair of Chamba.jpg
+- Creator: Kalitgautam
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Procession_in_the_Minjar_fair_of_Chamba.jpg
+
+## culture-yakshagana
+
+- File: `images/commons/culture-yakshagana.jpg`
+- Title: Yakshagana Performance.jpg
+- Creator: Vinay.hegde2
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Yakshagana_Performance.jpg
+
+## culture-dollu-kunitha
+
+- File: `images/commons/culture-dollu-kunitha.jpg`
+- Title: Dollu kunita.jpg
+- Creator: Krishna murali s
+- License: CC BY-SA 3.0
+- Source: https://commons.wikimedia.org/wiki/File:Dollu_kunita.jpg
+
+## culture-channapatna-toys
+
+- File: `images/commons/culture-channapatna-toys.jpg`
+- Title: Channapatna toys104.jpg
+- Creator: MaximusPrasad
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Channapatna_toys104.jpg
+
+## culture-ilkal-sarees
+
+- File: `images/commons/culture-ilkal-sarees.jpg`
+- Title: Ilkal saree.jpg
+- Creator: T B Dinesh
+- License: CC0
+- Source: https://commons.wikimedia.org/wiki/File:Ilkal_saree.jpg
+
+## culture-bidriware
+
+- File: `images/commons/culture-bidriware.jpg`
+- Title: Bidri ware art in craft museum.JPG
+- Creator: Siddharth0365
+- License: CC BY-SA 3.0
+- Source: https://commons.wikimedia.org/wiki/File:Bidri_ware_art_in_craft_museum.JPG
+
+## place-leh-palace
+
+- File: `images/commons/place-leh-palace.jpg`
+- Title: The Leh Palace.jpg
+- Creator: NeerajVardhan
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:The_Leh_Palace.jpg
+
+## place-nubra-valley
+
+- File: `images/commons/place-nubra-valley.jpg`
+- Title: Sand dunes of Nubra Valley, Ladakh.jpg
+- Creator: Mohanrangaphotography
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Sand_dunes_of_Nubra_Valley,_Ladakh.jpg
+
+## place-hemis-monastery
+
+- File: `images/commons/place-hemis-monastery.jpg`
+- Title: Hemis Monastery, Ladakh (2563965489).jpg
+- Creator: Michael Day
+- License: CC BY 2.0
+- Source: https://commons.wikimedia.org/wiki/File:Hemis_Monastery,_Ladakh_(2563965489).jpg
+
+## place-alchi-monastery
+
+- File: `images/commons/place-alchi-monastery.jpg`
+- Title: Alchi Monastery, Leh, Ladakh, India 01.jpg
+- Creator: Harvinder Chandigarh
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Alchi_Monastery,_Leh,_Ladakh,_India_01.jpg
+
+## festival-hemis-festival
+
+- File: `images/commons/festival-hemis-festival.jpg`
+- Title: Hemis Monastery Festival 1.jpg
+- Creator: MaryOfPrag
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Hemis_Monastery_Festival_1.jpg
+
+## food-udupi-cuisine
+
+- File: `images/commons/food-udupi-cuisine.jpg`
+- Title: Delicious Udupi style food with rice, tomato rasum, payasa, papas, pickel, mango chutney, kosaumbari, vegetable palya, having in banana leaf.jpg
+- Creator: Suchetha-87
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Delicious_Udupi_style_food_with_rice,_tomato_rasum,_payasa,_papas,_pickel,_mango_chutney,_kosaumbari,_vegetable_palya,_having_in_banana_leaf.jpg
+
+## food-kundapura-chicken
+
+- File: `images/commons/food-kundapura-chicken.jpg`
+- Title: Neer dosa with kundapur style kori(country chicken) gassy(curry).jpg
+- Creator: Surajms1994
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Neer_dosa_with_kundapur_style_kori(country_chicken)_gassy(curry).jpg
+
+## festival-ladakh-festival
+
+- File: `images/commons/festival-ladakh-festival.jpg`
+- Title: Leh, Ladakh Festival, Ladakh, India.jpg
+- Creator: Vyacheslav Argenberg
+- License: CC BY 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Leh,_Ladakh_Festival,_Ladakh,_India.jpg
+
+## festival-losar
+
+- File: `images/commons/festival-losar.jpg`
+- Title: Ladakh's New Year.jpg
+- Creator: Peter Kason
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Ladakh%27s_New_Year.jpg

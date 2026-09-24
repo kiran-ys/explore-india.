@@ -30,11 +30,14 @@ for (const file of pageFiles) {
   const paths = [...body.matchAll(/(?:src=|url\()(?:["']?)(images\/[^"')]+)(?:["']?)/g)].map(match => match[1]);
   for (const path of paths) await checkImage(path, file);
 }
-const subjects = new Set(Object.values(media).flatMap(item => item.subjects.map(subject => subject.toLocaleLowerCase())));
+const hasPhoto = (name, slug) => Object.values(media).some(item =>
+  item.subjects.some(subject => subject.toLocaleLowerCase() === name.toLocaleLowerCase()) &&
+  (!item.destinationSlugs || item.destinationSlugs.includes(slug))
+);
 const summary = { destinations:[destinations.filter(item => media[`dest-${item.slug}`]).length, destinations.length] };
 for (const kind of ['places', 'food', 'culture', 'festivals']) {
-  const entries = kind === 'places' ? Object.values(places).flat() : Object.values(profiles).flatMap(profile => profile[kind] || []).map(item => ({ name:item[0] }));
-  summary[kind] = [entries.filter(item => subjects.has(item.name.toLocaleLowerCase())).length, entries.length];
+  const entries = kind === 'places' ? Object.entries(places).flatMap(([slug, items]) => items.map(item => ({ name:item.name, slug }))) : Object.entries(profiles).flatMap(([slug, profile]) => (profile[kind] || []).map(item => ({ name:item[0], slug })));
+  summary[kind] = [entries.filter(item => hasPhoto(item.name, item.slug)).length, entries.length];
 }
 const culturePage = await readFile(join(frontend, 'culture.html'), 'utf8');
 const cultureImages = [...culturePage.matchAll(/<img src="(images\/[^"]+)"/g)].map(match => match[1]);

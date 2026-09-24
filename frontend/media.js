@@ -1,8 +1,11 @@
 const cataloguePromise = fetch('data/media.json').then(r => { if (!r.ok) throw new Error('Media catalogue unavailable'); return r.json(); });
 export const mediaReady = cataloguePromise.catch(() => ({}));
-export function matchingMedia(catalogue, title) {
+export function matchingMedia(catalogue, title, destinationSlug) {
   const key = title.normalize('NFKC').toLocaleLowerCase().trim();
-  return Object.values(catalogue).find(m => m.subjects.some(s => s.toLocaleLowerCase() === key));
+  return Object.values(catalogue).find(m =>
+    m.subjects.some(s => s.toLocaleLowerCase() === key) &&
+    (!m.destinationSlugs || m.destinationSlugs.includes(destinationSlug))
+  );
 }
 export function mediaFigure(record, { eager = false, full = false } = {}) {
   const figure = document.createElement('figure'); figure.className = `reviewed-media${full ? ' full-media' : ''}`;

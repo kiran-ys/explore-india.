@@ -80,10 +80,39 @@ const approvals = {
   'food-rajasthani': ['A Rajasthani meal photographed in Jaipur', ['Rajasthani thali']],
   'dance-kathak': ['Kathak dancer Namrata Rai, photographed by Avinash Pasricha', ['Kathak']],
   'festival-mysuru-dasara': ['Elephants in a Mysuru Dasara procession', ['Mysuru Dasara']],
-  'festival-kambala': ['Buffaloes and a runner in a Kambala race', ['Kambala']]
+  'festival-kambala': ['Buffaloes and a runner in a Kambala race', ['Kambala']],
+  'place-leh-palace': ['Leh Palace above the town of Leh', ['Leh Palace']],
+  'place-nubra-valley': ['Sand dunes in Nubra Valley, Ladakh', ['Nubra Valley']],
+  'place-hemis-monastery': ['Hemis Monastery in Ladakh', ['Hemis Monastery']],
+  'place-alchi-monastery': ['Alchi Monastery in Ladakh', ['Alchi Monastery']],
+  'festival-hemis-festival': ['Performers at the Hemis Monastery Festival', ['Hemis Festival']],
+  'festival-ladakh-festival': ['Festival crowd gathered at Leh polo ground', ['Ladakh Festival']],
+  'festival-losar': ['Barley dough and butter sculptures prepared for Ladakhi Losar', ['Losar']],
+  'food-udupi-cuisine': ['Udupi-style vegetarian meal with rice and side dishes on a banana leaf', ['Udupi cuisine']],
+  'food-kundapura-chicken': ['Kundapura-style chicken curry served with neer dosa', ['Kundapura chicken']],
+  'food-bisi-bele-bath': ['Bisi bele bath, a Karnataka rice and lentil dish', ['Bisi bele bath']],
+  'food-ragi-mudde': ['Ragi mudde served as a Karnataka meal', ['Ragi mudde']],
+  'food-neer-dosa': ['Thin coastal Karnataka neer dosa', ['Neer dosa']],
+  'food-jolada-rotti': ['Jolada rotti sorghum flatbread', ['Jolada rotti']],
+  'food-mysore-pak': ['Pieces of Mysore pak sweet', ['Mysore pak']],
+  'food-mangalore-buns': ['Mangalore buns served in Udupi', ['Mangalore buns']],
+  'food-dharwad-peda': ['Dharwad peda milk sweets', ['Dharwad peda']],
+  'food-dham': ['Dham meal from Mandi, Himachal Pradesh', ['Dham']],
+  'food-siddu': ['Siddu steamed bread from Himachal Pradesh', ['Siddu']],
+  'food-madra': ['White chana madra from Himachal Pradesh', ['Madra']],
+  'culture-nati-dance': ['Villagers performing Nati dance in Himachal Pradesh', ['Nati dance']],
+  'culture-pahari-miniature-art': ['Kangra school Pahari miniature painting of Krishna', ['Pahari miniature art']],
+  'festival-kullu-dussehra': ['Main procession during Kullu Dussehra', ['Kullu Dussehra']],
+  'festival-minjar-fair': ['Procession during the Minjar Fair of Chamba', ['Minjar Fair']],
+  'culture-yakshagana': ['Yakshagana theatre performer in Karnataka', ['Yakshagana']],
+  'culture-dollu-kunitha': ['Dollu Kunitha drum dancers', ['Dollu Kunitha']],
+  'culture-channapatna-toys': ['Colourful wooden Channapatna toys', ['Channapatna toys']],
+  'culture-ilkal-sarees': ['Handwoven Ilkal saree from North Karnataka', ['Ilkal sarees']],
+  'culture-bidriware': ['Decorative Bidriware metal craft', ['Bidriware']]
 };
 const catalogue = {};
 const reviewedToday = new Set([...['himachal-pradesh', 'jammu-kashmir', 'kerala', 'rajasthan', 'andhra-pradesh', 'bihar', 'goa', 'gujarat', 'karnataka', 'maharashtra', 'punjab', 'tamil-nadu', 'uttar-pradesh', 'west-bengal'].map(slug => `dest-${slug}`), 'festival-diwali', 'festival-holi', 'festival-onam', 'festival-pongal', 'festival-baisakhi', 'food-karnataka', 'dance-manipuri', 'dance-sattriya']);
+const reviewedNow = new Set(Object.keys(approvals).filter(id => /^(?:food-(?:bisi-bele-bath|ragi-mudde|neer-dosa|jolada-rotti|mysore-pak|mangalore-buns|dharwad-peda|dham|siddu|madra|udupi-cuisine|kundapura-chicken)|culture-(?:nati-dance|pahari-miniature-art|yakshagana|dollu-kunitha|channapatna-toys|ilkal-sarees|bidriware)|festival-(?:kullu-dussehra|minjar-fair|hemis-festival|ladakh-festival|losar)|place-(?:leh-palace|nubra-valley|hemis-monastery|alchi-monastery))$/.test(id)));
 await mkdir('frontend/images/reviewed', { recursive: true });
 await mkdir('frontend/data', { recursive: true });
 for (const [id, [alt, subjects]] of Object.entries(approvals)) {
@@ -100,8 +129,8 @@ for (const [id, [alt, subjects]] of Object.entries(approvals)) {
   const licence = original.license;
   const version = licence.match(/(\d\.\d)/)?.[1];
   const licenseUrl = licence === 'CC0' ? 'https://creativecommons.org/publicdomain/zero/1.0/' : licence === 'Public domain' ? original.source : `https://creativecommons.org/licenses/${licence.includes('BY-SA') ? 'by-sa' : 'by'}/${version}/`;
-  const newlyReviewed = reviewedToday.has(id) || id.startsWith('place-');
-  catalogue[id] = { id, alt, subjects, src: variants[1].src, variants, width: variants[1].width, height: variants[1].height, source: original.source, title: original.title, creator: original.creator, license: licence, licenseUrl, originalFile: original.file, originalSha256: createHash('sha256').update(buffer).digest('hex'), reviewedAt: newlyReviewed ? '2026-09-23' : '2026-09-17', review: 'Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.', changes: 'Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view.' };
+  const reviewedAt = reviewedNow.has(id) ? '2026-09-24' : reviewedToday.has(id) || id.startsWith('place-') ? '2026-09-23' : '2026-09-17';
+  catalogue[id] = { id, alt, subjects, ...(id === 'festival-losar' ? { destinationSlugs:['ladakh'] } : {}), src: variants[1].src, variants, width: variants[1].width, height: variants[1].height, source: original.source, title: original.title, creator: original.creator, license: licence, licenseUrl, originalFile: original.file, originalSha256: createHash('sha256').update(buffer).digest('hex'), reviewedAt, review: 'Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.', changes: 'Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view.' };
 }
 await writeFile('frontend/data/media.json', JSON.stringify(catalogue, null, 2) + '\n');
 console.log(`Built ${Object.keys(catalogue).length} explicitly reviewed image records and responsive variants.`);

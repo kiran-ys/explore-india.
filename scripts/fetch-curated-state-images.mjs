@@ -39,7 +39,35 @@ const selected = {
   'festival-baisakhi': 'Baisakhi a Sikh festival.jpg',
   'food-karnataka': 'Karnataka Vegetarian Meal.jpg',
   'dance-manipuri': 'Lord Krishna in Manipuri Ras Lila dance 01.jpg',
-  'dance-sattriya': 'Sattriya Dance Performance.jpg'
+  'dance-sattriya': 'Sattriya Dance Performance.jpg',
+  'place-leh-palace': 'The Leh Palace.jpg',
+  'place-nubra-valley': 'Sand dunes of Nubra Valley, Ladakh.jpg',
+  'place-hemis-monastery': 'Hemis Monastery, Ladakh (2563965489).jpg',
+  'place-alchi-monastery': 'Alchi Monastery, Leh, Ladakh, India 01.jpg',
+  'festival-hemis-festival': 'Hemis Monastery Festival 1.jpg',
+  'festival-ladakh-festival': 'Leh, Ladakh Festival, Ladakh, India.jpg',
+  'festival-losar': "Ladakh's New Year.jpg",
+  'food-udupi-cuisine': 'Delicious Udupi style food with rice, tomato rasum, payasa, papas, pickel, mango chutney, kosaumbari, vegetable palya, having in banana leaf.jpg',
+  'food-kundapura-chicken': 'Neer dosa with kundapur style kori(country chicken) gassy(curry).jpg',
+  'food-bisi-bele-bath': 'Bisi Bele Bath.jpg',
+  'food-ragi-mudde': 'Ragi Muddde.jpg',
+  'food-neer-dosa': 'Neer-dosa.jpg',
+  'food-jolada-rotti': 'Jolada rotti.jpg',
+  'food-mysore-pak': 'Mysore pak.jpg',
+  'food-mangalore-buns': 'Mangalore buns in Udupi.jpg',
+  'food-dharwad-peda': 'Dharwad pedha.jpg',
+  'food-dham': 'Dham.jpg',
+  'food-siddu': 'Siddu (73518).jpg',
+  'food-madra': 'White Chana Madra.jpg',
+  'culture-nati-dance': 'Nati dance of Himachal Pradesh.jpg',
+  'culture-pahari-miniature-art': 'Krishna playing the flute.jpg',
+  'festival-kullu-dussehra': 'Kullu Dussehra - main procession.jpg',
+  'festival-minjar-fair': 'Procession in the Minjar fair of Chamba.jpg',
+  'culture-yakshagana': 'Yakshagana Performance.jpg',
+  'culture-dollu-kunitha': 'Dollu kunita.jpg',
+  'culture-channapatna-toys': 'Channapatna toys104.jpg',
+  'culture-ilkal-sarees': 'Ilkal saree.jpg',
+  'culture-bidriware': 'Bidri ware art in craft museum.JPG'
 };
 const directory = join(process.cwd(), 'frontend/images/commons');
 await mkdir(directory, { recursive: true });
@@ -60,9 +88,14 @@ async function request(url) {
 for (const [slug, title] of Object.entries(selected)) {
   if (requested.size && !requested.has(slug)) continue;
   const params = new URLSearchParams({ action: 'query', titles: `File:${title}`, prop: 'imageinfo', iiprop: 'url|mime|size|extmetadata', iiurlwidth: '1200', format: 'json' });
-  const response = await request(`https://commons.wikimedia.org/w/api.php?${params}`);
-  if (!response.ok) throw new Error(`${slug}: metadata request failed (${response.status})`);
-  const page = Object.values((await response.json()).query?.pages || {})[0];
+  let page;
+  for (let attempt = 0; attempt < 5; attempt++) {
+    const response = await request(`https://commons.wikimedia.org/w/api.php?${params}`);
+    if (!response.ok) throw new Error(`${slug}: metadata request failed (${response.status})`);
+    page = Object.values((await response.json()).query?.pages || {})[0];
+    if (page?.imageinfo?.[0]) break;
+    await pause(5000 * (attempt + 1));
+  }
   const info = page?.imageinfo?.[0];
   const metadata = info?.extmetadata || {};
   const license = clean(metadata.LicenseShortName?.value || metadata.UsageTerms?.value);
