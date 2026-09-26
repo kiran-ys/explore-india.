@@ -6,18 +6,18 @@ const require = createRequire(import.meta.url);
 const sharp = require(process.env.SHARP_MODULE || 'sharp');
 const originals = JSON.parse(await readFile('frontend/images/commons/manifest.json', 'utf8'));
 const approvals = {
-  'dest-himachal-pradesh': ['Christ Church in Shimla with snow-covered hills behind it', ['Christ Church Shimla']],
+  'dest-himachal-pradesh': ['Christ Church in Shimla with snow-covered hills behind it', ['Christ Church Shimla', 'Shimla']],
   'dest-jammu-kashmir': ['Houseboats on Dal Lake in Srinagar', ['Dal Lake', 'Srinagar']],
   'dest-kerala': ['A boat travelling through Kerala backwaters near Nedumudy', ['Kerala backwaters']],
-  'dest-rajasthan': ['The pink facade of Hawa Mahal in Jaipur', ['Hawa Mahal']],
-  'dest-andhra-pradesh': ['Tirumala Venkateswara Temple in Andhra Pradesh', ['Tirumala Venkateswara Temple']],
-  'dest-bihar': ['Mahabodhi Temple complex in Bodh Gaya', ['Mahabodhi Temple']],
+  'dest-rajasthan': ['The pink facade of Hawa Mahal in Jaipur', ['Hawa Mahal', 'Jaipur']],
+  'dest-andhra-pradesh': ['Tirumala Venkateswara Temple in Andhra Pradesh', ['Tirumala Venkateswara Temple', 'Tirupati']],
+  'dest-bihar': ['Mahabodhi Temple complex in Bodh Gaya', ['Mahabodhi Temple', 'Bodh Gaya']],
   'dest-goa': ['Front facade of the Basilica of Bom Jesus in Goa', ['Basilica of Bom Jesus']],
   'dest-gujarat': ['White salt flats of the Rann of Kutch at sunset', ['Rann of Kutch']],
   'dest-karnataka': ['Virupaksha Temple complex among the ruins of Hampi', ['Hampi', 'Virupaksha Temple']],
-  'dest-maharashtra': ['Gateway of India on Mumbai waterfront', ['Gateway of India']],
+  'dest-maharashtra': ['Gateway of India on Mumbai waterfront', ['Gateway of India', 'Mumbai']],
   'dest-punjab': ['The Golden Temple reflected in its sacred pool in Amritsar', ['Golden Temple']],
-  'dest-tamil-nadu': ['Carved gopuram of Meenakshi Amman Temple in Madurai', ['Meenakshi Amman Temple']],
+  'dest-tamil-nadu': ['Carved gopuram of Meenakshi Amman Temple in Madurai', ['Meenakshi Amman Temple', 'Madurai']],
   'dest-uttar-pradesh': ['Taj Mahal seen from its garden in Agra', ['Taj Mahal']],
   'dest-west-bengal': ['Victoria Memorial in Kolkata', ['Victoria Memorial']],
   'place-gulmarg': ['Green meadows and grazing animals near Gulmarg', ['Gulmarg']],
@@ -108,11 +108,86 @@ const approvals = {
   'culture-dollu-kunitha': ['Dollu Kunitha drum dancers', ['Dollu Kunitha']],
   'culture-channapatna-toys': ['Colourful wooden Channapatna toys', ['Channapatna toys']],
   'culture-ilkal-sarees': ['Handwoven Ilkal saree from North Karnataka', ['Ilkal sarees']],
-  'culture-bidriware': ['Decorative Bidriware metal craft', ['Bidriware']]
+  'culture-bidriware': ['Decorative Bidriware metal craft', ['Bidriware']],
+  'place-cellular-jail': ['The exterior of Cellular Jail in Port Blair', ['Cellular Jail']],
+  'place-shaheed-dweep': ['Tropical beach on Shaheed Dweep in the Andaman Islands', ['Shaheed Dweep']],
+  'place-chidiya-tapu': ['Sunset at Chidiya Tapu in the Andaman Islands', ['Chidiya Tapu']],
+  'place-wandoor': ['Wandoor Beach in the Andaman Islands', ['Wandoor']],
+  'place-aizawl': ['View over Aizawl, Mizoram', ['Aizawl']],
+  'place-reiek': ['Reiek hill landscape in Mizoram', ['Reiek']],
+  'place-vantawng-falls': ['Vantawng Falls in Mizoram', ['Vantawng Falls']],
+  'place-phawngpui': ['Forest and mountains in Phawngpui National Park', ['Phawngpui']],
+  'place-tam-dil': ['Tam Dil lake in Mizoram', ['Tam Dil']],
+  'place-kolkata': ['Kolkata skyline at night', ['Kolkata']],
+  'place-darjeeling': ['Tea plantations on the hills of Darjeeling', ['Darjeeling']],
+  'place-sundarbans': ['A visitor boat in the Sundarbans mangrove region', ['Sundarbans']],
+  'place-santiniketan': ['Historic house associated with Rabindranath Tagore in Santiniketan', ['Santiniketan']],
+  'place-bishnupur': ['Rasmancha Temple in Bishnupur, West Bengal', ['Bishnupur']],
+  'place-majuli': ['Boats crossing a river beside Majuli island in Assam', ['Majuli']],
+  'place-kanger-valley-national-park': ['Entrance to Kanger Valley National Park in Chhattisgarh', ['Kanger Valley National Park']],
+  'place-rani-ki-vav': ['Carved stepwell at Rani ki Vav in Gujarat', ['Rani ki Vav']],
+  'place-sultanpur-national-park': ['Wetland habitat at Sultanpur National Park in Haryana', ['Sultanpur National Park']],
+  'place-betla-national-park': ['Entrance to Betla National Park in Jharkhand', ['Betla National Park']],
+  'place-alappuzha': ['A houseboat on the waterways of Alappuzha, Kerala', ['Alappuzha']],
+  'place-jallianwala-bagh': ['Memorial entrance at Jallianwala Bagh in Amritsar', ['Jallianwala Bagh']],
+  'place-chennai': ['Chennai Central railway station', ['Chennai']],
+  'place-neermahal': ['Neermahal palace by the water in Tripura', ['Neermahal']],
+  'place-rishikesh': ['Trayambakeshwar Temple beside the Ganges in Rishikesh', ['Rishikesh']],
+  'place-red-fort': ['Front view of the Red Fort in Delhi', ['Red Fort']],
+  'place-promenade-beach': ['Aerial view of Promenade Beach in Puducherry', ['Promenade Beach']],
+  'place-rock-garden': ['Stone paths and walls inside Chandigarh Rock Garden', ['Rock Garden']],
+  'place-sanchi': ['Carved gateway and stupa at Sanchi in Madhya Pradesh', ['Sanchi']],
+  'place-ziro-valley': ['Green cultivated valley and village near Ziro in Arunachal Pradesh', ['Ziro Valley']],
+  'place-agatti': ['Agatti island surrounded by the turquoise waters of Lakshadweep', ['Agatti']],
+  'place-fontainhas': ['Colourful houses lining a street in Fontainhas, Panaji', ['Fontainhas']],
+  'place-bandipur-national-park': ['Forest and grassland in Bandipur National Park', ['Bandipur National Park']],
+  'place-keibul-lamjao-national-park': ['Floating vegetation on a lake in Keibul Lamjao National Park', ['Keibul Lamjao National Park']],
+  'place-shillong': ['View across the city of Shillong, Meghalaya', ['Shillong']],
+  'place-kohima': ['Hilltop view over Kohima in Nagaland', ['Kohima']],
+  'place-gangtok': ['Gangtok city viewed from above', ['Gangtok']],
+  'place-puri': ['Jagannath Temple complex in Puri, Odisha', ['Puri']],
+  'place-golconda-fort': ['Fortified walls of Golconda Fort with Hyderabad in the background', ['Golconda Fort']],
+  'place-diu-fort': ['Stone arches inside Diu Fort', ['Diu Fort']],
+  'food-machher-jhol': ['Bengali fish curry prepared as machher jhol', ['Machher jhol']],
+  'food-shorshe-ilish': ['Hilsa fish in mustard gravy, shorshe ilish', ['Shorshe ilish']],
+  'food-kolkata-biryani': ['Kolkata-style mutton biryani with potato and egg', ['Kolkata biryani']],
+  'food-kathi-roll': ['Paneer kathi rolls wrapped in flatbread', ['Kathi roll']],
+  'food-mishti-doi': ['Mishti doi served in a clay cup', ['Mishti doi']],
+  'food-rosogolla': ['Two rosogolla sweets served in syrup', ['Rosogolla']],
+  'culture-cheraw-dance': ['Performers dancing Cheraw with bamboo poles in Mizoram', ['Cheraw dance']],
+  'festival-chapchar-kut': ['Performers at a Chapchar Kut celebration in Mizoram', ['Chapchar Kut']],
+  'food-dal-baati-churma': ['Dal baati churma served with curry on a metal plate', ['Dal baati churma']],
+  'culture-ghoomar': ['Dancers performing Ghoomar at a Rajasthan venue', ['Ghoomar']],
+  'festival-pushkar-fair': ['Decorated camel at the Pushkar Fair in Rajasthan', ['Pushkar Fair']],
+  'food-vada-pav': ['A hand holding a vada pav snack in Mumbai', ['Vada pav']],
+  'culture-lavani': ['Two Lavani dancers performing on stage', ['Lavani']],
+  'festival-ganesh-chaturthi': ['Large Ganesh idol displayed during Ganesh Chaturthi', ['Ganesh Chaturthi']],
+  'food-litti-chokha': ['Litti served with chokha and chillies', ['Litti chokha']],
+  'culture-madhubani-painting': ['An artist working on a Madhubani painting', ['Madhubani painting']],
+  'place-lepakshi': ['Carved pillars inside Veerabhadra Temple at Lepakshi', ['Lepakshi']],
+  'place-nalanda': ['Ruins of Sariputta Stupa at Nalanda Mahavihara', ['Nalanda']],
+  'place-modhera-sun-temple': ['Stone mandapa at Modhera Sun Temple in Gujarat', ['Modhera Sun Temple']],
+  'place-bhimbetka': ['Prehistoric rock art inside a Bhimbetka shelter', ['Bhimbetka']],
+  'place-ajanta-caves': ['Carved stupa and pillars inside Ajanta Cave 26', ['Ajanta Caves']],
+  'place-rumtek-monastery': ['Rumtek Monastery seen across its courtyard in Sikkim', ['Rumtek Monastery']],
+  'place-ramappa-temple': ['Stone mandapa of Ramappa Temple in Telangana', ['Ramappa Temple']],
+  'place-unakoti': ['Rock-carved faces on the hillside at Unakoti in Tripura', ['Unakoti']],
+  'place-bhoramdeo-temple': ['Stone tower of Bhoramdeo Temple in Chhattisgarh', ['Bhoramdeo Temple']],
+  'place-dudhsagar-falls': ['Dudhsagar Falls flowing over forested hills in Goa', ['Dudhsagar Falls']],
+  'place-belur': ['Exterior of the Chennakeshava Temple complex at Belur', ['Belur']],
+  'place-ellora-caves': ['Rock-cut Kailasa Temple at Ellora Caves', ['Ellora Caves']],
+  'place-qutb-shahi-tombs': ['A small historic tomb at the Qutb Shahi Tombs complex', ['Qutb Shahi Tombs']],
+  'place-qutub-minar': ['Full height of Qutub Minar in Delhi', ['Qutub Minar']],
+  'place-kedarnath': ['Pilgrims approaching Kedarnath Temple in Uttarakhand', ['Kedarnath']],
+  'place-fatehpur-sikri': ['Panch Mahal inside the historic Fatehpur Sikri complex', ['Fatehpur Sikri']],
+  'place-humayuns-tomb': ['Humayun’s Tomb reflected in a pool in Delhi', ['Humayun’s Tomb']]
 };
 const catalogue = {};
 const reviewedToday = new Set([...['himachal-pradesh', 'jammu-kashmir', 'kerala', 'rajasthan', 'andhra-pradesh', 'bihar', 'goa', 'gujarat', 'karnataka', 'maharashtra', 'punjab', 'tamil-nadu', 'uttar-pradesh', 'west-bengal'].map(slug => `dest-${slug}`), 'festival-diwali', 'festival-holi', 'festival-onam', 'festival-pongal', 'festival-baisakhi', 'food-karnataka', 'dance-manipuri', 'dance-sattriya']);
 const reviewedNow = new Set(Object.keys(approvals).filter(id => /^(?:food-(?:bisi-bele-bath|ragi-mudde|neer-dosa|jolada-rotti|mysore-pak|mangalore-buns|dharwad-peda|dham|siddu|madra|udupi-cuisine|kundapura-chicken)|culture-(?:nati-dance|pahari-miniature-art|yakshagana|dollu-kunitha|channapatna-toys|ilkal-sarees|bidriware)|festival-(?:kullu-dussehra|minjar-fair|hemis-festival|ladakh-festival|losar)|place-(?:leh-palace|nubra-valley|hemis-monastery|alchi-monastery))$/.test(id)));
+const reviewedOn25th = new Set(['cellular-jail','shaheed-dweep','chidiya-tapu','wandoor','aizawl','reiek','vantawng-falls','phawngpui','tam-dil','kolkata','darjeeling','sundarbans','santiniketan','bishnupur','majuli','kanger-valley-national-park','rani-ki-vav','sultanpur-national-park','betla-national-park','alappuzha','jallianwala-bagh','chennai','neermahal','rishikesh','red-fort','promenade-beach','rock-garden','sanchi','ziro-valley','agatti','fontainhas','bandipur-national-park','keibul-lamjao-national-park','shillong','kohima','gangtok','puri','golconda-fort','diu-fort'].map(name => `place-${name}`));
+for (const id of ['food-machher-jhol','food-shorshe-ilish','food-kolkata-biryani','food-kathi-roll','food-mishti-doi','food-rosogolla','culture-cheraw-dance','festival-chapchar-kut','food-dal-baati-churma','culture-ghoomar','festival-pushkar-fair']) reviewedOn25th.add(id);
+const reviewedOn26th = new Set(['food-vada-pav','culture-lavani','festival-ganesh-chaturthi','food-litti-chokha','culture-madhubani-painting','place-lepakshi','place-nalanda','place-modhera-sun-temple','place-bhimbetka','place-ajanta-caves','place-rumtek-monastery','place-ramappa-temple','place-unakoti','place-bhoramdeo-temple','place-dudhsagar-falls','place-belur','place-ellora-caves','place-qutb-shahi-tombs','place-qutub-minar','place-kedarnath','place-fatehpur-sikri','place-humayuns-tomb']);
 await mkdir('frontend/images/reviewed', { recursive: true });
 await mkdir('frontend/data', { recursive: true });
 for (const [id, [alt, subjects]] of Object.entries(approvals)) {
@@ -129,8 +204,13 @@ for (const [id, [alt, subjects]] of Object.entries(approvals)) {
   const licence = original.license;
   const version = licence.match(/(\d\.\d)/)?.[1];
   const licenseUrl = licence === 'CC0' ? 'https://creativecommons.org/publicdomain/zero/1.0/' : licence === 'Public domain' ? original.source : `https://creativecommons.org/licenses/${licence.includes('BY-SA') ? 'by-sa' : 'by'}/${version}/`;
-  const reviewedAt = reviewedNow.has(id) ? '2026-09-24' : reviewedToday.has(id) || id.startsWith('place-') ? '2026-09-23' : '2026-09-17';
+  const reviewedAt = reviewedOn26th.has(id) ? '2026-09-26' : reviewedOn25th.has(id) ? '2026-09-25' : reviewedNow.has(id) ? '2026-09-24' : reviewedToday.has(id) || id.startsWith('place-') ? '2026-09-23' : '2026-09-17';
   catalogue[id] = { id, alt, subjects, ...(id === 'festival-losar' ? { destinationSlugs:['ladakh'] } : {}), src: variants[1].src, variants, width: variants[1].width, height: variants[1].height, source: original.source, title: original.title, creator: original.creator, license: licence, licenseUrl, originalFile: original.file, originalSha256: createHash('sha256').update(buffer).digest('hex'), reviewedAt, review: 'Local photograph visually checked against its recorded Commons title; original attribution imported from the existing source manifest.', changes: 'Resized and converted to WebP. Cropped by layout on cards; full aspect ratio in detail view.' };
+}
+// A shared name does not make a festival photograph a photograph of its dish.
+catalogue['festival-pongal'].kinds = ['festivals'];
+for (const record of Object.values(catalogue)) {
+  if (record.id.startsWith('food-')) record.kinds = ['food'];
 }
 await writeFile('frontend/data/media.json', JSON.stringify(catalogue, null, 2) + '\n');
 console.log(`Built ${Object.keys(catalogue).length} explicitly reviewed image records and responsive variants.`);

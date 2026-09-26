@@ -67,7 +67,89 @@ const selected = {
   'culture-dollu-kunitha': 'Dollu kunita.jpg',
   'culture-channapatna-toys': 'Channapatna toys104.jpg',
   'culture-ilkal-sarees': 'Ilkal saree.jpg',
-  'culture-bidriware': 'Bidri ware art in craft museum.JPG'
+  'culture-bidriware': 'Bidri ware art in craft museum.JPG',
+  'place-cellular-jail': 'Cellular Jail Andaman outside view.jpg',
+  'place-shaheed-dweep': 'Shaheed Island, Andaman Islands, Tropical beach.jpg',
+  'place-chidiya-tapu': 'Chidiya tapu sunset, Andaman.jpg',
+  'place-wandoor': 'Wandoor Beach, Andaman & Nicobar Islands.jpg',
+  'place-aizawl': 'Aizawl City in 2023.jpg',
+  'place-reiek': 'Reiek Tlang Mamit Mizoram.jpg',
+  'place-vantawng-falls': 'Vantawng Falls, Mizoram.jpg',
+  'place-phawngpui': 'Phawngpui national park.jpg',
+  'place-tam-dil': 'Tam Dil Lake in Saitual.jpg',
+  'place-kolkata': 'Kolkata skyline at night.jpg',
+  'place-darjeeling': 'Darjeeling, India, Tea plantations on hills.jpg',
+  'place-sundarbans': 'Tourist Boat in Sundarbans, West Bengal, India 03.jpg',
+  'place-santiniketan': 'Shantiniketan Bari of Rabindranath Tagore.jpg',
+  'place-bishnupur': 'Rasmancha Temple of Bishnupur, West Bengal, India.jpg',
+  'place-majuli': 'Doriya River of Majuli.jpg',
+  'place-kanger-valley-national-park': 'Kanger valley National Park.png',
+  'place-fontainhas': 'Road along Vasco-da-gama residence in Fontainhas, Panaji.jpg',
+  'place-rani-ki-vav': 'Rani ki vav 02.jpg',
+  'place-sultanpur-national-park': 'Sultanpur Bird Sanctuary, Gurgaon.jpg',
+  'place-betla-national-park': 'Entrance of Betla national park.jpg',
+  'place-bandipur-national-park': 'Bandipur Forest Landscape.jpg',
+  'place-alappuzha': 'Alappuzha Boat Beauty W.jpg',
+  'place-jallianwala-bagh': 'Jallianwala Bagh, Amritsar 01.jpg',
+  'place-chennai': 'Chennai Central.jpg',
+  'place-neermahal': 'Neer Mahal, the water palace of Tripura 02.jpg',
+  'place-rishikesh': 'Trayambakeshwar Temple VK.jpg',
+  'place-red-fort': 'Delhi fort.jpg',
+  'place-promenade-beach': 'Pondicherry-Rock beach aerial view.jpg',
+  'place-rock-garden': 'Chandigarh Rock Garden 4.jpg',
+  'place-sanchi': 'East Gateway - Stupa 1 - Sanchi Hill 2013-02-21 4398.JPG',
+  'place-ziro-valley': 'A cross section of luch green valley of Ziro.jpg',
+  'place-agatti': 'Agatti Airstrip.jpg',
+  'food-machher-jhol': 'Khaira machher jhol, cuisine of West Bengal 20200519132544.jpg',
+  'food-shorshe-ilish': 'Shorshe Ilish.jpg',
+  'food-kolkata-biryani': 'Kolkata mutton biryani.jpg',
+  'food-kathi-roll': 'Paneer kathi roll homemade.jpg',
+  'food-mishti-doi': 'Mishti Doi.jpg',
+  'food-rosogolla': 'Rosogolla 2.jpg',
+  'culture-cheraw-dance': 'Cheraw Mizoram.jpg',
+  'festival-chapchar-kut': 'CHAPCHAR KUT 2013.jpg',
+  'place-keibul-lamjao-national-park': 'THE FLOATING NATIONAL PARK- The Keibul Lamjao National Park, Manipur.jpg',
+  'place-shillong': 'Shillong City View.jpg',
+  'place-kohima': 'Top view of Kohima.jpg',
+  'place-gangtok': 'View of Gangtok city from Ropeway.jpg',
+  'place-puri': 'Jagannath Temple, Puri 04.jpg',
+  'place-golconda-fort': 'Golconda Fort and Hyderabad city.jpg',
+  'place-diu-fort': 'Diu Fortress, Jan. 2010.jpg',
+  'food-dal-baati-churma': 'Dal Baati Churma.jpg',
+  'culture-ghoomar': 'Udaipur Ghoomar Folk Dance.jpg',
+  'festival-pushkar-fair': '(A) Camel Pushkar fair.jpg',
+  'food-vada-pav': 'Aran Vada Pav Mumbai.jpg',
+  'culture-lavani': 'Lavani Dance.jpg',
+  'festival-ganesh-chaturthi': 'Ganesh Chaturthi Festival (269).jpg',
+  'food-litti-chokha': 'Litti Chokha 2.jpg',
+  'culture-madhubani-painting': 'Dilli Haat Madhubani Mithila Painting Artist.jpg',
+  'place-lepakshi': 'Sculpture at the Veerabhadra Temple, Lepakshi, Andhra Pradesh, India a2.jpg',
+  'place-nalanda': 'Temple 3 - Sariputta Stupa - Nalanda Mahavihara (10).jpg',
+  'place-modhera-sun-temple': 'Sun Temple, Modhera 08.jpg',
+  'place-bhimbetka': 'Rock Shelter 8, Bhimbetka 02.jpg',
+  'place-ajanta-caves': 'Cave 26, Ajanta.jpg',
+  'place-rumtek-monastery': 'Rumtek Monastery seen from across courtyard, Sikkim.jpg',
+  'place-ramappa-temple': 'WHS Ramappa Temple 1.jpg',
+  'place-unakoti': 'Unakoti.jpg',
+  'place-bhoramdeo-temple': '11th century Bhoramdeo temple Kawardha, Chhattisgarh - 117.jpg',
+  'place-dudhsagar-falls': 'Dudhsagar Falls, Goa (51821730751).jpg',
+  'place-belur': '12th-century Belur Hindu temples complex, exterior.jpg',
+  'place-ellora-caves': 'Ellora Caves, India, Kailasanatha Temple 2.jpg',
+  'place-qutb-shahi-tombs': 'Qutb Shahi Tombs - small tomb.jpg',
+  'place-qutub-minar': 'Qutb Minar tower.jpg',
+  'place-kedarnath': 'Kedarnath Temple in Uttarakhand, India, by Yogabrata Chakraborty.jpg',
+  'place-fatehpur-sikri': 'Panch Mahal-Fatehpur-Fatehpur Sikri India0014.JPG',
+  'place-humayuns-tomb': "Humayun's Tomb, Delhi 1.jpg",
+  'food-idli': 'Idli.jpg',
+  'food-dosa': 'Dosa 01.jpg',
+  'food-sambar': 'Indian Sambar.jpg',
+  'food-pongal': 'Ven Pongal with cashew.jpg',
+  'food-dhokla': 'Dhokla 6.jpg',
+  'food-khandvi': 'Khandvi, Gujarati snack.jpg',
+  'food-undhiyu': 'Undhiyu.jpg',
+  'food-thepla': 'Thepla 2.jpg',
+  'food-handvo': 'Handvo Gujarati Food.jpg',
+  'food-khaman': 'SPECIAL SURATI KHAMAN.jpg'
 };
 const directory = join(process.cwd(), 'frontend/images/commons');
 await mkdir(directory, { recursive: true });
@@ -85,17 +167,19 @@ async function request(url) {
   throw new Error('Commons rate limit persisted after retries');
 }
 
-for (const [slug, title] of Object.entries(selected)) {
-  if (requested.size && !requested.has(slug)) continue;
-  const params = new URLSearchParams({ action: 'query', titles: `File:${title}`, prop: 'imageinfo', iiprop: 'url|mime|size|extmetadata', iiurlwidth: '1200', format: 'json' });
-  let page;
-  for (let attempt = 0; attempt < 5; attempt++) {
-    const response = await request(`https://commons.wikimedia.org/w/api.php?${params}`);
-    if (!response.ok) throw new Error(`${slug}: metadata request failed (${response.status})`);
-    page = Object.values((await response.json()).query?.pages || {})[0];
-    if (page?.imageinfo?.[0]) break;
-    await pause(5000 * (attempt + 1));
-  }
+const entries = Object.entries(selected).filter(([slug]) => !requested.size || requested.has(slug));
+const pages = new Map();
+// Batch exact-title metadata lookups to avoid one API request per photograph.
+for (let start = 0; start < entries.length; start += 20) {
+  const params = new URLSearchParams({ action: 'query', titles: entries.slice(start, start + 20).map(([, title]) => `File:${title}`).join('|'), prop: 'imageinfo', iiprop: 'url|mime|size|extmetadata', iiurlwidth: '1200', format: 'json' });
+  const response = await request(`https://commons.wikimedia.org/w/api.php?${params}`);
+  if (!response.ok) throw new Error(`Metadata request failed (${response.status})`);
+  const result = await response.json();
+  for (const page of Object.values(result.query?.pages || {})) pages.set(page.title, page);
+  for (const normal of result.query?.normalized || []) pages.set(normal.from, pages.get(normal.to));
+}
+for (const [slug, title] of entries) {
+  const page = pages.get(`File:${title}`);
   const info = page?.imageinfo?.[0];
   const metadata = info?.extmetadata || {};
   const license = clean(metadata.LicenseShortName?.value || metadata.UsageTerms?.value);

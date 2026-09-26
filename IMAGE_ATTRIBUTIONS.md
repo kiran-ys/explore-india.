@@ -833,3 +833,579 @@ The photographs below are credited to their named creators. Follow each source l
 - Creator: Peter Kason
 - License: CC BY-SA 4.0
 - Source: https://commons.wikimedia.org/wiki/File:Ladakh%27s_New_Year.jpg
+
+## place-cellular-jail
+
+- File: `images/commons/place-cellular-jail.jpg`
+- Title: Cellular Jail Andaman outside view.jpg
+- Creator: SameerMarathe25
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Cellular_Jail_Andaman_outside_view.jpg
+
+## place-shaheed-dweep
+
+- File: `images/commons/place-shaheed-dweep.jpg`
+- Title: Shaheed Island, Andaman Islands, Tropical beach.jpg
+- Creator: Vyacheslav Argenberg
+- License: CC BY 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Shaheed_Island,_Andaman_Islands,_Tropical_beach.jpg
+
+## place-chidiya-tapu
+
+- File: `images/commons/place-chidiya-tapu.jpg`
+- Title: Chidiya tapu sunset, Andaman.jpg
+- Creator: Sudeshnas25
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Chidiya_tapu_sunset,_Andaman.jpg
+
+## place-wandoor
+
+- File: `images/commons/place-wandoor.jpg`
+- Title: Wandoor Beach, Andaman & Nicobar Islands.jpg
+- Creator: Ritu Kulshrestha
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Wandoor_Beach,_Andaman_%26_Nicobar_Islands.jpg
+
+## place-aizawl
+
+- File: `images/commons/place-aizawl.jpg`
+- Title: Aizawl City in 2023.jpg
+- Creator: Robjersey
+- License: CC0
+- Source: https://commons.wikimedia.org/wiki/File:Aizawl_City_in_2023.jpg
+
+## place-reiek
+
+- File: `images/commons/place-reiek.jpg`
+- Title: Reiek Tlang Mamit Mizoram.jpg
+- Creator: Joe Fanai from Lunglei, India
+- License: CC BY 2.0
+- Source: https://commons.wikimedia.org/wiki/File:Reiek_Tlang_Mamit_Mizoram.jpg
+
+## place-vantawng-falls
+
+- File: `images/commons/place-vantawng-falls.jpg`
+- Title: Vantawng Falls, Mizoram.jpg
+- Creator: Didini Tochhawng
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Vantawng_Falls,_Mizoram.jpg
+
+## place-phawngpui
+
+- File: `images/commons/place-phawngpui.jpg`
+- Title: Phawngpui national park.jpg
+- Creator: Garima Singh
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Phawngpui_national_park.jpg
+
+## place-tam-dil
+
+- File: `images/commons/place-tam-dil.jpg`
+- Title: Tam Dil Lake in Saitual.jpg
+- Creator: Georgeluvpotato
+- License: CC0
+- Source: https://commons.wikimedia.org/wiki/File:Tam_Dil_Lake_in_Saitual.jpg
+
+## place-kolkata
+
+- File: `images/commons/place-kolkata.jpg`
+- Title: Kolkata skyline at night.jpg
+- Creator: DeepanjanGhosh
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Kolkata_skyline_at_night.jpg
+
+## place-darjeeling
+
+- File: `images/commons/place-darjeeling.jpg`
+- Title: Darjeeling, India, Tea plantations on hills.jpg
+- Creator: Vyacheslav Argenberg
+- License: CC BY 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Darjeeling,_India,_Tea_plantations_on_hills.jpg
+
+## place-sundarbans
+
+- File: `images/commons/place-sundarbans.jpg`
+- Title: Tourist Boat in Sundarbans, West Bengal, India 03.jpg
+- Creator: Kingshuk Mondal
+- License: CC BY 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Tourist_Boat_in_Sundarbans,_West_Bengal,_India_03.jpg
+
+## place-santiniketan
+
+- File: `images/commons/place-santiniketan.jpg`
+- Title: Shantiniketan Bari of Rabindranath Tagore.jpg
+- Creator: Billjones94
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Shantiniketan_Bari_of_Rabindranath_Tagore.jpg
+
+## place-bishnupur
+
+- File: `images/commons/place-bishnupur.jpg`
+- Title: Rasmancha Temple of Bishnupur, West Bengal, India.jpg
+- Creator: Rounakkayal
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Rasmancha_Temple_of_Bishnupur,_West_Bengal,_India.jpg
+
+## place-majuli
+
+- File: `images/commons/place-majuli.jpg`
+- Title: Doriya River of Majuli.jpg
+- Creator: Dhrubazaan Photography
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Doriya_River_of_Majuli.jpg
+
+## place-kanger-valley-national-park
+
+- File: `images/commons/place-kanger-valley-national-park.jpg`
+- Title: Kanger valley National Park.png
+- Creator: VishuN
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Kanger_valley_National_Park.png
+
+## place-rani-ki-vav
+
+- File: `images/commons/place-rani-ki-vav.jpg`
+- Title: Rani ki vav 02.jpg
+- Creator: Bernard Gagnon
+- License: CC BY-SA 3.0
+- Source: https://commons.wikimedia.org/wiki/File:Rani_ki_vav_02.jpg
+
+## place-sultanpur-national-park
+
+- File: `images/commons/place-sultanpur-national-park.jpg`
+- Title: Sultanpur Bird Sanctuary, Gurgaon.jpg
+- Creator: Vishalbhatia93
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Sultanpur_Bird_Sanctuary,_Gurgaon.jpg
+
+## place-betla-national-park
+
+- File: `images/commons/place-betla-national-park.jpg`
+- Title: Entrance of Betla national park.jpg
+- Creator: Marian kispotta
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Entrance_of_Betla_national_park.jpg
+
+## place-alappuzha
+
+- File: `images/commons/place-alappuzha.jpg`
+- Title: Alappuzha Boat Beauty W.jpg
+- Creator: Augustus Binu/ facebook
+- License: CC BY-SA 3.0
+- Source: https://commons.wikimedia.org/wiki/File:Alappuzha_Boat_Beauty_W.jpg
+
+## place-jallianwala-bagh
+
+- File: `images/commons/place-jallianwala-bagh.jpg`
+- Title: Jallianwala Bagh, Amritsar 01.jpg
+- Creator: Bernard Gagnon
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Jallianwala_Bagh,_Amritsar_01.jpg
+
+## place-chennai
+
+- File: `images/commons/place-chennai.jpg`
+- Title: Chennai Central.jpg
+- Creator: jamal haider from india
+- License: CC BY-SA 2.0
+- Source: https://commons.wikimedia.org/wiki/File:Chennai_Central.jpg
+
+## place-neermahal
+
+- File: `images/commons/place-neermahal.jpg`
+- Title: Neer Mahal, the water palace of Tripura 02.jpg
+- Creator: Kingshuk Mondal
+- License: CC BY 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Neer_Mahal,_the_water_palace_of_Tripura_02.jpg
+
+## place-rishikesh
+
+- File: `images/commons/place-rishikesh.jpg`
+- Title: Trayambakeshwar Temple VK.jpg
+- Creator: VK1983
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Trayambakeshwar_Temple_VK.jpg
+
+## food-machher-jhol
+
+- File: `images/commons/food-machher-jhol.jpg`
+- Title: Khaira machher jhol, cuisine of West Bengal 20200519132544.jpg
+- Creator: বাক্যবাগীশ
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Khaira_machher_jhol,_cuisine_of_West_Bengal_20200519132544.jpg
+
+## food-shorshe-ilish
+
+- File: `images/commons/food-shorshe-ilish.jpg`
+- Title: Shorshe Ilish.jpg
+- Creator: Kirti Poddar
+- License: CC BY 2.0
+- Source: https://commons.wikimedia.org/wiki/File:Shorshe_Ilish.jpg
+
+## food-kolkata-biryani
+
+- File: `images/commons/food-kolkata-biryani.jpg`
+- Title: Kolkata mutton biryani.jpg
+- Creator: DeepanjanGhosh
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Kolkata_mutton_biryani.jpg
+
+## food-kathi-roll
+
+- File: `images/commons/food-kathi-roll.jpg`
+- Title: Paneer kathi roll homemade.jpg
+- Creator: Shafana jasmine
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Paneer_kathi_roll_homemade.jpg
+
+## food-mishti-doi
+
+- File: `images/commons/food-mishti-doi.jpg`
+- Title: Mishti Doi.jpg
+- Creator: Kirti Poddar
+- License: CC BY 2.0
+- Source: https://commons.wikimedia.org/wiki/File:Mishti_Doi.jpg
+
+## culture-cheraw-dance
+
+- File: `images/commons/culture-cheraw-dance.jpg`
+- Title: Cheraw Mizoram.jpg
+- Creator: Ramesh Lalwani
+- License: CC BY 2.0
+- Source: https://commons.wikimedia.org/wiki/File:Cheraw_Mizoram.jpg
+
+## festival-chapchar-kut
+
+- File: `images/commons/festival-chapchar-kut.jpg`
+- Title: CHAPCHAR KUT 2013.jpg
+- Creator: Anup Rou
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:CHAPCHAR_KUT_2013.jpg
+
+## food-rosogolla
+
+- File: `images/commons/food-rosogolla.jpg`
+- Title: Rosogolla 2.jpg
+- Creator: Photosticlife
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Rosogolla_2.jpg
+
+## place-red-fort
+
+- File: `images/commons/place-red-fort.jpg`
+- Title: Delhi fort.jpg
+- Creator: PerSona77
+- License: CC BY-SA 3.0
+- Source: https://commons.wikimedia.org/wiki/File:Delhi_fort.jpg
+
+## place-promenade-beach
+
+- File: `images/commons/place-promenade-beach.jpg`
+- Title: Pondicherry-Rock beach aerial view.jpg
+- Creator: Karthik Easvur
+- License: CC BY-SA 3.0
+- Source: https://commons.wikimedia.org/wiki/File:Pondicherry-Rock_beach_aerial_view.jpg
+
+## place-rock-garden
+
+- File: `images/commons/place-rock-garden.jpg`
+- Title: Chandigarh Rock Garden 4.jpg
+- Creator: Ijon
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Chandigarh_Rock_Garden_4.jpg
+
+## place-sanchi
+
+- File: `images/commons/place-sanchi.jpg`
+- Title: East Gateway - Stupa 1 - Sanchi Hill 2013-02-21 4398.JPG
+- Creator: Biswarup Ganguly
+- License: CC BY 3.0
+- Source: https://commons.wikimedia.org/wiki/File:East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4398.JPG
+
+## place-ziro-valley
+
+- File: `images/commons/place-ziro-valley.jpg`
+- Title: A cross section of luch green valley of Ziro.jpg
+- Creator: Arunachal2007
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:A_cross_section_of_luch_green_valley_of_Ziro.jpg
+
+## place-agatti
+
+- File: `images/commons/place-agatti.jpg`
+- Title: Agatti Airstrip.jpg
+- Creator: Julio
+- License: CC BY-SA 2.0
+- Source: https://commons.wikimedia.org/wiki/File:Agatti_Airstrip.jpg
+
+## place-fontainhas
+
+- File: `images/commons/place-fontainhas.jpg`
+- Title: Road along Vasco-da-gama residence in Fontainhas, Panaji.jpg
+- Creator: iMahesh
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Road_along_Vasco-da-gama_residence_in_Fontainhas,_Panaji.jpg
+
+## place-bandipur-national-park
+
+- File: `images/commons/place-bandipur-national-park.jpg`
+- Title: Bandipur Forest Landscape.jpg
+- Creator: Rinyogi03
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Bandipur_Forest_Landscape.jpg
+
+## place-keibul-lamjao-national-park
+
+- File: `images/commons/place-keibul-lamjao-national-park.jpg`
+- Title: THE FLOATING NATIONAL PARK- The Keibul Lamjao National Park, Manipur.jpg
+- Creator: Ranjan Jyoti Dutta
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:THE_FLOATING_NATIONAL_PARK-_The_Keibul_Lamjao_National_Park,_Manipur.jpg
+
+## place-shillong
+
+- File: `images/commons/place-shillong.jpg`
+- Title: Shillong City View.jpg
+- Creator: ANKAN
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Shillong_City_View.jpg
+
+## place-kohima
+
+- File: `images/commons/place-kohima.jpg`
+- Title: Top view of Kohima.jpg
+- Creator: Chinmayisk
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Top_view_of_Kohima.jpg
+
+## place-gangtok
+
+- File: `images/commons/place-gangtok.jpg`
+- Title: View of Gangtok city from Ropeway.jpg
+- Creator: Subhrajyoti07
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:View_of_Gangtok_city_from_Ropeway.jpg
+
+## place-puri
+
+- File: `images/commons/place-puri.jpg`
+- Title: Jagannath Temple, Puri 04.jpg
+- Creator: Bernard Gagnon
+- License: CC BY-SA 3.0
+- Source: https://commons.wikimedia.org/wiki/File:Jagannath_Temple,_Puri_04.jpg
+
+## place-golconda-fort
+
+- File: `images/commons/place-golconda-fort.jpg`
+- Title: Golconda Fort and Hyderabad city.jpg
+- Creator: iMahesh
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Golconda_Fort_and_Hyderabad_city.jpg
+
+## place-diu-fort
+
+- File: `images/commons/place-diu-fort.jpg`
+- Title: Diu Fortress, Jan. 2010.jpg
+- Creator: Rituraj.bharti
+- License: CC BY-SA 3.0
+- Source: https://commons.wikimedia.org/wiki/File:Diu_Fortress,_Jan._2010.jpg
+
+## food-dal-baati-churma
+
+- File: `images/commons/food-dal-baati-churma.jpg`
+- Title: Dal Baati Churma.jpg
+- Creator: Harshmander Rastogi
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Dal_Baati_Churma.jpg
+
+## culture-ghoomar
+
+- File: `images/commons/culture-ghoomar.jpg`
+- Title: Udaipur Ghoomar Folk Dance.jpg
+- Creator: Pallav.journo
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Udaipur_Ghoomar_Folk_Dance.jpg
+
+## food-vada-pav
+
+- File: `images/commons/food-vada-pav.jpg`
+- Title: Aran Vada Pav Mumbai.jpg
+- Creator: Jpatokal
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Aran_Vada_Pav_Mumbai.jpg
+
+## culture-lavani
+
+- File: `images/commons/culture-lavani.jpg`
+- Title: Lavani Dance.jpg
+- Creator: Ramesh Lalwani
+- License: CC BY 2.0
+- Source: https://commons.wikimedia.org/wiki/File:Lavani_Dance.jpg
+
+## festival-ganesh-chaturthi
+
+- File: `images/commons/festival-ganesh-chaturthi.jpg`
+- Title: Ganesh Chaturthi Festival (269).jpg
+- Creator: AmanAgrahari01
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Ganesh_Chaturthi_Festival_(269).jpg
+
+## food-litti-chokha
+
+- File: `images/commons/food-litti-chokha.jpg`
+- Title: Litti Chokha 2.jpg
+- Creator: Eddie Stann
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Litti_Chokha_2.jpg
+
+## culture-madhubani-painting
+
+- File: `images/commons/culture-madhubani-painting.jpg`
+- Title: Dilli Haat Madhubani Mithila Painting Artist.jpg
+- Creator: Pallav.journo
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Dilli_Haat_Madhubani_Mithila_Painting_Artist.jpg
+
+## festival-pushkar-fair
+
+- File: `images/commons/festival-pushkar-fair.jpg`
+- Title: (A) Camel Pushkar fair.jpg
+- Creator: sheetal saini
+- License: CC BY 2.0
+- Source: https://commons.wikimedia.org/wiki/File:(A)_Camel_Pushkar_fair.jpg
+
+## place-lepakshi
+
+- File: `images/commons/place-lepakshi.jpg`
+- Title: Sculpture at the Veerabhadra Temple, Lepakshi, Andhra Pradesh, India a2.jpg
+- Creator: L. Shyamal
+- License: Public domain
+- Source: https://commons.wikimedia.org/wiki/File:Sculpture_at_the_Veerabhadra_Temple,_Lepakshi,_Andhra_Pradesh,_India_a2.jpg
+
+## place-modhera-sun-temple
+
+- File: `images/commons/place-modhera-sun-temple.jpg`
+- Title: Sun Temple, Modhera 08.jpg
+- Creator: Bernard Gagnon
+- License: CC BY-SA 3.0
+- Source: https://commons.wikimedia.org/wiki/File:Sun_Temple,_Modhera_08.jpg
+
+## place-bhimbetka
+
+- File: `images/commons/place-bhimbetka.jpg`
+- Title: Rock Shelter 8, Bhimbetka 02.jpg
+- Creator: Bernard Gagnon
+- License: CC BY-SA 3.0
+- Source: https://commons.wikimedia.org/wiki/File:Rock_Shelter_8,_Bhimbetka_02.jpg
+
+## place-ramappa-temple
+
+- File: `images/commons/place-ramappa-temple.jpg`
+- Title: WHS Ramappa Temple 1.jpg
+- Creator: Khushi Shah 280
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:WHS_Ramappa_Temple_1.jpg
+
+## place-ajanta-caves
+
+- File: `images/commons/place-ajanta-caves.jpg`
+- Title: Cave 26, Ajanta.jpg
+- Creator: Dey.sandip
+- License: CC BY-SA 3.0
+- Source: https://commons.wikimedia.org/wiki/File:Cave_26,_Ajanta.jpg
+
+## place-nalanda
+
+- File: `images/commons/place-nalanda.jpg`
+- Title: Temple 3 - Sariputta Stupa - Nalanda Mahavihara (10).jpg
+- Creator: Sumitsurai
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Temple_3_-_Sariputta_Stupa_-_Nalanda_Mahavihara_(10).jpg
+
+## place-rumtek-monastery
+
+- File: `images/commons/place-rumtek-monastery.jpg`
+- Title: Rumtek Monastery seen from across courtyard, Sikkim.jpg
+- Creator: Kandell, Alice S., photographer
+- License: CC0
+- Source: https://commons.wikimedia.org/wiki/File:Rumtek_Monastery_seen_from_across_courtyard,_Sikkim.jpg
+
+## place-unakoti
+
+- File: `images/commons/place-unakoti.jpg`
+- Title: Unakoti.jpg
+- Creator: Vulpes-bengalensis
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Unakoti.jpg
+
+## place-bhoramdeo-temple
+
+- File: `images/commons/place-bhoramdeo-temple.jpg`
+- Title: 11th century Bhoramdeo temple Kawardha, Chhattisgarh - 117.jpg
+- Creator: Ms Sarah Welch
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:11th_century_Bhoramdeo_temple_Kawardha,_Chhattisgarh_-_117.jpg
+
+## place-dudhsagar-falls
+
+- File: `images/commons/place-dudhsagar-falls.jpg`
+- Title: Dudhsagar Falls, Goa (51821730751).jpg
+- Creator: solarisgirl
+- License: CC BY-SA 2.0
+- Source: https://commons.wikimedia.org/wiki/File:Dudhsagar_Falls,_Goa_(51821730751).jpg
+
+## place-ellora-caves
+
+- File: `images/commons/place-ellora-caves.jpg`
+- Title: Ellora Caves, India, Kailasanatha Temple 2.jpg
+- Creator: Vyacheslav Argenberg
+- License: CC BY 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Ellora_Caves,_India,_Kailasanatha_Temple_2.jpg
+
+## place-qutb-shahi-tombs
+
+- File: `images/commons/place-qutb-shahi-tombs.jpg`
+- Title: Qutb Shahi Tombs - small tomb.jpg
+- Creator: Bernard Gagnon
+- License: CC BY-SA 3.0
+- Source: https://commons.wikimedia.org/wiki/File:Qutb_Shahi_Tombs_-_small_tomb.jpg
+
+## place-belur
+
+- File: `images/commons/place-belur.jpg`
+- Title: 12th-century Belur Hindu temples complex, exterior.jpg
+- Creator: Ms Sarah Welch
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:12th-century_Belur_Hindu_temples_complex,_exterior.jpg
+
+## place-kedarnath
+
+- File: `images/commons/place-kedarnath.jpg`
+- Title: Kedarnath Temple in Uttarakhand, India, by Yogabrata Chakraborty.jpg
+- Creator: Billjones94
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Kedarnath_Temple_in_Uttarakhand,_India,_by_Yogabrata_Chakraborty.jpg
+
+## place-humayuns-tomb
+
+- File: `images/commons/place-humayuns-tomb.jpg`
+- Title: Humayun's Tomb, Delhi 1.jpg
+- Creator: Naveen R Gowda
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Humayun%27s_Tomb,_Delhi_1.jpg
+
+## place-fatehpur-sikri
+
+- File: `images/commons/place-fatehpur-sikri.jpg`
+- Title: Panch Mahal-Fatehpur-Fatehpur Sikri India0014.JPG
+- Creator: Diego Delso
+- License: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Panch_Mahal-Fatehpur-Fatehpur_Sikri_India0014.JPG
+
+## place-qutub-minar
+
+- File: `images/commons/place-qutub-minar.jpg`
+- Title: Qutb Minar tower.jpg
+- Creator: Ondřej Žváček
+- License: CC BY 2.5
+- Source: https://commons.wikimedia.org/wiki/File:Qutb_Minar_tower.jpg
